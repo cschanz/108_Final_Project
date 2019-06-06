@@ -1,312 +1,661 @@
-,movie_name,production_year,movie_odid,production_budget,domestic_box_office,international_box_office,rating,creative_type,source,production_method,genre,sequel,running_time,revenue,profit
-1,Krrish,2006,58540100,10000000,1430721,31000000,Not Rated,Science Fiction,Original Screenplay,Live Action,Action,1.0,,32430721,22430721
-13,Crank,2006,19850100,12000000,27838408,16086515,R,Contemporary Fiction,Original Screenplay,Live Action,Action,0.0,88.0,43924923,31924923
-26,The Marine,2006,26360100,15000000,18844784,3320824,PG-13,Contemporary Fiction,Original Screenplay,Live Action,Action,0.0,,22165608,7165608
-40,Running Scared,2006,42740100,17000000,6855137,2873951,R,Contemporary Fiction,Original Screenplay,Live Action,Action,0.0,,9729088,-7270912
-44,Renaissance,2006,83460100,18000000,70644,2330769,R,Science Fiction,Original Screenplay,Digital Animation,Action,0.0,105.0,2401413,-15598587
-63,BloodRayne,2006,54100100,25000000,2405420,1306213,R,Fantasy,Based on Game,Live Action,Action,0.0,92.0,3711633,-21288367
-74,Ultraviolet,2006,26670100,30000000,18522064,12440048,PG-13,Science Fiction,Original Screenplay,Live Action,Action,0.0,,30962112,962112
-76,Wu ji,2006,64990100,30000000,669625,35200309,PG-13,Fantasy,Original Screenplay,Live Action,Action,0.0,,35869934,5869934
-92,Alex Rider: Operation Stormbreaker,2006,65100100,40000000,659210,20063240,PG,Contemporary Fiction,Based on Fiction Book/Short Story,Live Action,Action,0.0,,20722450,-19277550
-96,Apocalypto,2006,130090100,40000000,50866635,70165637,R,Historical Fiction,Original Screenplay,Live Action,Action,0.0,138.0,121032272,81032272
-101,Underworld: Evolution,2006,8340100,45000000,62318875,51098887,R,Fantasy,Original Screenplay,Live Action,Action,1.0,,113417762,68417762
-103,Man cheng jin dai huang jin jia,2006,43270100,45000000,6566773,70337656,R,Historical Fiction,Based on Play,Live Action,Action,0.0,,76904429,31904429
-105,16 Blocks,2006,130180100,45000000,36895141,28700000,PG-13,Contemporary Fiction,Original Screenplay,Live Action,Action,0.0,105.0,65595141,20595141
-109,V for Vendetta,2006,6980100,50000000,70511035,59703127,R,Science Fiction,Based on Comic/Graphic Novel,Live Action,Action,0.0,,130214162,80214162
-128,The Guardian,2006,9740100,70000000,55011732,39961808,PG-13,Contemporary Fiction,Original Screenplay,Live Action,Action,0.0,139.0,94973540,24973540
-144,The Fast and the Furious: Tokyo Drift,2006,8290100,85000000,62615510,95178695,PG-13,Contemporary Fiction,Based on Factual Book/Article,Live Action,Action,1.0,104.0,157794205,72794205
-147,Blood Diamond,2006,9180100,100000000,57377916,114000000,R,Historical Fiction,Original Screenplay,Live Action,Action,0.0,143.0,171377916,71377916
-149,Casino Royale,2006,1490100,102000000,167365000,427055283,PG-13,Contemporary Fiction,Based on Fiction Book/Short Story,Live Action,Action,1.0,144.0,594420283,492420283
-152,Miami Vice,2006,8150100,135000000,63478838,100339718,R,Contemporary Fiction,Based on TV,Live Action,Action,0.0,132.0,163818556,28818556
-154,Mission: Impossible III,2006,2430100,150000000,133501348,264000000,PG-13,Contemporary Fiction,Based on TV,Live Action,Action,1.0,126.0,397501348,247501348
-157,X-Men: The Last Stand,2006,620100,210000000,234362462,224898484,PG-13,Super Hero,Based on Comic/Graphic Novel,Live Action,Action,1.0,104.0,459260946,249260946
-161,Rescue Dawn,2007,45640100,10000000,5490423,1547463,PG-13,Historical Fiction,Based on Real Life Events,Live Action,Action,0.0,126.0,7037886,-2962114
-174,Gwoemul,2007,54910100,12000000,2201923,90416194,R,Science Fiction,Original Screenplay,Live Action,Action,0.0,119.0,92618117,80618117
-202,Arn - Tempelriddaren,2007,133140100,16500000,0,21404122,R,Historical Fiction,Based on Fiction Book/Short Story,Live Action,Action,0.0,139.0,21404122,4904122
-218,Death Sentence,2007,38070100,20000000,9534258,7373573,R,Contemporary Fiction,Based on Fiction Book/Short Story,Live Action,Action,0.0,105.0,16907831,-3092169
-230,Hitman,2007,14150100,24000000,39687694,59447877,R,Contemporary Fiction,Original Screenplay,Live Action,Action,0.0,95.0,99135571,75135571
-231,War,2007,23310100,25000000,22486409,18200000,R,Contemporary Fiction,Original Screenplay,Live Action,Action,0.0,103.0,40686409,15686409
-236,No Country for Old Men,2007,6530100,25000000,74273505,89762248,R,Historical Fiction,Based on Fiction Book/Short Story,Live Action,Action,0.0,122.0,164035753,139035753
-246,DOA: Dead or Alive,2007,67470100,30000000,480314,7275372,PG-13,Fantasy,Based on Game,Live Action,Action,0.0,,7755686,-22244314
-255,Dragon Wars: D-War,2007,35870100,32000000,10977721,68937640,PG-13,Fantasy,Based on Folk Tale/Legend/Fairytale,Live Action,Action,0.0,90.0,79915361,47915361
-256,TMNT,2007,9870100,35000000,54149098,41946920,PG,Science Fiction,Based on Comic/Graphic Novel,Digital Animation,Action,0.0,86.0,96096018,61096018
-262,Shoot 'Em Up,2007,33270100,39000000,12796824,14000000,R,Contemporary Fiction,Original Screenplay,Live Action,Action,0.0,87.0,26796824,-12203176
-263,Aliens vs. Predator - Requiem,2007,13340100,40000000,41797066,87087428,R,Science Fiction,Based on Movie,Live Action,Action,1.0,94.0,128884494,88884494
-271,Resident Evil: Extinction,2007,10840100,45000000,50648679,99222424,R,Science Fiction,Based on Game,Live Action,Action,1.0,95.0,149871103,104871103
-281,300,2007,129760100,60000000,210614939,243546996,R,Historical Fiction,Based on Comic/Graphic Novel,Animation/Live Action,Action,0.0,115.0,454161935,394161935
-284,The Last Legion,2007,44660100,67000000,5932060,19425711,PG-13,Historical Fiction,Based on Fiction Book/Short Story,Live Action,Action,0.0,110.0,25357771,-41642229
-287,Next,2007,26880100,70000000,18211013,55380487,PG-13,Science Fiction,Based on Fiction Book/Short Story,Live Action,Action,0.0,96.0,73591500,3591500
-289,The Kingdom,2007,11690100,72500000,47467250,39042352,R,Contemporary Fiction,Original Screenplay,Live Action,Action,0.0,111.0,86509602,14009602
-299,Live Free or Die Hard,2007,2390100,110000000,134529403,247758744,PG-13,Contemporary Fiction,Based on Fiction Book/Short Story,Live Action,Action,1.0,129.0,382288147,272288147
-300,Ghost Rider,2007,3310100,120000000,115802596,113742993,PG-13,Super Hero,Based on Comic/Graphic Novel,Live Action,Action,0.0,110.0,229545589,109545589
-301,Fantastic Four: Rise of the Silver Surfer,2007,2500100,120000000,131921738,157558953,PG,Super Hero,Based on Comic/Graphic Novel,Live Action,Action,1.0,91.0,289480691,169480691
-307,Transformers,2007,210100,151000000,319246193,389026399,PG-13,Science Fiction,Based on TV,Animation/Live Action,Action,0.0,142.0,708272592,557272592
-310,Rush Hour 3,2007,2150100,180000000,140125968,116459914,PG-13,Contemporary Fiction,Original Screenplay,Live Action,Action,1.0,91.0,256585882,76585882
-322,Joheunnom nabbeunnom isanghannom,2008,119900100,10000000,128486,42098171,R,Historical Fiction,Original Screenplay,Live Action,Action,0.0,,42226657,32226657
-340,Ong-Bak 2,2008,107740100,15000000,102458,7480592,R,Contemporary Fiction,Original Screenplay,Live Action,Action,1.0,,7583050,-7416950
-357,RocknRolla,2008,45180100,18000000,5700626,22093713,R,Contemporary Fiction,Original Screenplay,Live Action,Action,0.0,110.0,27794339,9794339
-362,Der Baader Meinhof Komplex,2008,71820100,19700000,476270,16022557,R,Dramatization,Based on Real Life Events,Live Action,Action,0.0,150.0,16498827,-3201173
-366,Three Kingdoms: Resurrection of the Dragon,2008,124190100,20000000,0,22139590,R,Historical Fiction,Based on Fiction Book/Short Story,Live Action,Action,0.0,,22139590,2139590
-387,Never Back Down,2008,21690100,21000000,24850922,14468879,PG-13,Contemporary Fiction,Original Screenplay,Live Action,Action,0.0,113.0,39319801,18319801
-394,Cloverfield,2008,5880100,25000000,80048433,91253793,PG-13,Science Fiction,Original Screenplay,Live Action,Action,0.0,85.0,171302226,146302226
-418,Doomsday,2008,35590100,33000000,11008770,10612418,R,Science Fiction,Original Screenplay,Live Action,Action,0.0,109.0,21621188,-11378812
-421,The X-Files: I Want to Believe,2008,24500100,35000000,20982478,47188314,PG-13,Science Fiction,Based on TV,Live Action,Action,1.0,110.0,68170792,33170792
-425,Max Payne,2008,13720100,35000000,40689393,47085657,PG-13,Contemporary Fiction,Based on Game,Live Action,Action,0.0,103.0,87775050,52775050
-427,Punisher: War Zone,2008,40290100,35000000,8050977,2106557,R,Super Hero,Based on Comic/Graphic Novel,Live Action,Action,1.0,103.0,10157534,-24842466
-436,Red Cliff,2008,122190100,40000000,627047,119000000,R,Dramatization,Based on Real Life Events,Live Action,Action,0.0,,119627047,79627047
-437,Transporter 3,2008,17930100,40000000,31715062,75520530,PG-13,Contemporary Fiction,Original Screenplay,Live Action,Action,1.0,103.0,107235592,67235592
-442,Bangkok Dangerous,2008,29990100,45000000,15298133,31300000,R,Contemporary Fiction,Remake,Live Action,Action,0.0,100.0,46598133,1598133
-445,Babylon A.D.,2008,23220100,45000000,22532572,47683925,PG-13,Science Fiction,Based on Fiction Book/Short Story,Live Action,Action,0.0,100.0,70216497,25216497
-447,Rambo,2008,12970100,47500000,42754105,69460426,R,Contemporary Fiction,Based on Fiction Book/Short Story,Live Action,Action,1.0,91.0,112214531,64714531
-453,The Forbidden Kingdom,2008,10400100,55000000,52075270,77000000,PG-13,Fantasy,Based on Fiction Book/Short Story,Live Action,Action,0.0,105.0,129075270,74075270
-458,The Spirit,2008,25460100,60000000,19806188,19200000,PG-13,Super Hero,Based on Comic/Graphic Novel,Live Action,Action,0.0,102.0,39006188,-20993812
-463,In the Name of the King: A Dungeon Siege Tale,2008,47080100,60000000,4775656,8457564,PG-13,Fantasy,Based on Game,Live Action,Action,0.0,127.0,13233220,-46766780
-467,Death Race,2008,15620100,65000000,36316032,36200787,R,Science Fiction,Remake,Live Action,Action,0.0,110.0,72516819,7516819
-470,Wanted,2008,2400100,75000000,134508551,207907909,R,Science Fiction,Based on Comic/Graphic Novel,Live Action,Action,0.0,110.0,342416460,267416460
-477,Hellboy II: The Golden Army,2008,6260100,82500000,75986503,84401560,PG-13,Super Hero,Based on Comic/Graphic Novel,Live Action,Action,1.0,120.0,160388063,77888063
-485,Speed Racer,2008,12600100,120000000,43945766,49448696,PG,Science Fiction,Based on TV,Live Action,Action,0.0,135.0,93394462,-26605538
-490,Hancock,2008,670100,150000000,227946274,396287998,PG-13,Super Hero,Original Screenplay,Live Action,Action,0.0,92.0,624234272,474234272
-496,The Dark Knight,2008,20100,185000000,533720947,468275260,PG-13,Super Hero,Based on Comic/Graphic Novel,Live Action,Action,1.0,152.0,1001996207,816996207
-499,Quantum of Solace,2008,1460100,230000000,169368427,422323651,PG-13,Contemporary Fiction,Based on Fiction Book/Short Story,Live Action,Action,1.0,106.0,591692078,361692078
-558,12 Rounds,2009,130680100,20000000,12234694,5071954,PG-13,Contemporary Fiction,Original Screenplay,Live Action,Action,0.0,108.0,17306648,-2693352
-574,Shi Yue Wei Cheng,2009,136750100,23000000,0,44195779,,Historical Fiction,,,Action,0.0,139.0,44195779,21195779
-578,Faster,2009,112590100,24000000,23240020,12552925,R,Contemporary Fiction,Original Screenplay,Live Action,Action,0.0,98.0,35792945,11792945
-580,Fighting,2009,22770100,25000000,23091010,9740697,PG-13,Contemporary Fiction,Original Screenplay,Live Action,Action,0.0,84.0,32831707,7831707
-613,Underworld 3: Rise of the Lycans,2009,12140100,35000000,45802315,43300000,R,Fantasy,Original Screenplay,Live Action,Action,1.0,93.0,89102315,54102315
-615,Obitaemyy ostrov,2009,123810100,36500000,0,15000000,,Science Fiction,Based on Fiction Book/Short Story,Live Action,Action,0.0,,15000000,-21500000
-628,Cirque du Freak: The Vampire's Assistant,2009,109380100,40000000,14046595,25707362,PG-13,Fantasy,Based on Fiction Book/Short Story,Live Action,Action,0.0,109.0,39753957,-246043
-635,Street Fighter: The Legend of Chun-Li,2009,38580100,50000000,8742261,3918026,PG-13,Contemporary Fiction,Based on Game,Live Action,Action,0.0,96.0,12660287,-37339713
-642,Gamer,2009,25660100,50000000,20534907,21467122,R,Science Fiction,Original Screenplay,Live Action,Action,0.0,95.0,42002029,-7997971
-643,Ninja Assassin,2009,116560100,50000000,38122883,24087009,R,Contemporary Fiction,Original Screenplay,Live Action,Action,0.0,99.0,62209892,12209892
-649,Red Tails,2009,109930100,58000000,49876377,489121,PG-13,Historical Fiction,Based on Real Life Events,Live Action,Action,0.0,120.0,50365498,-7634502
-664,Inglourious Basterds,2009,3500100,70000000,120774594,196140670,R,Historical Fiction,Original Screenplay,Live Action,Action,0.0,152.0,316915264,246915264
-666,Killers,2009,109100100,75000000,47059963,48512786,PG-13,Contemporary Fiction,Original Screenplay,Live Action,Action,0.0,100.0,95572749,20572749
-667,Surrogates,2009,107210100,80000000,38577772,81090578,PG-13,Science Fiction,Based on Comic/Graphic Novel,Live Action,Action,0.0,89.0,119668350,39668350
-671,Fast & Furious,2009,1720100,85000000,155064265,208000000,PG-13,Contemporary Fiction,Based on Factual Book/Article,Live Action,Action,1.0,107.0,363064265,278064265
-680,The Taking of Pelham 123,2009,7770100,110000000,65452312,86912058,R,Contemporary Fiction,Remake,Live Action,Action,0.0,106.0,152364370,42364370
-681,Watchmen,2009,3740100,138000000,107509799,79466451,R,Super Hero,Based on Comic/Graphic Novel,Live Action,Action,0.0,161.0,186976250,48976250
-684,X-Men Origins: Wolverine,2009,1250100,150000000,179883157,194942603,PG-13,Super Hero,Spin-Off,Live Action,Action,0.0,107.0,374825760,224825760
-689,G.I. Joe: The Rise of Cobra,2009,1910100,175000000,150201498,152267519,PG-13,Contemporary Fiction,Based on Toy,Animation/Live Action,Action,0.0,118.0,302469017,127469017
-691,2012,2009,133340100,200000000,166112167,622296372,PG-13,Science Fiction,Original Screenplay,Live Action,Action,0.0,158.0,788408539,588408539
-692,Terminator Salvation,2009,2820100,200000000,125322469,240169323,PG-13,Science Fiction,Original Screenplay,Live Action,Action,1.0,116.0,365491792,165491792
-693,Transformers: Revenge of the Fallen,2009,90100,210000000,402111870,434407829,PG-13,Science Fiction,Based on TV,Animation/Live Action,Action,1.0,149.0,836519699,626519699
-695,Avatar,2009,122040100,425000000,760507625,2015837654,PG-13,Science Fiction,Original Screenplay,Animation/Live Action,Action,0.0,162.0,2776345279,2351345279
-717,Machete,2010,139790100,12500000,26593646,19777324,R,Contemporary Fiction,Original Screenplay,Live Action,Action,0.0,105.0,46370970,33870970
-736,Centurion,2010,113710100,15000000,123570,7761478,R,Historical Fiction,Original Screenplay,Live Action,Action,0.0,97.0,7885048,-7114952
-782,The Losers,2010,110770100,25000000,23591432,6272408,PG-13,Contemporary Fiction,Based on Comic/Graphic Novel,Live Action,Action,0.0,97.0,29863840,4863840
-785,The Eagle,2010,134670100,25000000,19490041,19503507,PG-13,Historical Fiction,Based on Fiction Book/Short Story,Live Action,Action,0.0,114.0,38993548,13993548
-810,Repo Men,2010,111950100,32000000,13942007,4253231,R,Science Fiction,Based on Fiction Book/Short Story,Live Action,Action,0.0,111.0,18195238,-13804762
-814,The Darkest Hour,2010,143010100,34800000,21443494,41388221,PG-13,Science Fiction,Original Screenplay,Live Action,Action,0.0,89.0,62831715,28031715
-839,Predators,2010,128960100,40000000,52000688,75233701,R,Science Fiction,Original Screenplay,Live Action,Action,1.0,107.0,127234389,87234389
-844,The Mechanic,2010,143920100,42500000,29121498,47225895,R,Contemporary Fiction,Remake,Live Action,Action,0.0,93.0,76347393,33847393
-850,Jonah Hex,2010,109710100,47000000,10547117,475579,PG-13,Historical Fiction,Based on Comic/Graphic Novel,Live Action,Action,0.0,81.0,11022696,-35977304
-856,Drive Angry,2010,143070100,50000000,10721033,30321550,R,Fantasy,Original Screenplay,Live Action,Action,0.0,104.0,41042583,-8957417
-866,Ghost Rider: Spirit of Vengeance,2010,146310100,57000000,51774002,97443353,PG-13,Contemporary Fiction,Original Screenplay,Live Action,Action,1.0,95.0,149217355,92217355
-868,Red,2010,140050100,60000000,90380162,106059531,PG-13,Contemporary Fiction,Based on Comic/Graphic Novel,Live Action,Action,0.0,110.0,196439693,136439693
-873,Red Dawn,2010,114370100,65000000,44806783,3357367,PG-13,Contemporary Fiction,Remake,Live Action,Action,0.0,93.0,48164150,-16835850
-880,Battle: Los Angeles,2010,129190100,70000000,83552429,129911547,PG-13,Science Fiction,Original Screenplay,Live Action,Action,0.0,116.0,213463976,143463976
-886,The Book of Eli,2010,121730100,80000000,94835059,63915758,R,Science Fiction,Original Screenplay,Live Action,Action,0.0,118.0,158750817,78750817
-888,The Expendables,2010,109820100,82000000,103068524,165199650,R,Contemporary Fiction,Original Screenplay,Live Action,Action,0.0,103.0,268268174,186268174
-891,Conan the Barbarian,2010,139070100,90000000,21295021,42061112,R,Fantasy,Based on Fiction Book/Short Story,Live Action,Action,0.0,112.0,63356133,-26643867
-894,Unstoppable,2010,121650100,95000000,81562942,84157979,PG-13,Dramatization,Based on Real Life Events,Live Action,Action,0.0,98.0,165720921,70720921
-901,The Green Hornet,2010,107800100,110000000,98780042,130375461,PG-13,Super Hero,Based on TV,Live Action,Action,0.0,118.0,229155503,119155503
-902,Real Steel,2010,143960100,110000000,85463309,178417032,PG-13,Science Fiction,Based on Fiction Book/Short Story,Live Action,Action,0.0,126.0,263880341,153880341
-903,The A-Team,2010,107710100,110000000,77222099,100019072,PG-13,Contemporary Fiction,Based on TV,Live Action,Action,0.0,118.0,177241171,67241171
-905,Knight and Day,2010,128670100,117000000,76423035,182328335,PG-13,Contemporary Fiction,Original Screenplay,Live Action,Action,0.0,109.0,258751370,141751370
-907,Clash of the Titans,2010,121810100,125000000,163214888,330000000,PG-13,Fantasy,Remake,Live Action,Action,0.0,106.0,493214888,368214888
-919,Iron Man 2,2010,117940100,170000000,312433331,308723058,PG-13,Super Hero,Based on Comic/Graphic Novel,Live Action,Action,1.0,125.0,621156389,451156389
-922,Prince of Persia: Sands of Time,2010,121880100,200000000,90759676,245600000,PG-13,Fantasy,Based on Game,Live Action,Action,0.0,115.0,336359676,136359676
-924,Robin Hood,2010,117590100,210000000,105487148,216971858,PG-13,Historical Fiction,Based on Folk Tale/Legend/Fairytale,Live Action,Action,0.0,139.0,322459006,112459006
-937,For Greater Glory: The True Story of Cristiada,2011,174220100,12000000,5669081,4357174,R,Dramatization,Based on Real Life Events,Live Action,Action,0.0,143.0,10026255,-1973745
-941,Act of Valor,2011,162830100,12000000,70012847,12484188,R,Contemporary Fiction,Original Screenplay,Live Action,Action,0.0,101.0,82497035,70497035
-944,Attack the Block,2011,153510100,13000000,1024175,5435008,R,Fantasy,Original Screenplay,Live Action,Action,0.0,87.0,6459183,-6540817
-947,Reign of Assassins,2011,143480100,14000000,0,11354230,R,Historical Fiction,Original Screenplay,Live Action,Action,0.0,117.0,11354230,-2645770
-953,Drive,2011,143000100,15000000,35060689,46297241,R,Contemporary Fiction,Based on Fiction Book/Short Story,Live Action,Action,0.0,100.0,81357930,66357930
-955,The Man with the Iron Fists,2011,143490100,15000000,15634090,6384898,R,Contemporary Fiction,Original Screenplay,Live Action,Action,0.0,95.0,22018988,7018988
-977,Contraband,2011,151620100,25000000,66528000,31878855,R,Contemporary Fiction,Remake,Live Action,Action,0.0,109.0,98406855,73406855
-982,Ironclad,2011,145190100,25000000,0,5297411,R,Historical Fiction,Original Screenplay,Live Action,Action,0.0,120.0,5297411,-19702589
-993,Looper,2011,145030100,30000000,66486205,103980200,R,Science Fiction,Original Screenplay,Live Action,Action,0.0,119.0,170466405,140466405
-1001,Safe,2011,148530100,33000000,17142080,24353133,R,Contemporary Fiction,Original Screenplay,Live Action,Action,0.0,95.0,41495213,8495213
-1013,Riddick,2011,148410100,38000000,42025135,52738623,R,Science Fiction,Original Screenplay,Live Action,Action,1.0,119.0,94763758,56763758
-1029,Dredd,2011,153600100,45000000,13414714,28052892,R,Science Fiction,Based on Comic/Graphic Novel,Live Action,Action,0.0,98.0,41467606,-3532394
-1033,Hansel & Gretel: Witch Hunters,2011,149600100,50000000,55703475,159246241,R,Contemporary Fiction,Based on Folk Tale/Legend/Fairytale,Live Action,Action,0.0,100.0,214949716,164949716
-1037,Bullet to the Head,2011,166240100,55000000,9489829,13108140,R,Contemporary Fiction,Based on Comic/Graphic Novel,Live Action,Action,0.0,91.0,22597969,-32402031
-1038,The Equalizer,2011,145970100,55000000,101530738,91372886,R,Contemporary Fiction,Based on TV,Live Action,Action,0.0,131.0,192903624,137903624
-1047,Sin City: A Dame to Kill For,2011,123940100,65000000,13757804,26893038,R,Fantasy,Based on Comic/Graphic Novel,Live Action,Action,1.0,101.0,40650842,-24349158
-1051,Killer Elite,2011,145620100,70000000,25124986,40284060,R,Contemporary Fiction,Based on Fiction Book/Short Story,Live Action,Action,0.0,105.0,65409046,-4590954
-1054,Underworld: Awakening,2011,129120100,70000000,62321039,98058891,R,Fantasy,Original Screenplay,Live Action,Action,1.0,89.0,160379930,90379930
-1055,Immortals,2011,139580100,75000000,83504017,128058418,R,Fantasy,Based on Folk Tale/Legend/Fairytale,Live Action,Action,0.0,110.0,211562435,136562435
-1056,Sucker Punch,2011,109460100,75000000,36392502,53365887,R,Fantasy,Original Screenplay,Live Action,Action,0.0,110.0,89758389,14758389
-1078,Sherlock Holmes: A Game of Shadows,2011,143850100,125000000,186848418,348815025,PG-13,Historical Fiction,Based on Fiction Book/Short Story,Live Action,Action,1.0,129.0,535663443,410663443
-1079,Fast Five,2011,139600100,125000000,210031325,420132129,PG-13,Contemporary Fiction,Based on Factual Book/Article,Live Action,Action,1.0,130.0,630163454,505163454
-1084,R.I.P.D.,2011,148440100,130000000,33618855,45457823,PG-13,Science Fiction,Based on Comic/Graphic Novel,Live Action,Action,0.0,98.0,79076678,-50923322
-1089,Captain America: The First Avenger,2011,124300100,140000000,176654505,193915271,PG-13,Super Hero,Based on Comic/Graphic Novel,Live Action,Action,0.0,124.0,370569776,230569776
-1090,Mission: Impossible—Ghost Protocol,2011,144120100,145000000,209397903,485315327,PG-13,Contemporary Fiction,Based on TV,Live Action,Action,1.0,132.0,694713230,549713230
-1091,Thor,2011,109130100,150000000,181030624,268295994,PG-13,Super Hero,Based on Comic/Graphic Novel,Live Action,Action,0.0,113.0,449326618,299326618
-1094,X-Men: First Class,2011,142700100,160000000,146408305,209000000,PG-13,Super Hero,Based on Comic/Graphic Novel,Live Action,Action,1.0,132.0,355408305,195408305
-1095,Cowboys and Aliens,2011,118940100,163000000,100368560,75669764,PG-13,Science Fiction,Based on Comic/Graphic Novel,Live Action,Action,0.0,118.0,176038324,13038324
-1097,Edge of Tomorrow,2011,140210100,178000000,100206256,270335000,PG-13,Science Fiction,Based on Comic/Graphic Novel,Live Action,Action,0.0,136.0,370541256,192541256
-1099,World War Z,2011,145450100,190000000,202359711,329154939,PG-13,Science Fiction,Based on Fiction Book/Short Story,Live Action,Action,0.0,115.0,531514650,341514650
-1100,Transformers: Dark of the Moon,2011,108970100,195000000,352390543,771400000,PG-13,Science Fiction,Based on TV,Animation/Live Action,Action,1.0,154.0,1123790543,928790543
-1102,Green Lantern,2011,109700100,200000000,116601172,102934320,PG-13,Super Hero,Based on Comic/Graphic Novel,Animation/Live Action,Action,0.0,113.0,219535492,19535492
-1107,Battleship,2011,112540100,220000000,65233400,248244317,PG-13,Contemporary Fiction,Based on Game,Live Action,Action,0.0,130.0,313477717,93477717
-1108,The Avengers,2011,117960100,225000000,623279547,894656350,PG-13,Super Hero,Based on Comic/Graphic Novel,Animation/Live Action,Action,0.0,143.0,1517935897,1292935897
-1149,Pain & Gain,2012,148310100,26000000,49875291,31400000,R,Contemporary Fiction,Based on Real Life Events,Live Action,Action,0.0,129.0,81275291,55275291
-1151,The Last Stand,2012,164540100,30000000,12050299,36280458,R,Contemporary Fiction,Original Screenplay,Live Action,Action,0.0,107.0,48330757,18330757
-1159,Stolen,2012,177140100,35000000,289773,17677973,R,Contemporary Fiction,Original Screenplay,Live Action,Action,0.0,96.0,17967746,-17032254
-1174,2 Guns,2012,179790100,61000000,75612460,56880555,R,Contemporary Fiction,Based on Comic/Graphic Novel,Live Action,Action,0.0,109.0,132493015,71493015
-1175,"I, Frankenstein",2012,169110100,65000000,19075290,55500000,PG-13,Fantasy,Based on Comic/Graphic Novel,Live Action,Action,0.0,92.0,74575290,9575290
-1177,Resident Evil: Retribution,2012,158870100,65000000,42345531,198302098,R,Science Fiction,Based on Game,Live Action,Action,1.0,95.0,240647629,175647629
-1184,A Good Day to Die Hard,2012,142430100,92000000,67349198,236900000,R,Contemporary Fiction,Original Screenplay,Live Action,Action,1.0,98.0,304249198,212249198
-1186,The Expendables 2,2012,160040100,100000000,85028192,226951064,R,Contemporary Fiction,Original Screenplay,Live Action,Action,1.0,103.0,311979256,211979256
-1190,Elysium,2012,140150100,120000000,93050117,193141974,R,Science Fiction,Original Screenplay,Live Action,Action,0.0,109.0,286192091,166192091
-1191,Total Recall,2012,143450100,125000000,58877969,152978119,PG-13,Science Fiction,Based on Fiction Book/Short Story,Live Action,Action,0.0,117.0,211856088,86856088
-1192,After Earth,2012,167400100,130000000,60522097,190977568,PG-13,Science Fiction,Original Screenplay,Live Action,Action,0.0,99.0,251499665,121499665
-1194,G.I. Joe: Retaliation,2012,145700100,140000000,122523060,253217645,PG-13,Contemporary Fiction,Based on Toy,Animation/Live Action,Action,1.0,110.0,375740705,235740705
-1198,Fast and Furious 6,2012,163420100,160000000,238679850,550620594,PG-13,Contemporary Fiction,Based on Factual Book/Article,Live Action,Action,1.0,130.0,789300444,629300444
-1203,Skyfall,2012,153090100,200000000,304360277,806166704,PG-13,Contemporary Fiction,Based on Fiction Book/Short Story,Live Action,Action,1.0,143.0,1110526981,910526981
-1205,Iron Man 3,2012,146800100,200000000,408992272,806400000,PG-13,Super Hero,Based on Comic/Graphic Novel,Animation/Live Action,Action,1.0,130.0,1215392272,1015392272
-1206,Man of Steel,2012,125160100,225000000,291045518,376954000,PG-13,Super Hero,Based on Comic/Graphic Novel,Live Action,Action,1.0,142.0,667999518,442999518
-1208,The Dark Knight Rises,2012,140240100,275000000,448139099,636300000,PG-13,Super Hero,Based on Comic/Graphic Novel,Live Action,Action,1.0,164.0,1084439099,809439099
-1213,"Cinco de Mayo, La Batalla",2013,187290100,10000000,173472,0,R,Dramatization,Based on Real Life Events,Live Action,Action,0.0,125.0,173472,-9826528
-1229,Broken Horses,2013,189510100,15000000,0,3471,R,Contemporary Fiction,Original Screenplay,Live Action,Action,0.0,101.0,3471,-14996529
-1247,Machete Kills,2013,183280100,20000000,8008161,10264848,R,Contemporary Fiction,Original Screenplay,Live Action,Action,1.0,107.0,18273009,-1726991
-1253,Homefront,2013,193470100,22000000,20158492,31536870,R,Contemporary Fiction,Based on Fiction Book/Short Story,Live Action,Action,0.0,100.0,51695362,29695362
-1258,Dhoom 3,2013,198500100,24000000,8031955,3691665,Not Rated,,,,Action,1.0,150.0,11723620,-12276380
-1267,A Walk Among the Tombstones,2013,198720100,28000000,26017685,36090902,R,Historical Fiction,Based on Fiction Book/Short Story,Live Action,Action,0.0,113.0,62108587,34108587
-1268,Kick-Ass 2,2013,147410100,28000000,28795985,34333924,R,Contemporary Fiction,Based on Comic/Graphic Novel,Live Action,Action,0.0,103.0,63129909,35129909
-1283,Yi dai zong shi,2013,188220100,38600000,6594959,51392340,PG-13,Dramatization,Based on Real Life Events,Live Action,Action,0.0,130.0,57987299,19387299
-1284,Lone Survivor,2013,147270100,40000000,125095601,24709031,R,Dramatization,Based on Factual Book/Article,Live Action,Action,0.0,121.0,149804632,109804632
-1292,Non-Stop,2013,193250100,50000000,91742160,130640895,PG-13,Contemporary Fiction,Original Screenplay,Live Action,Action,0.0,110.0,222383055,172383055
-1297,Jack Ryan: Shadow Recruit,2013,180710100,60000000,50577412,80800000,PG-13,Contemporary Fiction,Original Screenplay,Live Action,Action,0.0,105.0,131377412,71377412
-1308,RED 2,2013,169330100,84000000,53262560,88244795,PG-13,Contemporary Fiction,Based on Comic/Graphic Novel,Live Action,Action,1.0,116.0,141507355,57507355
-1313,Hercules,2013,186700100,100000000,72688614,170700000,PG-13,Fantasy,Based on Folk Tale/Legend/Fairytale,Live Action,Action,0.0,97.0,243388614,143388614
-1315,300: Rise of an Empire,2013,174430100,110000000,106580051,224200000,R,Historical Fiction,Based on Comic/Graphic Novel,Animation/Live Action,Action,1.0,102.0,330780051,220780051
-1317,The Wolverine,2013,151730100,115000000,132556852,283900000,PG-13,Super Hero,Based on Comic/Graphic Novel,Live Action,Action,1.0,126.0,416456852,301456852
-1318,RoboCop,2013,119960100,120000000,58607007,184374792,PG-13,Science Fiction,Remake,Live Action,Action,0.0,116.0,242981799,122981799
-1324,Thor: The Dark World,2013,163710100,150000000,206362140,438240376,PG-13,Super Hero,Based on Comic/Graphic Novel,Live Action,Action,1.0,111.0,644602516,494602516
-1327,47 Ronin,2013,140680100,175000000,38362475,113354340,PG-13,Fantasy,Original Screenplay,Live Action,Action,0.0,127.0,151716815,-23283185
-1329,Pacific Rim,2013,163740100,190000000,101802906,309200000,PG-13,Science Fiction,Original Screenplay,Live Action,Action,0.0,131.0,411002906,221002906
-1330,The Amazing Spider-Man 2,2013,165290100,200000000,202853933,506142403,PG-13,Super Hero,Based on Comic/Graphic Novel,Live Action,Action,1.0,141.0,708996336,508996336
-1331,Transformers: Age of Extinction,2013,173060100,210000000,245439076,858600000,PG-13,Science Fiction,Based on TV,Animation/Live Action,Action,1.0,165.0,1104039076,894039076
-1336,Plastic,2014,212590100,10000000,0,575371,R,Contemporary Fiction,Original Screenplay,Live Action,Action,0.0,102.0,575371,-9424629
-1338,American Heist,2014,228260100,10000000,0,2341218,R,Contemporary Fiction,Original Screenplay,Live Action,Action,0.0,94.0,2341218,-7658782
-1391,Yi ge ren de wu lin,2014,227340100,25000000,129115,0,Not Rated,Contemporary Fiction,Original Screenplay,Live Action,Action,0.0,100.0,129115,-24870885
-1392,Red Sky,2014,147080100,25000000,0,91116,PG-13,Contemporary Fiction,Based on Fiction Book/Short Story,Live Action,Action,0.0,108.0,91116,-24908884
-1396,Brick Mansions,2014,203520100,28000000,20396829,53024395,PG-13,Science Fiction,Original Screenplay,Live Action,Action,0.0,89.0,73421224,45421224
-1399,John Wick,2014,212530100,30000000,43037835,33197166,R,Contemporary Fiction,Original Screenplay,Live Action,Action,0.0,96.0,76235001,46235001
-1401,Wild Card,2014,205520100,30000000,3200,4312589,R,Contemporary Fiction,Based on Fiction Book/Short Story,Live Action,Action,0.0,92.0,4315789,-25684211
-1406,Hitman: Agent 47,2014,209330100,35000000,22467450,59715353,R,Contemporary Fiction,Based on Game,Live Action,Action,0.0,96.0,82182803,47182803
-1407,Sabotage,2014,198490100,35000000,10508518,7867925,R,Contemporary Fiction,Original Screenplay,Live Action,Action,0.0,110.0,18376443,-16623557
-1414,Lucy,2014,201180100,40000000,126573960,330933816,R,Science Fiction,Original Screenplay,Live Action,Action,0.0,88.0,457507776,417507776
-1423,Chappie,2014,196480100,49000000,31569268,73432788,R,Science Fiction,Original Screenplay,Animation/Live Action,Action,0.0,120.0,105002056,56002056
-1438,Need for Speed,2014,178540100,66000000,43568507,150601112,PG-13,Contemporary Fiction,Based on Game,Live Action,Action,0.0,130.0,194169619,128169619
-1440,Dracula Untold,2014,142980100,70000000,55991880,164249843,PG-13,Fantasy,Based on Fiction Book/Short Story,Live Action,Action,0.0,92.0,220241723,150241723
-1446,Kingsman: The Secret Service,2014,189610100,94000000,128261724,276300000,R,Contemporary Fiction,Based on Comic/Graphic Novel,Live Action,Action,0.0,129.0,404561724,310561724
-1450,The Expendables 3,2014,193500100,100000000,39322544,170138834,PG-13,Contemporary Fiction,Original Screenplay,Live Action,Action,1.0,103.0,209461378,109461378
-1453,The Divergent Series: Insurgent,2014,201640100,110000000,130179072,164896810,PG-13,Science Fiction,Based on Fiction Book/Short Story,Live Action,Action,1.0,118.0,295075882,185075882
-1462,Mad Max: Fury Road,2014,142670100,150000000,153636354,216461666,R,Science Fiction,Original Screenplay,Live Action,Action,1.0,120.0,370098020,220098020
-1463,Godzilla,2014,181590100,160000000,200676069,328400000,PG-13,Science Fiction,Remake,Live Action,Action,0.0,123.0,529076069,369076069
-1466,Captain America: The Winter Soldier,2014,174890100,170000000,259746958,454654931,PG-13,Super Hero,Based on Comic/Graphic Novel,Live Action,Action,1.0,135.0,714401889,544401889
-1467,Guardians of the Galaxy,2014,165370100,170000000,333172112,437695404,PG-13,Super Hero,Based on Comic/Graphic Novel,Animation/Live Action,Action,0.0,121.0,770867516,600867516
-1471,Jupiter Ascending,2014,189400100,179000000,47482519,134500000,PG-13,Science Fiction,Original Screenplay,Live Action,Action,0.0,127.0,181982519,2982519
-1473,Furious 7,2014,190820100,190000000,353007020,1165715774,PG-13,Contemporary Fiction,Original Screenplay,Live Action,Action,1.0,137.0,1518722794,1328722794
-1474,X-Men: Days of Future Past,2014,176960100,200000000,233921534,513941241,PG-13,Super Hero,Based on Comic/Graphic Novel,Live Action,Action,1.0,131.0,747862775,547862775
-1475,Jurassic World,2014,118060100,215000000,652270625,996584239,PG-13,Science Fiction,Based on Fiction Book/Short Story,Live Action,Action,1.0,124.0,1648854864,1433854864
-1477,Avengers: Age of Ultron,2014,179490100,330600000,459005868,944008095,PG-13,Super Hero,Based on Comic/Graphic Novel,Animation/Live Action,Action,1.0,141.0,1403013963,1072413963
-1479,Free Fire,2015,223800100,10000000,1799322,1994417,R,Historical Fiction,Original Screenplay,Live Action,Action,0.0,90.0,3793739,-6206261
-1495,Brothers,2015,236560100,13000000,656688,17200000,Not Rated,Contemporary Fiction,Remake,Live Action,Action,0.0,155.0,17856688,4856688
-1496,Bajrangi Bhaijaan,2015,236700100,13000000,8178001,113600346,Not Rated,Contemporary Fiction,Original Screenplay,Live Action,Action,0.0,159.0,121778347,108778347
-1534,The Transporter Refueled,2015,213560100,22000000,16029670,53668825,PG-13,Contemporary Fiction,Original Screenplay,Live Action,Action,0.0,96.0,69698495,47698495
-1548,Collide,2015,218170100,29200000,2280004,3186694,PG-13,Contemporary Fiction,Original Screenplay,Live Action,Action,0.0,99.0,5466698,-23733302
-1557,Criminal,2015,220210100,31500000,14708696,24062566,R,Science Fiction,Original Screenplay,Live Action,Action,0.0,113.0,38771262,7271262
-1569,Yip Man 3,2015,227490100,36000000,2679437,154621517,PG-13,Historical Fiction,Based on Real Life Events,Live Action,Action,1.0,105.0,157300954,121300954
-1573,The 5th Wave,2015,212090100,38000000,34912982,76423416,PG-13,Science Fiction,Based on Fiction Book/Short Story,Live Action,Action,0.0,112.0,111336398,73336398
-1578,Baahubali: The Beginning,2015,236630100,40000000,6738000,19998665,Not Rated,Historical Fiction,Original Screenplay,Live Action,Action,0.0,160.0,26736665,-13263335
-1583,Taken 3,2015,205100100,48000000,89256424,238400000,PG-13,Contemporary Fiction,Original Screenplay,Live Action,Action,1.0,118.0,327656424,279656424
-1589,Run All Night,2015,204280100,50000000,26461644,40500000,R,Contemporary Fiction,Original Screenplay,Live Action,Action,0.0,114.0,66961644,16961644
-1595,Deadpool,2015,142380100,58000000,363070709,437954884,R,Super Hero,Based on Comic/Graphic Novel,Live Action,Action,0.0,107.0,801025593,743025593
-1599,Xi You Ji zhi Sun Wu Kong San Da Bai Gu Jing,2015,252340100,60000000,709982,193348521,Not Rated,Fantasy,Based on Fiction Book/Short Story,Live Action,Action,1.0,118.0,194058503,134058503
-1600,London Has Fallen,2015,207160100,60000000,62524260,132669825,R,Contemporary Fiction,Original Screenplay,Live Action,Action,1.0,99.0,195194085,135194085
-1604,Tian jiang xiong shi,2015,224750100,65000000,74070,122445804,R,Historical Fiction,Original Screenplay,Live Action,Action,0.0,126.0,122519874,57519874
-1609,The Man From U.N.C.L.E.,2015,204270100,75000000,45445109,59504475,PG-13,Historical Fiction,Based on TV,Live Action,Action,0.0,106.0,104949584,29949584
-1611,The Last Witch Hunter,2015,212330100,80000000,27367660,103451252,PG-13,Fantasy,Original Screenplay,Live Action,Action,0.0,98.0,130818912,50818912
-1615,Point Break,2015,207990100,100000000,28782481,97922110,PG-13,Contemporary Fiction,Remake,Live Action,Action,0.0,113.0,126704591,26704591
-1617,The Divergent Series: Allegiant,2015,201670100,110000000,66184051,105838466,PG-13,Science Fiction,Based on Fiction Book/Short Story,Live Action,Action,1.0,120.0,172022517,62022517
-1618,The Huntsman: Winter’s War,2015,199940100,115000000,48003015,117146287,PG-13,Fantasy,Based on Folk Tale/Legend/Fairytale,Live Action,Action,1.0,113.0,165149302,50149302
-1619,Fantastic Four,2015,185150100,120000000,56117548,111731639,PG-13,Super Hero,Based on Comic/Graphic Novel,Live Action,Action,0.0,100.0,167849187,47849187
-1621,Ant-Man,2015,133110100,130000000,180202163,338656286,PG-13,Super Hero,Based on Comic/Graphic Novel,Live Action,Action,0.0,117.0,518858449,388858449
-1626,Mission: Impossible—Rogue Nation,2015,200090100,150000000,195042377,493816615,PG-13,Contemporary Fiction,Based on TV,Live Action,Action,1.0,131.0,688858992,538858992
-1629,Terminator: Genisys,2015,194140100,155000000,89760956,342389938,PG-13,Science Fiction,Original Screenplay,Live Action,Action,1.0,126.0,432150894,277150894
-1631,Warcraft,2015,150020100,160000000,47225655,378296626,PG-13,Fantasy,Based on Game,Live Action,Action,0.0,123.0,425522281,265522281
-1633,Independence Day: Resurgence,2015,193720100,165000000,103144286,281025138,PG-13,Science Fiction,Original Screenplay,Live Action,Action,1.0,119.0,384169424,219169424
-1635,X-Men: Apocalypse,2015,200750100,178000000,155442489,387095057,PG-13,Super Hero,Based on Comic/Graphic Novel,Live Action,Action,1.0,136.0,542537546,364537546
-1638,Batman v Superman: Dawn of Justice,2015,196380100,250000000,330360194,537140087,PG-13,Super Hero,Based on Comic/Graphic Novel,Live Action,Action,1.0,151.0,867500281,617500281
-1639,Captain America: Civil War,2015,202820100,250000000,408084349,731985064,PG-13,Super Hero,Based on Comic/Graphic Novel,Live Action,Action,1.0,146.0,1140069413,890069413
-1640,Spectre,2015,194570100,300000000,200074175,679546748,PG-13,Contemporary Fiction,Based on Fiction Book/Short Story,Live Action,Action,1.0,148.0,879620923,579620923
-1645,Max Steel,2016,249550100,10000000,3818664,744416,PG-13,Science Fiction,Based on Toy,Live Action,Action,0.0,91.0,4563080,-5436920
-1653,Sultan,2016,262920100,11000000,5599781,67390000,Not Rated,Contemporary Fiction,Original Screenplay,Live Action,Action,0.0,170.0,72989781,61989781
-1657,Operation Chromite,2016,238750100,12700000,1022720,48173812,Not Rated,Historical Fiction,Original Screenplay,Live Action,Action,0.0,115.0,49196532,36496532
-1667,I Am Wrath,2016,227470100,18000000,0,309608,R,Contemporary Fiction,Original Screenplay,Live Action,Action,0.0,92.0,309608,-17690392
-1686,CHiPS,2016,141730100,25000000,18600152,4590140,R,Contemporary Fiction,Based on TV,Live Action,Action,0.0,100.0,23190292,-1809708
-1695,The Lost City of Z,2016,145440100,30000000,8574339,8547484,PG-13,Dramatization,Based on Factual Book/Article,Live Action,Action,0.0,140.0,17121823,-12878177
-1696,Baahubali 2: The Conclusion,2016,288750100,30000000,18985794,244517120,Not Rated,Historical Fiction,Based on Fiction Book/Short Story,Live Action,Action,1.0,167.0,263502914,233502914
-1699,Birth of the Dragon,2016,247810100,31000000,6901965,318525,PG-13,Historical Fiction,Based on Real Life Events,Live Action,Action,0.0,91.0,7220490,-23779510
-1704,Underworld: Blood Wars,2016,232130100,35000000,30353973,50855249,R,Fantasy,Based on Folk Tale/Legend/Fairytale,Live Action,Action,1.0,91.0,81209222,46209222
-1707,John Wick: Chapter Two,2016,230410100,40000000,92029184,79320825,R,Contemporary Fiction,Original Screenplay,Live Action,Action,1.0,122.0,171350009,131350009
-1711,Mechanic: Resurrection,2016,220230100,40000000,21218403,88520437,R,Contemporary Fiction,Original Screenplay,Live Action,Action,1.0,98.0,109738840,69738840
-1714,Resident Evil: The Final Chapter,2016,188680100,40000000,26844692,287256498,R,Science Fiction,Based on Game,Live Action,Action,1.0,106.0,314101190,274101190
-1715,The Commuter,2016,247210100,40000000,36343858,65641573,PG-13,Contemporary Fiction,Original Screenplay,Live Action,Action,0.0,105.0,101985431,61985431
-1729,Jack Reacher: Never Go Back,2016,240520100,60000000,58697076,101249413,PG-13,Contemporary Fiction,Based on Fiction Book/Short Story,Live Action,Action,1.0,118.0,159946489,99946489
-1739,Renegades,2016,227610100,77500000,0,1521672,PG-13,Contemporary Fiction,Original Screenplay,Live Action,Action,0.0,105.0,1521672,-75978328
-1742,xXx: Return of Xander Cage,2016,151040100,85000000,44898413,300134946,PG-13,Contemporary Fiction,Original Screenplay,Live Action,Action,1.0,110.0,345033359,260033359
-1750,Ghost in the Shell,2016,222050100,110000000,40563557,127347133,PG-13,Science Fiction,Based on Comic/Graphic Novel,Live Action,Action,0.0,100.0,167910690,57910690
-1753,Jason Bourne,2016,200870100,120000000,162192920,253975396,PG-13,Contemporary Fiction,Based on Fiction Book/Short Story,Live Action,Action,0.0,123.0,416168316,296168316
-1754,Power Rangers,2016,212770100,120000000,85364450,57167102,PG-13,Kids Fiction,Based on TV,Live Action,Action,0.0,124.0,142531552,22531552
-1756,Assassin’s Creed,2016,192580100,125000000,54647948,186111734,PG-13,Science Fiction,Based on Game,Live Action,Action,0.0,116.0,240759682,115759682
-1758,Logan,2016,205120100,127000000,226277068,389184326,R,Super Hero,Based on Comic/Graphic Novel,Live Action,Action,1.0,135.0,615461394,488461394
-1761,The Great Wall,2016,221780100,150000000,45157105,289329747,PG-13,Historical Fiction,Original Screenplay,Live Action,Action,0.0,104.0,334486852,184486852
-1762,Wonder Woman,2016,106850100,150000000,412563408,408569970,PG-13,Super Hero,Based on Comic/Graphic Novel,Live Action,Action,0.0,141.0,821133378,671133378
-1765,Doctor Strange,2016,218470100,165000000,232641920,443762646,PG-13,Super Hero,Based on Comic/Graphic Novel,Live Action,Action,0.0,115.0,676404566,511404566
-1768,Spider-Man: Homecoming,2016,224140100,175000000,334201140,545965210,PG-13,Super Hero,Based on Comic/Graphic Novel,Live Action,Action,0.0,133.0,880166350,705166350
-1769,Suicide Squad,2016,215980100,175000000,325100054,420959833,PG-13,Super Hero,Based on Comic/Graphic Novel,Live Action,Action,0.0,123.0,746059887,571059887
-1774,Guardians of the Galaxy Vol 2,2016,211440100,200000000,389813101,472503132,PG-13,Super Hero,Based on Comic/Graphic Novel,Live Action,Action,1.0,136.0,862316233,662316233
-1777,The Fate of the Furious,2016,229550100,250000000,225764765,1009081502,PG-13,Contemporary Fiction,Original Screenplay,Live Action,Action,1.0,136.0,1234846267,984846267
-1794,Superfly,2017,314910100,16000000,20537137,186444,R,Contemporary Fiction,Remake,Live Action,Action,0.0,116.0,20723581,4723581
-1809,Chāi dàn zhuānjiā,2017,289010100,23000000,0,58807172,Not Rated,Contemporary Fiction,Original Screenplay,Live Action,Action,0.0,119.0,58807172,35807172
-1822,Kin,2017,313150100,30000000,5718096,4378725,PG-13,Science Fiction,Based on Fiction Book/Short Story,Live Action,Action,0.0,102.0,10096821,-19903179
-1823,Death Wish,2017,287730100,30000000,34017028,14558937,R,Contemporary Fiction,Remake,Live Action,Action,0.0,107.0,48575965,18575965
-1825,Den of Thieves,2017,284400100,30000000,44947622,35183769,R,Contemporary Fiction,Original Screenplay,Live Action,Action,0.0,140.0,80131391,50131391
-1826,The Hitman’s Bodyguard,2017,246610100,30000000,75468583,97310084,R,Contemporary Fiction,Original Screenplay,Live Action,Action,0.0,111.0,172778667,142778667
-1829,Proud Mary,2017,281630100,30000000,20868638,840901,R,Contemporary Fiction,Original Screenplay,Live Action,Action,0.0,88.0,21709539,-8290461
-1834,Sicario: Day of the Soldado,2017,288270100,35000000,50065850,25819346,R,Contemporary Fiction,Original Screenplay,Live Action,Action,1.0,123.0,75885196,40885196
-1837,The Foreigner,2017,289340100,35000000,34393507,106389853,R,Contemporary Fiction,Based on Fiction Book/Short Story,Live Action,Action,0.0,116.0,140783360,105783360
-1864,Ocean’s 8,2017,265480100,70000000,140218711,156897265,PG-13,Contemporary Fiction,Original Screenplay,Live Action,Action,1.0,110.0,297115976,227115976
-1867,The Equalizer 2,2017,235200100,77000000,102084362,88368770,R,Contemporary Fiction,Based on TV,Live Action,Action,1.0,129.0,190453132,113453132
-1868,The Predator,2017,253800100,88000000,51024708,108462855,R,Science Fiction,Original Screenplay,Live Action,Action,1.0,107.0,159487563,71487563
-1869,Tomb Raider,2017,256340100,90000000,58250803,215226698,PG-13,Contemporary Fiction,Based on Game,Live Action,Action,0.0,118.0,273477501,183477501
-1870,Geostorm,2017,207610100,100000000,33700160,187095849,PG-13,Science Fiction,Original Screenplay,Live Action,Action,0.0,109.0,220796009,120796009
-1873,Kingsman: The Golden Circle,2017,243120100,104000000,100234838,308568858,R,Contemporary Fiction,Based on Comic/Graphic Novel,Live Action,Action,1.0,141.0,408803696,304803696
-1874,Deadpool 2,2017,258830100,110000000,324591735,462088822,R,Super Hero,Based on Comic/Graphic Novel,Live Action,Action,1.0,119.0,786680557,676680557
-1876,Rampage,2017,235620100,120000000,101028233,327028047,PG-13,Science Fiction,Based on Game,Live Action,Action,0.0,107.0,428056280,308056280
-1877,Skyscraper,2017,284810100,125000000,68420120,235695414,PG,Contemporary Fiction,Original Screenplay,Live Action,Action,0.0,103.0,304115534,179115534
-1878,Ant-Man and the Wasp,2017,243840100,130000000,216648740,406495920,PG-13,Super Hero,Based on Comic/Graphic Novel,Live Action,Action,1.0,118.0,623144660,493144660
-1880,Dunkirk,2017,240790100,150000000,190068280,309769088,PG-13,Dramatization,Original Screenplay,Live Action,Action,0.0,107.0,499837368,349837368
-1881,War for the Planet of the Apes,2017,202190100,152000000,146880162,342712105,PG-13,Science Fiction,Original Screenplay,Animation/Live Action,Action,1.0,142.0,489592267,337592267
-1882,Pacific Rim: Uprising,2017,210270100,155000000,59874525,231055623,PG-13,Science Fiction,Original Screenplay,Live Action,Action,1.0,111.0,290930148,135930148
-1883,Jurassic World: Fallen Kingdom,2017,237380100,170000000,417719760,888053039,PG-13,Science Fiction,Based on Fiction Book/Short Story,Live Action,Action,1.0,128.0,1305772799,1135772799
-1886,The Meg,2017,264870100,178000000,145443742,384086973,PG-13,Science Fiction,Based on Fiction Book/Short Story,Live Action,Action,0.0,113.0,529530715,351530715
-1887,Thor: Ragnarok,2017,218480100,180000000,315058289,531921735,PG-13,Super Hero,Based on Comic/Graphic Novel,Live Action,Action,1.0,130.0,846980024,666980024
-1891,Black Panther,2017,140380100,200000000,700059566,648198658,PG-13,Super Hero,Based on Comic/Graphic Novel,Live Action,Action,0.0,120.0,1348258224,1148258224
-1892,Transformers: The Last Knight,2017,263300100,217000000,130168683,472724657,PG-13,Science Fiction,Based on TV,Animation/Live Action,Action,1.0,148.0,602893340,385893340
-1894,Justice League,2017,213080100,300000000,229024295,426920914,PG-13,Super Hero,Based on Comic/Graphic Novel,Live Action,Action,0.0,121.0,655945209,355945209
-1895,Avengers: Infinity War,2017,202830100,300000000,678815482,1369982200,PG-13,Super Hero,Based on Comic/Graphic Novel,Animation/Live Action,Action,1.0,156.0,2048797682,1748797682
-1898,PMC: deo beong-keo,2018,390770100,10300000,0,12478635,,Contemporary Fiction,Original Screenplay,Live Action,Action,,119.0,12478635,2178635
-1899,Miss Bala,2018,321240100,15000000,14870702,110462,PG-13,Contemporary Fiction,Remake,Live Action,Action,0.0,104.0,14981164,-18836
-1905,Peppermint,2018,323950100,25000000,35418723,16393677,R,Contemporary Fiction,Original Screenplay,Live Action,Action,0.0,102.0,51812400,26812400
-1911,Mile 22,2018,236230100,35000000,36108758,30186363,R,Contemporary Fiction,Original Screenplay,Live Action,Action,0.0,90.0,66295121,31295121
-1926,Robin Hood,2018,243130100,99000000,30824628,53922813,PG-13,Historical Fiction,Based on Folk Tale/Legend/Fairytale,Live Action,Action,0.0,116.0,84747441,-14252559
-1927,Mortal Engines,2018,276480100,100000000,15951040,88282825,PG-13,Science Fiction,Based on Fiction Book/Short Story,Live Action,Action,0.0,128.0,104233865,4233865
-1928,Venom,2018,149960100,116000000,213511408,640117197,PG-13,Super Hero,Spin-Off,Animation/Live Action,Action,0.0,112.0,853628605,737628605
-1932,Aquaman,2018,213100100,160000000,333804251,805605026,PG-13,Super Hero,Based on Comic/Graphic Novel,Live Action,Action,0.0,143.0,1139409277,979409277
-1934,Mission: Impossible—Fallout,2018,248680100,178000000,220159104,567297448,PG-13,Contemporary Fiction,Based on TV,Live Action,Action,1.0,147.0,787456552,609456552
+,movie_name,production_year,production_budget,revenue,profit,genre,rating,sequel,creative_type,source
+1,Krrish,2006,10000000,32430721,22430721,Action,Not Rated,1.0,Science Fiction,Original Screenplay
+13,Crank,2006,12000000,43924923,31924923,Action,R,0.0,Contemporary Fiction,Original Screenplay
+26,The Marine,2006,15000000,22165608,7165608,Action,PG-13,0.0,Contemporary Fiction,Original Screenplay
+40,Running Scared,2006,17000000,9729088,-7270912,Action,R,0.0,Contemporary Fiction,Original Screenplay
+44,Renaissance,2006,18000000,2401413,-15598587,Action,R,0.0,Science Fiction,Original Screenplay
+63,BloodRayne,2006,25000000,3711633,-21288367,Action,R,0.0,Fantasy,Based on Game
+74,Ultraviolet,2006,30000000,30962112,962112,Action,PG-13,0.0,Science Fiction,Original Screenplay
+76,Wu ji,2006,30000000,35869934,5869934,Action,PG-13,0.0,Fantasy,Original Screenplay
+92,Alex Rider: Operation Stormbreaker,2006,40000000,20722450,-19277550,Action,PG,0.0,Contemporary Fiction,Based on Fiction Book/Short Story
+96,Apocalypto,2006,40000000,121032272,81032272,Action,R,0.0,Historical Fiction,Original Screenplay
+101,Underworld: Evolution,2006,45000000,113417762,68417762,Action,R,1.0,Fantasy,Original Screenplay
+103,Man cheng jin dai huang jin jia,2006,45000000,76904429,31904429,Action,R,0.0,Historical Fiction,Based on Play
+105,16 Blocks,2006,45000000,65595141,20595141,Action,PG-13,0.0,Contemporary Fiction,Original Screenplay
+109,V for Vendetta,2006,50000000,130214162,80214162,Action,R,0.0,Science Fiction,Based on Comic/Graphic Novel
+128,The Guardian,2006,70000000,94973540,24973540,Action,PG-13,0.0,Contemporary Fiction,Original Screenplay
+144,The Fast and the Furious: Tokyo Drift,2006,85000000,157794205,72794205,Action,PG-13,1.0,Contemporary Fiction,Based on Factual Book/Article
+147,Blood Diamond,2006,100000000,171377916,71377916,Action,R,0.0,Historical Fiction,Original Screenplay
+149,Casino Royale,2006,102000000,594420283,492420283,Action,PG-13,1.0,Contemporary Fiction,Based on Fiction Book/Short Story
+152,Miami Vice,2006,135000000,163818556,28818556,Action,R,0.0,Contemporary Fiction,Based on TV
+154,Mission: Impossible III,2006,150000000,397501348,247501348,Action,PG-13,1.0,Contemporary Fiction,Based on TV
+157,X-Men: The Last Stand,2006,210000000,459260946,249260946,Action,PG-13,1.0,Super Hero,Based on Comic/Graphic Novel
+161,Rescue Dawn,2007,10000000,7037886,-2962114,Action,PG-13,0.0,Historical Fiction,Based on Real Life Events
+174,Gwoemul,2007,12000000,92618117,80618117,Action,R,0.0,Science Fiction,Original Screenplay
+202,Arn - Tempelriddaren,2007,16500000,21404122,4904122,Action,R,0.0,Historical Fiction,Based on Fiction Book/Short Story
+218,Death Sentence,2007,20000000,16907831,-3092169,Action,R,0.0,Contemporary Fiction,Based on Fiction Book/Short Story
+230,Hitman,2007,24000000,99135571,75135571,Action,R,0.0,Contemporary Fiction,Original Screenplay
+231,War,2007,25000000,40686409,15686409,Action,R,0.0,Contemporary Fiction,Original Screenplay
+236,No Country for Old Men,2007,25000000,164035753,139035753,Action,R,0.0,Historical Fiction,Based on Fiction Book/Short Story
+246,DOA: Dead or Alive,2007,30000000,7755686,-22244314,Action,PG-13,0.0,Fantasy,Based on Game
+255,Dragon Wars: D-War,2007,32000000,79915361,47915361,Action,PG-13,0.0,Fantasy,Based on Folk Tale/Legend/Fairytale
+256,TMNT,2007,35000000,96096018,61096018,Action,PG,0.0,Science Fiction,Based on Comic/Graphic Novel
+262,Shoot 'Em Up,2007,39000000,26796824,-12203176,Action,R,0.0,Contemporary Fiction,Original Screenplay
+263,Aliens vs. Predator - Requiem,2007,40000000,128884494,88884494,Action,R,1.0,Science Fiction,Based on Movie
+271,Resident Evil: Extinction,2007,45000000,149871103,104871103,Action,R,1.0,Science Fiction,Based on Game
+281,300,2007,60000000,454161935,394161935,Action,R,0.0,Historical Fiction,Based on Comic/Graphic Novel
+284,The Last Legion,2007,67000000,25357771,-41642229,Action,PG-13,0.0,Historical Fiction,Based on Fiction Book/Short Story
+287,Next,2007,70000000,73591500,3591500,Action,PG-13,0.0,Science Fiction,Based on Fiction Book/Short Story
+289,The Kingdom,2007,72500000,86509602,14009602,Action,R,0.0,Contemporary Fiction,Original Screenplay
+299,Live Free or Die Hard,2007,110000000,382288147,272288147,Action,PG-13,1.0,Contemporary Fiction,Based on Fiction Book/Short Story
+300,Ghost Rider,2007,120000000,229545589,109545589,Action,PG-13,0.0,Super Hero,Based on Comic/Graphic Novel
+301,Fantastic Four: Rise of the Silver Surfer,2007,120000000,289480691,169480691,Action,PG,1.0,Super Hero,Based on Comic/Graphic Novel
+307,Transformers,2007,151000000,708272592,557272592,Action,PG-13,0.0,Science Fiction,Based on TV
+310,Rush Hour 3,2007,180000000,256585882,76585882,Action,PG-13,1.0,Contemporary Fiction,Original Screenplay
+322,Joheunnom nabbeunnom isanghannom,2008,10000000,42226657,32226657,Action,R,0.0,Historical Fiction,Original Screenplay
+340,Ong-Bak 2,2008,15000000,7583050,-7416950,Action,R,1.0,Contemporary Fiction,Original Screenplay
+357,RocknRolla,2008,18000000,27794339,9794339,Action,R,0.0,Contemporary Fiction,Original Screenplay
+362,Der Baader Meinhof Komplex,2008,19700000,16498827,-3201173,Action,R,0.0,Dramatization,Based on Real Life Events
+366,Three Kingdoms: Resurrection of the Dragon,2008,20000000,22139590,2139590,Action,R,0.0,Historical Fiction,Based on Fiction Book/Short Story
+387,Never Back Down,2008,21000000,39319801,18319801,Action,PG-13,0.0,Contemporary Fiction,Original Screenplay
+394,Cloverfield,2008,25000000,171302226,146302226,Action,PG-13,0.0,Science Fiction,Original Screenplay
+418,Doomsday,2008,33000000,21621188,-11378812,Action,R,0.0,Science Fiction,Original Screenplay
+421,The X-Files: I Want to Believe,2008,35000000,68170792,33170792,Action,PG-13,1.0,Science Fiction,Based on TV
+425,Max Payne,2008,35000000,87775050,52775050,Action,PG-13,0.0,Contemporary Fiction,Based on Game
+427,Punisher: War Zone,2008,35000000,10157534,-24842466,Action,R,1.0,Super Hero,Based on Comic/Graphic Novel
+436,Red Cliff,2008,40000000,119627047,79627047,Action,R,0.0,Dramatization,Based on Real Life Events
+437,Transporter 3,2008,40000000,107235592,67235592,Action,PG-13,1.0,Contemporary Fiction,Original Screenplay
+442,Bangkok Dangerous,2008,45000000,46598133,1598133,Action,R,0.0,Contemporary Fiction,Remake
+445,Babylon A.D.,2008,45000000,70216497,25216497,Action,PG-13,0.0,Science Fiction,Based on Fiction Book/Short Story
+447,Rambo,2008,47500000,112214531,64714531,Action,R,1.0,Contemporary Fiction,Based on Fiction Book/Short Story
+453,The Forbidden Kingdom,2008,55000000,129075270,74075270,Action,PG-13,0.0,Fantasy,Based on Fiction Book/Short Story
+458,The Spirit,2008,60000000,39006188,-20993812,Action,PG-13,0.0,Super Hero,Based on Comic/Graphic Novel
+463,In the Name of the King: A Dungeon Siege Tale,2008,60000000,13233220,-46766780,Action,PG-13,0.0,Fantasy,Based on Game
+467,Death Race,2008,65000000,72516819,7516819,Action,R,0.0,Science Fiction,Remake
+470,Wanted,2008,75000000,342416460,267416460,Action,R,0.0,Science Fiction,Based on Comic/Graphic Novel
+477,Hellboy II: The Golden Army,2008,82500000,160388063,77888063,Action,PG-13,1.0,Super Hero,Based on Comic/Graphic Novel
+485,Speed Racer,2008,120000000,93394462,-26605538,Action,PG,0.0,Science Fiction,Based on TV
+490,Hancock,2008,150000000,624234272,474234272,Action,PG-13,0.0,Super Hero,Original Screenplay
+496,The Dark Knight,2008,185000000,1001996207,816996207,Action,PG-13,1.0,Super Hero,Based on Comic/Graphic Novel
+499,Quantum of Solace,2008,230000000,591692078,361692078,Action,PG-13,1.0,Contemporary Fiction,Based on Fiction Book/Short Story
+558,12 Rounds,2009,20000000,17306648,-2693352,Action,PG-13,0.0,Contemporary Fiction,Original Screenplay
+574,Shi Yue Wei Cheng,2009,23000000,44195779,21195779,Action,,0.0,Historical Fiction,
+578,Faster,2009,24000000,35792945,11792945,Action,R,0.0,Contemporary Fiction,Original Screenplay
+580,Fighting,2009,25000000,32831707,7831707,Action,PG-13,0.0,Contemporary Fiction,Original Screenplay
+613,Underworld 3: Rise of the Lycans,2009,35000000,89102315,54102315,Action,R,1.0,Fantasy,Original Screenplay
+615,Obitaemyy ostrov,2009,36500000,15000000,-21500000,Action,,0.0,Science Fiction,Based on Fiction Book/Short Story
+628,Cirque du Freak: The Vampire's Assistant,2009,40000000,39753957,-246043,Action,PG-13,0.0,Fantasy,Based on Fiction Book/Short Story
+635,Street Fighter: The Legend of Chun-Li,2009,50000000,12660287,-37339713,Action,PG-13,0.0,Contemporary Fiction,Based on Game
+642,Gamer,2009,50000000,42002029,-7997971,Action,R,0.0,Science Fiction,Original Screenplay
+643,Ninja Assassin,2009,50000000,62209892,12209892,Action,R,0.0,Contemporary Fiction,Original Screenplay
+649,Red Tails,2009,58000000,50365498,-7634502,Action,PG-13,0.0,Historical Fiction,Based on Real Life Events
+664,Inglourious Basterds,2009,70000000,316915264,246915264,Action,R,0.0,Historical Fiction,Original Screenplay
+666,Killers,2009,75000000,95572749,20572749,Action,PG-13,0.0,Contemporary Fiction,Original Screenplay
+667,Surrogates,2009,80000000,119668350,39668350,Action,PG-13,0.0,Science Fiction,Based on Comic/Graphic Novel
+671,Fast & Furious,2009,85000000,363064265,278064265,Action,PG-13,1.0,Contemporary Fiction,Based on Factual Book/Article
+680,The Taking of Pelham 123,2009,110000000,152364370,42364370,Action,R,0.0,Contemporary Fiction,Remake
+681,Watchmen,2009,138000000,186976250,48976250,Action,R,0.0,Super Hero,Based on Comic/Graphic Novel
+684,X-Men Origins: Wolverine,2009,150000000,374825760,224825760,Action,PG-13,0.0,Super Hero,Spin-Off
+689,G.I. Joe: The Rise of Cobra,2009,175000000,302469017,127469017,Action,PG-13,0.0,Contemporary Fiction,Based on Toy
+691,2012,2009,200000000,788408539,588408539,Action,PG-13,0.0,Science Fiction,Original Screenplay
+692,Terminator Salvation,2009,200000000,365491792,165491792,Action,PG-13,1.0,Science Fiction,Original Screenplay
+693,Transformers: Revenge of the Fallen,2009,210000000,836519699,626519699,Action,PG-13,1.0,Science Fiction,Based on TV
+695,Avatar,2009,425000000,2776345279,2351345279,Action,PG-13,0.0,Science Fiction,Original Screenplay
+717,Machete,2010,12500000,46370970,33870970,Action,R,0.0,Contemporary Fiction,Original Screenplay
+736,Centurion,2010,15000000,7885048,-7114952,Action,R,0.0,Historical Fiction,Original Screenplay
+782,The Losers,2010,25000000,29863840,4863840,Action,PG-13,0.0,Contemporary Fiction,Based on Comic/Graphic Novel
+785,The Eagle,2010,25000000,38993548,13993548,Action,PG-13,0.0,Historical Fiction,Based on Fiction Book/Short Story
+810,Repo Men,2010,32000000,18195238,-13804762,Action,R,0.0,Science Fiction,Based on Fiction Book/Short Story
+814,The Darkest Hour,2010,34800000,62831715,28031715,Action,PG-13,0.0,Science Fiction,Original Screenplay
+839,Predators,2010,40000000,127234389,87234389,Action,R,1.0,Science Fiction,Original Screenplay
+844,The Mechanic,2010,42500000,76347393,33847393,Action,R,0.0,Contemporary Fiction,Remake
+850,Jonah Hex,2010,47000000,11022696,-35977304,Action,PG-13,0.0,Historical Fiction,Based on Comic/Graphic Novel
+856,Drive Angry,2010,50000000,41042583,-8957417,Action,R,0.0,Fantasy,Original Screenplay
+866,Ghost Rider: Spirit of Vengeance,2010,57000000,149217355,92217355,Action,PG-13,1.0,Contemporary Fiction,Original Screenplay
+868,Red,2010,60000000,196439693,136439693,Action,PG-13,0.0,Contemporary Fiction,Based on Comic/Graphic Novel
+873,Red Dawn,2010,65000000,48164150,-16835850,Action,PG-13,0.0,Contemporary Fiction,Remake
+880,Battle: Los Angeles,2010,70000000,213463976,143463976,Action,PG-13,0.0,Science Fiction,Original Screenplay
+886,The Book of Eli,2010,80000000,158750817,78750817,Action,R,0.0,Science Fiction,Original Screenplay
+888,The Expendables,2010,82000000,268268174,186268174,Action,R,0.0,Contemporary Fiction,Original Screenplay
+891,Conan the Barbarian,2010,90000000,63356133,-26643867,Action,R,0.0,Fantasy,Based on Fiction Book/Short Story
+894,Unstoppable,2010,95000000,165720921,70720921,Action,PG-13,0.0,Dramatization,Based on Real Life Events
+901,The Green Hornet,2010,110000000,229155503,119155503,Action,PG-13,0.0,Super Hero,Based on TV
+902,Real Steel,2010,110000000,263880341,153880341,Action,PG-13,0.0,Science Fiction,Based on Fiction Book/Short Story
+903,The A-Team,2010,110000000,177241171,67241171,Action,PG-13,0.0,Contemporary Fiction,Based on TV
+905,Knight and Day,2010,117000000,258751370,141751370,Action,PG-13,0.0,Contemporary Fiction,Original Screenplay
+907,Clash of the Titans,2010,125000000,493214888,368214888,Action,PG-13,0.0,Fantasy,Remake
+919,Iron Man 2,2010,170000000,621156389,451156389,Action,PG-13,1.0,Super Hero,Based on Comic/Graphic Novel
+922,Prince of Persia: Sands of Time,2010,200000000,336359676,136359676,Action,PG-13,0.0,Fantasy,Based on Game
+924,Robin Hood,2010,210000000,322459006,112459006,Action,PG-13,0.0,Historical Fiction,Based on Folk Tale/Legend/Fairytale
+937,For Greater Glory: The True Story of Cristiada,2011,12000000,10026255,-1973745,Action,R,0.0,Dramatization,Based on Real Life Events
+941,Act of Valor,2011,12000000,82497035,70497035,Action,R,0.0,Contemporary Fiction,Original Screenplay
+944,Attack the Block,2011,13000000,6459183,-6540817,Action,R,0.0,Fantasy,Original Screenplay
+947,Reign of Assassins,2011,14000000,11354230,-2645770,Action,R,0.0,Historical Fiction,Original Screenplay
+953,Drive,2011,15000000,81357930,66357930,Action,R,0.0,Contemporary Fiction,Based on Fiction Book/Short Story
+955,The Man with the Iron Fists,2011,15000000,22018988,7018988,Action,R,0.0,Contemporary Fiction,Original Screenplay
+977,Contraband,2011,25000000,98406855,73406855,Action,R,0.0,Contemporary Fiction,Remake
+982,Ironclad,2011,25000000,5297411,-19702589,Action,R,0.0,Historical Fiction,Original Screenplay
+993,Looper,2011,30000000,170466405,140466405,Action,R,0.0,Science Fiction,Original Screenplay
+1001,Safe,2011,33000000,41495213,8495213,Action,R,0.0,Contemporary Fiction,Original Screenplay
+1013,Riddick,2011,38000000,94763758,56763758,Action,R,1.0,Science Fiction,Original Screenplay
+1029,Dredd,2011,45000000,41467606,-3532394,Action,R,0.0,Science Fiction,Based on Comic/Graphic Novel
+1033,Hansel & Gretel: Witch Hunters,2011,50000000,214949716,164949716,Action,R,0.0,Contemporary Fiction,Based on Folk Tale/Legend/Fairytale
+1037,Bullet to the Head,2011,55000000,22597969,-32402031,Action,R,0.0,Contemporary Fiction,Based on Comic/Graphic Novel
+1038,The Equalizer,2011,55000000,192903624,137903624,Action,R,0.0,Contemporary Fiction,Based on TV
+1047,Sin City: A Dame to Kill For,2011,65000000,40650842,-24349158,Action,R,1.0,Fantasy,Based on Comic/Graphic Novel
+1051,Killer Elite,2011,70000000,65409046,-4590954,Action,R,0.0,Contemporary Fiction,Based on Fiction Book/Short Story
+1054,Underworld: Awakening,2011,70000000,160379930,90379930,Action,R,1.0,Fantasy,Original Screenplay
+1055,Immortals,2011,75000000,211562435,136562435,Action,R,0.0,Fantasy,Based on Folk Tale/Legend/Fairytale
+1056,Sucker Punch,2011,75000000,89758389,14758389,Action,R,0.0,Fantasy,Original Screenplay
+1078,Sherlock Holmes: A Game of Shadows,2011,125000000,535663443,410663443,Action,PG-13,1.0,Historical Fiction,Based on Fiction Book/Short Story
+1079,Fast Five,2011,125000000,630163454,505163454,Action,PG-13,1.0,Contemporary Fiction,Based on Factual Book/Article
+1084,R.I.P.D.,2011,130000000,79076678,-50923322,Action,PG-13,0.0,Science Fiction,Based on Comic/Graphic Novel
+1089,Captain America: The First Avenger,2011,140000000,370569776,230569776,Action,PG-13,0.0,Super Hero,Based on Comic/Graphic Novel
+1090,Mission: Impossible—Ghost Protocol,2011,145000000,694713230,549713230,Action,PG-13,1.0,Contemporary Fiction,Based on TV
+1091,Thor,2011,150000000,449326618,299326618,Action,PG-13,0.0,Super Hero,Based on Comic/Graphic Novel
+1094,X-Men: First Class,2011,160000000,355408305,195408305,Action,PG-13,1.0,Super Hero,Based on Comic/Graphic Novel
+1095,Cowboys and Aliens,2011,163000000,176038324,13038324,Action,PG-13,0.0,Science Fiction,Based on Comic/Graphic Novel
+1097,Edge of Tomorrow,2011,178000000,370541256,192541256,Action,PG-13,0.0,Science Fiction,Based on Comic/Graphic Novel
+1099,World War Z,2011,190000000,531514650,341514650,Action,PG-13,0.0,Science Fiction,Based on Fiction Book/Short Story
+1100,Transformers: Dark of the Moon,2011,195000000,1123790543,928790543,Action,PG-13,1.0,Science Fiction,Based on TV
+1102,Green Lantern,2011,200000000,219535492,19535492,Action,PG-13,0.0,Super Hero,Based on Comic/Graphic Novel
+1107,Battleship,2011,220000000,313477717,93477717,Action,PG-13,0.0,Contemporary Fiction,Based on Game
+1108,The Avengers,2011,225000000,1517935897,1292935897,Action,PG-13,0.0,Super Hero,Based on Comic/Graphic Novel
+1149,Pain & Gain,2012,26000000,81275291,55275291,Action,R,0.0,Contemporary Fiction,Based on Real Life Events
+1151,The Last Stand,2012,30000000,48330757,18330757,Action,R,0.0,Contemporary Fiction,Original Screenplay
+1159,Stolen,2012,35000000,17967746,-17032254,Action,R,0.0,Contemporary Fiction,Original Screenplay
+1174,2 Guns,2012,61000000,132493015,71493015,Action,R,0.0,Contemporary Fiction,Based on Comic/Graphic Novel
+1175,"I, Frankenstein",2012,65000000,74575290,9575290,Action,PG-13,0.0,Fantasy,Based on Comic/Graphic Novel
+1177,Resident Evil: Retribution,2012,65000000,240647629,175647629,Action,R,1.0,Science Fiction,Based on Game
+1184,A Good Day to Die Hard,2012,92000000,304249198,212249198,Action,R,1.0,Contemporary Fiction,Original Screenplay
+1186,The Expendables 2,2012,100000000,311979256,211979256,Action,R,1.0,Contemporary Fiction,Original Screenplay
+1190,Elysium,2012,120000000,286192091,166192091,Action,R,0.0,Science Fiction,Original Screenplay
+1191,Total Recall,2012,125000000,211856088,86856088,Action,PG-13,0.0,Science Fiction,Based on Fiction Book/Short Story
+1192,After Earth,2012,130000000,251499665,121499665,Action,PG-13,0.0,Science Fiction,Original Screenplay
+1194,G.I. Joe: Retaliation,2012,140000000,375740705,235740705,Action,PG-13,1.0,Contemporary Fiction,Based on Toy
+1198,Fast and Furious 6,2012,160000000,789300444,629300444,Action,PG-13,1.0,Contemporary Fiction,Based on Factual Book/Article
+1203,Skyfall,2012,200000000,1110526981,910526981,Action,PG-13,1.0,Contemporary Fiction,Based on Fiction Book/Short Story
+1205,Iron Man 3,2012,200000000,1215392272,1015392272,Action,PG-13,1.0,Super Hero,Based on Comic/Graphic Novel
+1206,Man of Steel,2012,225000000,667999518,442999518,Action,PG-13,1.0,Super Hero,Based on Comic/Graphic Novel
+1208,The Dark Knight Rises,2012,275000000,1084439099,809439099,Action,PG-13,1.0,Super Hero,Based on Comic/Graphic Novel
+1213,"Cinco de Mayo, La Batalla",2013,10000000,173472,-9826528,Action,R,0.0,Dramatization,Based on Real Life Events
+1229,Broken Horses,2013,15000000,3471,-14996529,Action,R,0.0,Contemporary Fiction,Original Screenplay
+1247,Machete Kills,2013,20000000,18273009,-1726991,Action,R,1.0,Contemporary Fiction,Original Screenplay
+1253,Homefront,2013,22000000,51695362,29695362,Action,R,0.0,Contemporary Fiction,Based on Fiction Book/Short Story
+1258,Dhoom 3,2013,24000000,11723620,-12276380,Action,Not Rated,1.0,,
+1267,A Walk Among the Tombstones,2013,28000000,62108587,34108587,Action,R,0.0,Historical Fiction,Based on Fiction Book/Short Story
+1268,Kick-Ass 2,2013,28000000,63129909,35129909,Action,R,0.0,Contemporary Fiction,Based on Comic/Graphic Novel
+1283,Yi dai zong shi,2013,38600000,57987299,19387299,Action,PG-13,0.0,Dramatization,Based on Real Life Events
+1284,Lone Survivor,2013,40000000,149804632,109804632,Action,R,0.0,Dramatization,Based on Factual Book/Article
+1292,Non-Stop,2013,50000000,222383055,172383055,Action,PG-13,0.0,Contemporary Fiction,Original Screenplay
+1297,Jack Ryan: Shadow Recruit,2013,60000000,131377412,71377412,Action,PG-13,0.0,Contemporary Fiction,Original Screenplay
+1308,RED 2,2013,84000000,141507355,57507355,Action,PG-13,1.0,Contemporary Fiction,Based on Comic/Graphic Novel
+1313,Hercules,2013,100000000,243388614,143388614,Action,PG-13,0.0,Fantasy,Based on Folk Tale/Legend/Fairytale
+1315,300: Rise of an Empire,2013,110000000,330780051,220780051,Action,R,1.0,Historical Fiction,Based on Comic/Graphic Novel
+1317,The Wolverine,2013,115000000,416456852,301456852,Action,PG-13,1.0,Super Hero,Based on Comic/Graphic Novel
+1318,RoboCop,2013,120000000,242981799,122981799,Action,PG-13,0.0,Science Fiction,Remake
+1324,Thor: The Dark World,2013,150000000,644602516,494602516,Action,PG-13,1.0,Super Hero,Based on Comic/Graphic Novel
+1327,47 Ronin,2013,175000000,151716815,-23283185,Action,PG-13,0.0,Fantasy,Original Screenplay
+1329,Pacific Rim,2013,190000000,411002906,221002906,Action,PG-13,0.0,Science Fiction,Original Screenplay
+1330,The Amazing Spider-Man 2,2013,200000000,708996336,508996336,Action,PG-13,1.0,Super Hero,Based on Comic/Graphic Novel
+1331,Transformers: Age of Extinction,2013,210000000,1104039076,894039076,Action,PG-13,1.0,Science Fiction,Based on TV
+1336,Plastic,2014,10000000,575371,-9424629,Action,R,0.0,Contemporary Fiction,Original Screenplay
+1338,American Heist,2014,10000000,2341218,-7658782,Action,R,0.0,Contemporary Fiction,Original Screenplay
+1391,Yi ge ren de wu lin,2014,25000000,129115,-24870885,Action,Not Rated,0.0,Contemporary Fiction,Original Screenplay
+1392,Red Sky,2014,25000000,91116,-24908884,Action,PG-13,0.0,Contemporary Fiction,Based on Fiction Book/Short Story
+1396,Brick Mansions,2014,28000000,73421224,45421224,Action,PG-13,0.0,Science Fiction,Original Screenplay
+1399,John Wick,2014,30000000,76235001,46235001,Action,R,0.0,Contemporary Fiction,Original Screenplay
+1401,Wild Card,2014,30000000,4315789,-25684211,Action,R,0.0,Contemporary Fiction,Based on Fiction Book/Short Story
+1406,Hitman: Agent 47,2014,35000000,82182803,47182803,Action,R,0.0,Contemporary Fiction,Based on Game
+1407,Sabotage,2014,35000000,18376443,-16623557,Action,R,0.0,Contemporary Fiction,Original Screenplay
+1414,Lucy,2014,40000000,457507776,417507776,Action,R,0.0,Science Fiction,Original Screenplay
+1423,Chappie,2014,49000000,105002056,56002056,Action,R,0.0,Science Fiction,Original Screenplay
+1438,Need for Speed,2014,66000000,194169619,128169619,Action,PG-13,0.0,Contemporary Fiction,Based on Game
+1440,Dracula Untold,2014,70000000,220241723,150241723,Action,PG-13,0.0,Fantasy,Based on Fiction Book/Short Story
+1446,Kingsman: The Secret Service,2014,94000000,404561724,310561724,Action,R,0.0,Contemporary Fiction,Based on Comic/Graphic Novel
+1450,The Expendables 3,2014,100000000,209461378,109461378,Action,PG-13,1.0,Contemporary Fiction,Original Screenplay
+1453,The Divergent Series: Insurgent,2014,110000000,295075882,185075882,Action,PG-13,1.0,Science Fiction,Based on Fiction Book/Short Story
+1462,Mad Max: Fury Road,2014,150000000,370098020,220098020,Action,R,1.0,Science Fiction,Original Screenplay
+1463,Godzilla,2014,160000000,529076069,369076069,Action,PG-13,0.0,Science Fiction,Remake
+1466,Captain America: The Winter Soldier,2014,170000000,714401889,544401889,Action,PG-13,1.0,Super Hero,Based on Comic/Graphic Novel
+1467,Guardians of the Galaxy,2014,170000000,770867516,600867516,Action,PG-13,0.0,Super Hero,Based on Comic/Graphic Novel
+1471,Jupiter Ascending,2014,179000000,181982519,2982519,Action,PG-13,0.0,Science Fiction,Original Screenplay
+1473,Furious 7,2014,190000000,1518722794,1328722794,Action,PG-13,1.0,Contemporary Fiction,Original Screenplay
+1474,X-Men: Days of Future Past,2014,200000000,747862775,547862775,Action,PG-13,1.0,Super Hero,Based on Comic/Graphic Novel
+1475,Jurassic World,2014,215000000,1648854864,1433854864,Action,PG-13,1.0,Science Fiction,Based on Fiction Book/Short Story
+1477,Avengers: Age of Ultron,2014,330600000,1403013963,1072413963,Action,PG-13,1.0,Super Hero,Based on Comic/Graphic Novel
+1479,Free Fire,2015,10000000,3793739,-6206261,Action,R,0.0,Historical Fiction,Original Screenplay
+1495,Brothers,2015,13000000,17856688,4856688,Action,Not Rated,0.0,Contemporary Fiction,Remake
+1496,Bajrangi Bhaijaan,2015,13000000,121778347,108778347,Action,Not Rated,0.0,Contemporary Fiction,Original Screenplay
+1534,The Transporter Refueled,2015,22000000,69698495,47698495,Action,PG-13,0.0,Contemporary Fiction,Original Screenplay
+1548,Collide,2015,29200000,5466698,-23733302,Action,PG-13,0.0,Contemporary Fiction,Original Screenplay
+1557,Criminal,2015,31500000,38771262,7271262,Action,R,0.0,Science Fiction,Original Screenplay
+1569,Yip Man 3,2015,36000000,157300954,121300954,Action,PG-13,1.0,Historical Fiction,Based on Real Life Events
+1573,The 5th Wave,2015,38000000,111336398,73336398,Action,PG-13,0.0,Science Fiction,Based on Fiction Book/Short Story
+1578,Baahubali: The Beginning,2015,40000000,26736665,-13263335,Action,Not Rated,0.0,Historical Fiction,Original Screenplay
+1583,Taken 3,2015,48000000,327656424,279656424,Action,PG-13,1.0,Contemporary Fiction,Original Screenplay
+1589,Run All Night,2015,50000000,66961644,16961644,Action,R,0.0,Contemporary Fiction,Original Screenplay
+1595,Deadpool,2015,58000000,801025593,743025593,Action,R,0.0,Super Hero,Based on Comic/Graphic Novel
+1599,Xi You Ji zhi Sun Wu Kong San Da Bai Gu Jing,2015,60000000,194058503,134058503,Action,Not Rated,1.0,Fantasy,Based on Fiction Book/Short Story
+1600,London Has Fallen,2015,60000000,195194085,135194085,Action,R,1.0,Contemporary Fiction,Original Screenplay
+1604,Tian jiang xiong shi,2015,65000000,122519874,57519874,Action,R,0.0,Historical Fiction,Original Screenplay
+1609,The Man From U.N.C.L.E.,2015,75000000,104949584,29949584,Action,PG-13,0.0,Historical Fiction,Based on TV
+1611,The Last Witch Hunter,2015,80000000,130818912,50818912,Action,PG-13,0.0,Fantasy,Original Screenplay
+1615,Point Break,2015,100000000,126704591,26704591,Action,PG-13,0.0,Contemporary Fiction,Remake
+1617,The Divergent Series: Allegiant,2015,110000000,172022517,62022517,Action,PG-13,1.0,Science Fiction,Based on Fiction Book/Short Story
+1618,The Huntsman: Winter’s War,2015,115000000,165149302,50149302,Action,PG-13,1.0,Fantasy,Based on Folk Tale/Legend/Fairytale
+1619,Fantastic Four,2015,120000000,167849187,47849187,Action,PG-13,0.0,Super Hero,Based on Comic/Graphic Novel
+1621,Ant-Man,2015,130000000,518858449,388858449,Action,PG-13,0.0,Super Hero,Based on Comic/Graphic Novel
+1626,Mission: Impossible—Rogue Nation,2015,150000000,688858992,538858992,Action,PG-13,1.0,Contemporary Fiction,Based on TV
+1629,Terminator: Genisys,2015,155000000,432150894,277150894,Action,PG-13,1.0,Science Fiction,Original Screenplay
+1631,Warcraft,2015,160000000,425522281,265522281,Action,PG-13,0.0,Fantasy,Based on Game
+1633,Independence Day: Resurgence,2015,165000000,384169424,219169424,Action,PG-13,1.0,Science Fiction,Original Screenplay
+1635,X-Men: Apocalypse,2015,178000000,542537546,364537546,Action,PG-13,1.0,Super Hero,Based on Comic/Graphic Novel
+1638,Batman v Superman: Dawn of Justice,2015,250000000,867500281,617500281,Action,PG-13,1.0,Super Hero,Based on Comic/Graphic Novel
+1639,Captain America: Civil War,2015,250000000,1140069413,890069413,Action,PG-13,1.0,Super Hero,Based on Comic/Graphic Novel
+1640,Spectre,2015,300000000,879620923,579620923,Action,PG-13,1.0,Contemporary Fiction,Based on Fiction Book/Short Story
+1645,Max Steel,2016,10000000,4563080,-5436920,Action,PG-13,0.0,Science Fiction,Based on Toy
+1653,Sultan,2016,11000000,72989781,61989781,Action,Not Rated,0.0,Contemporary Fiction,Original Screenplay
+1657,Operation Chromite,2016,12700000,49196532,36496532,Action,Not Rated,0.0,Historical Fiction,Original Screenplay
+1667,I Am Wrath,2016,18000000,309608,-17690392,Action,R,0.0,Contemporary Fiction,Original Screenplay
+1686,CHiPS,2016,25000000,23190292,-1809708,Action,R,0.0,Contemporary Fiction,Based on TV
+1695,The Lost City of Z,2016,30000000,17121823,-12878177,Action,PG-13,0.0,Dramatization,Based on Factual Book/Article
+1696,Baahubali 2: The Conclusion,2016,30000000,263502914,233502914,Action,Not Rated,1.0,Historical Fiction,Based on Fiction Book/Short Story
+1699,Birth of the Dragon,2016,31000000,7220490,-23779510,Action,PG-13,0.0,Historical Fiction,Based on Real Life Events
+1704,Underworld: Blood Wars,2016,35000000,81209222,46209222,Action,R,1.0,Fantasy,Based on Folk Tale/Legend/Fairytale
+1707,John Wick: Chapter Two,2016,40000000,171350009,131350009,Action,R,1.0,Contemporary Fiction,Original Screenplay
+1711,Mechanic: Resurrection,2016,40000000,109738840,69738840,Action,R,1.0,Contemporary Fiction,Original Screenplay
+1714,Resident Evil: The Final Chapter,2016,40000000,314101190,274101190,Action,R,1.0,Science Fiction,Based on Game
+1715,The Commuter,2016,40000000,101985431,61985431,Action,PG-13,0.0,Contemporary Fiction,Original Screenplay
+1729,Jack Reacher: Never Go Back,2016,60000000,159946489,99946489,Action,PG-13,1.0,Contemporary Fiction,Based on Fiction Book/Short Story
+1739,Renegades,2016,77500000,1521672,-75978328,Action,PG-13,0.0,Contemporary Fiction,Original Screenplay
+1742,xXx: Return of Xander Cage,2016,85000000,345033359,260033359,Action,PG-13,1.0,Contemporary Fiction,Original Screenplay
+1750,Ghost in the Shell,2016,110000000,167910690,57910690,Action,PG-13,0.0,Science Fiction,Based on Comic/Graphic Novel
+1753,Jason Bourne,2016,120000000,416168316,296168316,Action,PG-13,0.0,Contemporary Fiction,Based on Fiction Book/Short Story
+1754,Power Rangers,2016,120000000,142531552,22531552,Action,PG-13,0.0,Kids Fiction,Based on TV
+1756,Assassin’s Creed,2016,125000000,240759682,115759682,Action,PG-13,0.0,Science Fiction,Based on Game
+1758,Logan,2016,127000000,615461394,488461394,Action,R,1.0,Super Hero,Based on Comic/Graphic Novel
+1761,The Great Wall,2016,150000000,334486852,184486852,Action,PG-13,0.0,Historical Fiction,Original Screenplay
+1762,Wonder Woman,2016,150000000,821133378,671133378,Action,PG-13,0.0,Super Hero,Based on Comic/Graphic Novel
+1765,Doctor Strange,2016,165000000,676404566,511404566,Action,PG-13,0.0,Super Hero,Based on Comic/Graphic Novel
+1768,Spider-Man: Homecoming,2016,175000000,880166350,705166350,Action,PG-13,0.0,Super Hero,Based on Comic/Graphic Novel
+1769,Suicide Squad,2016,175000000,746059887,571059887,Action,PG-13,0.0,Super Hero,Based on Comic/Graphic Novel
+1774,Guardians of the Galaxy Vol 2,2016,200000000,862316233,662316233,Action,PG-13,1.0,Super Hero,Based on Comic/Graphic Novel
+1777,The Fate of the Furious,2016,250000000,1234846267,984846267,Action,PG-13,1.0,Contemporary Fiction,Original Screenplay
+1794,Superfly,2017,16000000,20723581,4723581,Action,R,0.0,Contemporary Fiction,Remake
+1809,Chāi dàn zhuānjiā,2017,23000000,58807172,35807172,Action,Not Rated,0.0,Contemporary Fiction,Original Screenplay
+1822,Kin,2017,30000000,10096821,-19903179,Action,PG-13,0.0,Science Fiction,Based on Fiction Book/Short Story
+1823,Death Wish,2017,30000000,48575965,18575965,Action,R,0.0,Contemporary Fiction,Remake
+1825,Den of Thieves,2017,30000000,80131391,50131391,Action,R,0.0,Contemporary Fiction,Original Screenplay
+1826,The Hitman’s Bodyguard,2017,30000000,172778667,142778667,Action,R,0.0,Contemporary Fiction,Original Screenplay
+1829,Proud Mary,2017,30000000,21709539,-8290461,Action,R,0.0,Contemporary Fiction,Original Screenplay
+1834,Sicario: Day of the Soldado,2017,35000000,75885196,40885196,Action,R,1.0,Contemporary Fiction,Original Screenplay
+1837,The Foreigner,2017,35000000,140783360,105783360,Action,R,0.0,Contemporary Fiction,Based on Fiction Book/Short Story
+1864,Ocean’s 8,2017,70000000,297115976,227115976,Action,PG-13,1.0,Contemporary Fiction,Original Screenplay
+1867,The Equalizer 2,2017,77000000,190453132,113453132,Action,R,1.0,Contemporary Fiction,Based on TV
+1868,The Predator,2017,88000000,159487563,71487563,Action,R,1.0,Science Fiction,Original Screenplay
+1869,Tomb Raider,2017,90000000,273477501,183477501,Action,PG-13,0.0,Contemporary Fiction,Based on Game
+1870,Geostorm,2017,100000000,220796009,120796009,Action,PG-13,0.0,Science Fiction,Original Screenplay
+1873,Kingsman: The Golden Circle,2017,104000000,408803696,304803696,Action,R,1.0,Contemporary Fiction,Based on Comic/Graphic Novel
+1874,Deadpool 2,2017,110000000,786680557,676680557,Action,R,1.0,Super Hero,Based on Comic/Graphic Novel
+1876,Rampage,2017,120000000,428056280,308056280,Action,PG-13,0.0,Science Fiction,Based on Game
+1877,Skyscraper,2017,125000000,304115534,179115534,Action,PG,0.0,Contemporary Fiction,Original Screenplay
+1878,Ant-Man and the Wasp,2017,130000000,623144660,493144660,Action,PG-13,1.0,Super Hero,Based on Comic/Graphic Novel
+1880,Dunkirk,2017,150000000,499837368,349837368,Action,PG-13,0.0,Dramatization,Original Screenplay
+1881,War for the Planet of the Apes,2017,152000000,489592267,337592267,Action,PG-13,1.0,Science Fiction,Original Screenplay
+1882,Pacific Rim: Uprising,2017,155000000,290930148,135930148,Action,PG-13,1.0,Science Fiction,Original Screenplay
+1883,Jurassic World: Fallen Kingdom,2017,170000000,1305772799,1135772799,Action,PG-13,1.0,Science Fiction,Based on Fiction Book/Short Story
+1886,The Meg,2017,178000000,529530715,351530715,Action,PG-13,0.0,Science Fiction,Based on Fiction Book/Short Story
+1887,Thor: Ragnarok,2017,180000000,846980024,666980024,Action,PG-13,1.0,Super Hero,Based on Comic/Graphic Novel
+1891,Black Panther,2017,200000000,1348258224,1148258224,Action,PG-13,0.0,Super Hero,Based on Comic/Graphic Novel
+1892,Transformers: The Last Knight,2017,217000000,602893340,385893340,Action,PG-13,1.0,Science Fiction,Based on TV
+1894,Justice League,2017,300000000,655945209,355945209,Action,PG-13,0.0,Super Hero,Based on Comic/Graphic Novel
+1895,Avengers: Infinity War,2017,300000000,2048797682,1748797682,Action,PG-13,1.0,Super Hero,Based on Comic/Graphic Novel
+1898,PMC: deo beong-keo,2018,10300000,12478635,2178635,Action,,,Contemporary Fiction,Original Screenplay
+1899,Miss Bala,2018,15000000,14981164,-18836,Action,PG-13,0.0,Contemporary Fiction,Remake
+1905,Peppermint,2018,25000000,51812400,26812400,Action,R,0.0,Contemporary Fiction,Original Screenplay
+1911,Mile 22,2018,35000000,66295121,31295121,Action,R,0.0,Contemporary Fiction,Original Screenplay
+1926,Robin Hood,2018,99000000,84747441,-14252559,Action,PG-13,0.0,Historical Fiction,Based on Folk Tale/Legend/Fairytale
+1927,Mortal Engines,2018,100000000,104233865,4233865,Action,PG-13,0.0,Science Fiction,Based on Fiction Book/Short Story
+1928,Venom,2018,116000000,853628605,737628605,Action,PG-13,0.0,Super Hero,Spin-Off
+1932,Aquaman,2018,160000000,1139409277,979409277,Action,PG-13,0.0,Super Hero,Based on Comic/Graphic Novel
+1934,Mission: Impossible—Fallout,2018,178000000,787456552,609456552,Action,PG-13,1.0,Contemporary Fiction,Based on TV
+84,Bandidas,2006,35000000,19282590,-15717410,Western,PG-13,0.0,Historical Fiction,Original Screenplay
+253,The Assassination of Jesse James by the Coward Robert Ford,2007,30000000,15313631,-14686369,Western,R,0.0,Dramatization,Based on Fiction Book/Short Story
+273,3:10 to Yuma,2007,48000000,71171825,23171825,Western,R,0.0,Historical Fiction,Remake
+377,Appaloosa,2008,20000000,27911453,7911453,Western,R,0.0,Historical Fiction,Based on Fiction Book/Short Story
+823,True Grit,2010,35000000,252276928,217276928,Western,PG-13,0.0,Historical Fiction,Based on Fiction Book/Short Story
+843,The Warrior's Way,2010,42000000,8514325,-33485675,Western,R,0.0,Historical Fiction,Original Screenplay
+1073,Django Unchained,2011,100000000,449948323,349948323,Western,R,0.0,Historical Fiction,Original Screenplay
+1333,The Lone Ranger,2013,275000000,260002115,-14997885,Western,PG-13,0.0,Historical Fiction,Based on TV
+1366,The Homesman,2014,16000000,8217571,-7782429,Western,R,0.0,Historical Fiction,Based on Fiction Book/Short Story
+1389,Jane Got a Gun,2014,25000000,3771345,-21228655,Western,R,0.0,Historical Fiction,Original Screenplay
+1602,The Hateful Eight,2015,62000000,147864886,85864886,Western,R,0.0,Historical Fiction,Original Screenplay
+1656,Hell or High Water,2016,12000000,37584304,25584304,Western,R,0.0,Contemporary Fiction,Original Screenplay
+1746,The Magnificent Seven,2016,90000000,162525156,72525156,Western,PG-13,0.0,Historical Fiction,Remake
+1841,The Sisters Brothers,2017,38000000,10370716,-27629284,Western,R,0.0,Historical Fiction,Based on Fiction Book/Short Story
+1858,The Dark Tower,2017,60000000,113461527,53461527,Western,PG-13,1.0,Science Fiction,Based on Fiction Book/Short Story
+29,Hoot,2006,15000000,8224998,-6775002,Adventure,PG,0.0,Contemporary Fiction,Based on Fiction Book/Short Story
+47,Doogal,2006,20000000,28058652,8058652,Adventure,G,0.0,Kids Fiction,Based on TV
+62,Unaccompanied Minors,2006,25000000,21970831,-3029169,Adventure,PG,0.0,Contemporary Fiction,Original Screenplay
+66,Nanny McPhee,2006,25000000,128745578,103745578,Adventure,PG,0.0,Fantasy,Based on Fiction Book/Short Story
+88,Zoom,2006,35000000,12506188,-22493812,Adventure,PG,0.0,Super Hero,Based on Comic/Graphic Novel
+93,Eight Below,2006,40000000,120455994,80455994,Adventure,PG,0.0,Contemporary Fiction,Remake
+102,The Ant Bully,2006,45000000,49610898,4610898,Adventure,PG,0.0,Kids Fiction,Based on Fiction Book/Short Story
+106,Happily N'Ever After,2006,47000000,37923818,-9076182,Adventure,PG,0.0,Kids Fiction,Original Screenplay
+113,Barnyard: The Original Party Animals,2006,51000000,118583844,67583844,Adventure,PG,0.0,Kids Fiction,Original Screenplay
+117,R.V.,2006,55000000,87473024,32473024,Adventure,PG,0.0,Contemporary Fiction,Original Screenplay
+131,Ice Age: The Meltdown,2006,75000000,651899282,576899282,Adventure,PG,1.0,Kids Fiction,Original Screenplay
+132,Monster House,2006,75000000,141267370,66267370,Adventure,PG,0.0,Kids Fiction,Original Screenplay
+136,Arthur et les Minimoys,2006,80000000,113325743,33325743,Adventure,PG,0.0,Fantasy,Based on Fiction Book/Short Story
+137,The Pink Panther,2006,80000000,158926474,78926474,Adventure,PG,1.0,Historical Fiction,
+138,The Wild,2006,80000000,99010667,19010667,Adventure,G,0.0,Contemporary Fiction,Original Screenplay
+142,Happy Feet,2006,85000000,385000317,300000317,Adventure,PG,0.0,Kids Fiction,Original Screenplay
+145,Open Season,2006,85000000,191932158,106932158,Adventure,PG,0.0,Kids Fiction,Original Screenplay
+148,Eragon,2006,100000000,249488115,149488115,Adventure,PG,0.0,Fantasy,Based on Fiction Book/Short Story
+150,Night at the Museum,2006,110000000,579446407,469446407,Adventure,PG,0.0,Kids Fiction,Based on Fiction Book/Short Story
+153,Flushed Away,2006,149000000,179357126,30357126,Adventure,PG,0.0,Kids Fiction,Original Screenplay
+155,Bee Movie,2006,150000000,287594577,137594577,Adventure,PG,0.0,Kids Fiction,Original Screenplay
+156,Poseidon,2006,160000000,181674817,21674817,Adventure,PG-13,0.0,Contemporary Fiction,Remake
+158,Pirates of the Caribbean: Dead Man’s Chest,2006,225000000,1066215812,841215812,Adventure,PG-13,1.0,Historical Fiction,Based on Theme Park Ride
+159,Superman Returns,2006,232000000,374085065,142085065,Adventure,PG-13,0.0,Super Hero,Based on Comic/Graphic Novel
+168,The Ten Commandments,2007,10000000,1051907,-8948093,Adventure,PG,0.0,Historical Fiction,Based on Religious Text
+194,The Pirates Who Don't Do Anything: A VeggieTales Movie,2007,15000000,13248444,-1751556,Adventure,G,1.0,Kids Fiction,Based on Short Film
+232,Mr. Bean’s Holiday,2007,25000000,234981342,209981342,Adventure,G,1.0,Contemporary Fiction,Based on TV
+243,Alatriste,2007,28000000,22860477,-5139523,Adventure,,0.0,Historical Fiction,Based on Fiction Book/Short Story
+264,The Hunting Party,2007,40000000,7729552,-32270448,Adventure,R,0.0,Dramatization,Based on Factual Book/Article
+278,Alvin and the Chipmunks,2007,55000000,362605033,307605033,Adventure,PG,0.0,Kids Fiction,Based on TV
+286,Stardust,2007,70000000,137022245,67022245,Adventure,PG-13,0.0,Fantasy,Based on Fiction Book/Short Story
+288,The Simpsons Movie,2007,72500000,527071022,454571022,Adventure,PG-13,0.0,Contemporary Fiction,Based on TV
+296,Ocean's Thirteen,2007,85000000,311744465,226744465,Adventure,PG-13,1.0,Contemporary Fiction,Original Screenplay
+298,Surf's Up,2007,100000000,145395745,45395745,Adventure,PG,0.0,Kids Fiction,Original Screenplay
+304,Ratatouille,2007,150000000,626549695,476549695,Adventure,G,0.0,Kids Fiction,Original Screenplay
+305,Harry Potter and the Order of the Phoenix,2007,150000000,943076457,793076457,Adventure,PG-13,1.0,Fantasy,Based on Fiction Book/Short Story
+306,Beowulf,2007,150000000,195080579,45080579,Adventure,PG-13,0.0,Fantasy,Based on Fiction Book/Short Story
+308,Shrek the Third,2007,160000000,807330936,647330936,Adventure,PG,1.0,Kids Fiction,Based on Fiction Book/Short Story
+311,The Golden Compass,2007,205000000,367262558,162262558,Adventure,PG-13,0.0,Fantasy,Based on Fiction Book/Short Story
+312,Spider-Man 3,2007,258000000,894860230,636860230,Adventure,PG-13,1.0,Super Hero,Based on Comic/Graphic Novel
+313,Pirates of the Caribbean: At World’s End,2007,300000000,963420425,663420425,Adventure,PG-13,1.0,Historical Fiction,Based on Theme Park Ride
+353,Chasseurs de dragons,2008,17000000,13446115,-3553885,Adventure,PG-13,0.0,Kids Fiction,Original Screenplay
+378,長江七號 (CJ7),2008,20000000,47300771,27300771,Adventure,PG,0.0,Science Fiction,Original Screenplay
+379,Beverly Hills Chihuahua,2008,20000000,154218168,134218168,Adventure,PG,0.0,Fantasy,Original Screenplay
+390,Igor,2008,22000000,31013349,9013349,Adventure,PG,0.0,Kids Fiction,Original Screenplay
+400,Fly Me To the Moon,2008,25000000,43530281,18530281,Adventure,G,0.0,Kids Fiction,Original Screenplay
+406,The Sisterhood of the Traveling Pants 2,2008,27000000,44270131,17270131,Adventure,PG-13,1.0,Contemporary Fiction,Based on Fiction Book/Short Story
+429,Space Chimps,2008,37000000,67029956,30029956,Adventure,G,0.0,Kids Fiction,Original Screenplay
+431,Nim's Island,2008,37000000,101857425,64857425,Adventure,PG,0.0,Fantasy,Based on Fiction Book/Short Story
+433,City of Ember,2008,38000000,17831558,-20168442,Adventure,PG,0.0,Fantasy,Based on Fiction Book/Short Story
+434,Delgo,2008,40000000,915840,-39084160,Adventure,PG,0.0,Kids Fiction,Original Screenplay
+446,Journey to the Center of the Earth,2008,45000000,243180937,198180937,Adventure,PG,0.0,Science Fiction,Based on Fiction Book/Short Story
+461,The Tale of Despereaux,2008,60000000,90482317,30482317,Adventure,G,0.0,Kids Fiction,Based on Fiction Book/Short Story
+464,Meet Dave,2008,60000000,50648806,-9351194,Adventure,PG,0.0,Science Fiction,Original Screenplay
+469,Fool's Gold,2008,72500000,109362966,36862966,Adventure,PG-13,0.0,Contemporary Fiction,Original Screenplay
+471,Bedtime Stories,2008,80000000,221468935,141468935,Adventure,PG,0.0,Fantasy,Original Screenplay
+474,The Day the Earth Stood Still,2008,80000000,237370350,157370350,Adventure,PG-13,0.0,Science Fiction,Remake
+476,Jumper,2008,82500000,222640812,140140812,Adventure,PG-13,0.0,Science Fiction,Based on Fiction Book/Short Story
+478,Horton Hears a Who,2008,85000000,299477886,214477886,Adventure,G,0.0,Fantasy,Based on Fiction Book/Short Story
+482,The Spiderwick Chronicles,2008,92500000,162839667,70339667,Adventure,PG,0.0,Fantasy,Based on Fiction Book/Short Story
+483,"10,000 B.C.",2008,105000000,269065678,164065678,Adventure,PG-13,0.0,Historical Fiction,Original Screenplay
+484,Astérix aux Jeux Olympiques,2008,113500000,132999811,19499811,Adventure,Not Rated,0.0,Fantasy,Based on Comic/Graphic Novel
+487,Kung Fu Panda,2008,130000000,631910531,501910531,Adventure,PG,0.0,Kids Fiction,Original Screenplay
+488,The Incredible Hulk,2008,137500000,265573859,128073859,Adventure,PG-13,0.0,Super Hero,Based on Comic/Graphic Novel
+489,Madagascar: Escape 2 Africa,2008,150000000,599680774,449680774,Adventure,PG,1.0,Kids Fiction,Original Screenplay
+491,Bolt,2008,150000000,328015029,178015029,Adventure,PG,0.0,Kids Fiction,Original Screenplay
+493,The Mummy: Tomb of the Dragon Emperor,2008,175000000,405760225,230760225,Adventure,PG-13,1.0,Fantasy,Remake
+494,WALL-E,2008,180000000,532508025,352508025,Adventure,G,0.0,Science Fiction,Original Screenplay
+495,Indiana Jones and the Kingdom of the Crystal Skull,2008,185000000,786635413,601635413,Adventure,PG-13,1.0,Historical Fiction,Original Screenplay
+497,Iron Man,2008,186000000,585171547,399171547,Adventure,PG-13,0.0,Super Hero,Based on Comic/Graphic Novel
+498,The Chronicles of Narnia: Prince Caspian,2008,225000000,417341288,192341288,Adventure,PG,1.0,Fantasy,Based on Fiction Book/Short Story
+563,Shorts,2009,20000000,29870801,9870801,Adventure,PG,0.0,Kids Fiction,Original Screenplay
+589,Paul Blart: Mall Cop,2009,26000000,185904750,159904750,Adventure,PG,0.0,Contemporary Fiction,Original Screenplay
+591,The Spy Next Door,2009,28000000,46752858,18752858,Adventure,PG,0.0,Kids Fiction,Original Screenplay
+594,Le Petit Nicolas,2009,30000000,52339566,22339566,Adventure,Not Rated,0.0,Kids Fiction,
+598,Dragonball Evolution,2009,30000000,58228460,28228460,Adventure,PG,0.0,Fantasy,Based on TV
+599,The Imaginarium of Doctor Parnassus,2009,30000000,64352607,34352607,Adventure,PG-13,0.0,Fantasy,Original Screenplay
+601,9,2009,30000000,48559999,18559999,Adventure,PG-13,0.0,Fantasy,Original Screenplay
+606,Gake no ue no Ponyo,2009,34000000,205312666,171312666,Adventure,G,0.0,Kids Fiction,Original Screenplay
+611,Hotel for Dogs,2009,35000000,122357172,87357172,Adventure,PG,0.0,Kids Fiction,Based on Fiction Book/Short Story
+626,Fantastic Mr. Fox,2009,40000000,47083412,7083412,Adventure,PG,0.0,Kids Fiction,Based on Fiction Book/Short Story
+629,The Karate Kid,2009,40000000,351774938,311774938,Adventure,PG,0.0,Contemporary Fiction,Remake
+632,Aliens in the Attic,2009,45000000,59551283,14551283,Adventure,PG,0.0,Science Fiction,Original Screenplay
+636,Race to Witch Mountain,2009,50000000,105103784,55103784,Adventure,PG,0.0,Science Fiction,Based on Fiction Book/Short Story
+640,Outlander,2009,50000000,1250617,-48749383,Adventure,R,0.0,Science Fiction,Original Screenplay
+644,Marmaduke,2009,50000000,89895930,39895930,Adventure,PG,0.0,Kids Fiction,Based on Comic/Graphic Novel
+648,Imagine That,2009,55000000,16222392,-38777608,Adventure,PG,0.0,Contemporary Fiction,Original Screenplay
+655,Inkheart,2009,60000000,66655938,6655938,Adventure,PG,0.0,Fantasy,Based on Fiction Book/Short Story
+656,Planet 51,2009,60000000,108996113,48996113,Adventure,PG,0.0,Science Fiction,Original Screenplay
+660,Coraline,2009,60000000,126037057,66037057,Adventure,PG,0.0,Kids Fiction,Based on Fiction Book/Short Story
+661,Astro Boy,2009,65000000,41636243,-23363757,Adventure,PG,0.0,Super Hero,Based on Comic/Graphic Novel
+662,Alvin and the Chipmunks: The Squeakquel,2009,70000000,443483213,373483213,Adventure,PG,1.0,Kids Fiction,Based on TV
+672,Ice Age: Dawn of the Dinosaurs,2009,90000000,859701857,769701857,Adventure,PG,1.0,Kids Fiction,Original Screenplay
+673,Sherlock Holmes,2009,90000000,498438212,408438212,Adventure,PG-13,0.0,Historical Fiction,Based on Fiction Book/Short Story
+675,Cloudy with a Chance of Meatballs,2009,100000000,236827677,136827677,Adventure,PG,0.0,Kids Fiction,Based on Fiction Book/Short Story
+677,Where the Wild Things Are,2009,100000000,99123656,-876344,Adventure,PG,0.0,Fantasy,Based on Fiction Book/Short Story
+679,The Princess and the Frog,2009,105000000,270997378,165997378,Adventure,G,0.0,Kids Fiction,Based on Fiction Book/Short Story
+682,Star Trek,2009,140000000,386839614,246839614,Adventure,PG-13,1.0,Science Fiction,Based on TV
+683,Night at the Museum: Battle of the Smithsonian,2009,150000000,402231063,252231063,Adventure,PG,1.0,Fantasy,Based on Fiction Book/Short Story
+686,G-Force,2009,150000000,292817841,142817841,Adventure,PG,0.0,Kids Fiction,Original Screenplay
+687,Monsters vs. Aliens,2009,175000000,381687380,206687380,Adventure,PG,0.0,Kids Fiction,Based on Comic/Graphic Novel
+688,Up,2009,175000000,731463377,556463377,Adventure,PG,0.0,Fantasy,Original Screenplay
+694,Harry Potter and the Half-Blood Prince,2009,250000000,935213767,685213767,Adventure,PG,1.0,Fantasy,Based on Fiction Book/Short Story
+734,Diary of a Wimpy Kid,2010,15000000,76954311,61954311,Adventure,PG,0.0,Contemporary Fiction,Based on Fiction Book/Short Story
+735,Ramona and Beezus,2010,15000000,27469621,12469621,Adventure,G,0.0,Kids Fiction,Based on Fiction Book/Short Story
+740,L'illusionniste,2010,17000000,8609949,-8390051,Adventure,PG,0.0,Historical Fiction,Original Screenplay
+747,Diary of a Wimpy Kid: Rodrick Rules,2010,18000000,73695194,55695194,Adventure,PG,1.0,Contemporary Fiction,Based on Fiction Book/Short Story
+763,Alpha and Omega 3D,2010,20000000,48958353,28958353,Adventure,PG,0.0,Kids Fiction,Original Screenplay
+764,The Oogieloves in the BIG Balloon Adventure,2010,20000000,1065907,-18934093,Adventure,G,0.0,Kids Fiction,Original Screenplay
+774,Kari gurashi no Arietti,2010,23000000,151496097,128496097,Adventure,G,0.0,Kids Fiction,Based on Fiction Book/Short Story
+781,Sammy's avonturen: De geheime doorgang,2010,25000000,71594792,46594792,Adventure,PG,0.0,Kids Fiction,Original Screenplay
+790,Belka i Strelka. Zvezdnye sobaki,2010,25000000,9445081,-15554919,Adventure,G,0.0,Kids Fiction,Original Screenplay
+799,Hoodwinked Too: Hood vs. Evil,2010,30000000,23353111,-6646889,Adventure,PG,1.0,Kids Fiction,Based on Folk Tale/Legend/Fairytale
+801,Konferenz der Tiere,2010,30000000,53048539,23048539,Adventure,PG,0.0,Kids Fiction,Original Screenplay
+805,Winnie the Pooh,2010,30000000,50145607,20145607,Adventure,G,0.0,Kids Fiction,Based on Fiction Book/Short Story
+807,Sanctum,2010,30000000,104283753,74283753,Adventure,R,0.0,Dramatization,Based on Real Life Events
+818,Furry Vengeance,2010,35000000,39340177,4340177,Adventure,PG,0.0,Kids Fiction,Original Screenplay
+821,Nanny McPhee and the Big Bang,2010,35000000,97799865,62799865,Adventure,PG,1.0,Kids Fiction,Based on Fiction Book/Short Story
+849,Arthur and the War of Two Worlds,2010,45500000,36180824,-9319176,Adventure,PG,0.0,Fantasy,Based on Fiction Book/Short Story
+851,Tooth Fairy,2010,48000000,112610386,64610386,Adventure,PG,0.0,Fantasy,Original Screenplay
+853,I am Number Four,2010,50000000,146195159,96195159,Adventure,PG-13,0.0,Science Fiction,Based on Fiction Book/Short Story
+865,Mr. Poppers's Penguins,2010,55000000,189624452,134624452,Adventure,PG,0.0,Kids Fiction,Based on Fiction Book/Short Story
+872,Hop,2010,63000000,188657593,125657593,Adventure,PG,0.0,Kids Fiction,Based on Folk Tale/Legend/Fairytale
+878,Despicable Me,2010,69000000,543464573,474464573,Adventure,PG,0.0,Kids Fiction,Original Screenplay
+885,Yogi Bear,2010,80000000,204774690,124774690,Adventure,PG,0.0,Kids Fiction,Based on TV
+890,Cats & Dogs: The Revenge of Kitty Galore,2010,85000000,113026383,28026383,Adventure,PG,1.0,Kids Fiction,Original Screenplay
+895,Percy Jackson & the Olympians: The Lightning Thief,2010,95000000,223050874,128050874,Adventure,PG,0.0,Fantasy,Based on Fiction Book/Short Story
+900,Legend of the Guardians: The Owls of Ga'Hoole,2010,100000000,139716717,39716717,Adventure,PG,0.0,Kids Fiction,Based on Fiction Book/Short Story
+904,Gulliver's Travels,2010,112000000,232017848,120017848,Adventure,PG,0.0,Fantasy,Based on Fiction Book/Short Story
+908,Harry Potter and the Deathly Hallows: Part I,2010,125000000,960431568,835431568,Adventure,PG-13,1.0,Fantasy,Based on Fiction Book/Short Story
+909,Megamind,2010,130000000,321887208,191887208,Adventure,PG,0.0,Kids Fiction,Original Screenplay
+912,The Last Airbender,2010,150000000,319713881,169713881,Adventure,PG,0.0,Fantasy,Based on TV
+913,Mars Needs Moms,2010,150000000,39549758,-110450242,Adventure,PG,0.0,Science Fiction,Based on Fiction Book/Short Story
+914,The Chronicles of Narnia: The Voyage of the Dawn Treader,2010,155000000,418186950,263186950,Adventure,PG,1.0,Fantasy,Based on Fiction Book/Short Story
+916,The Sorcerer's Apprentice,2010,160000000,217986320,57986320,Adventure,PG,0.0,Fantasy,Based on Short Film
+917,How to Train Your Dragon,2010,165000000,494870992,329870992,Adventure,PG,0.0,Fantasy,Based on Fiction Book/Short Story
+918,Shrek Forever After,2010,165000000,756244673,591244673,Adventure,PG,1.0,Kids Fiction,Based on Fiction Book/Short Story
+920,Tron: Legacy,2010,200000000,400062763,200062763,Adventure,PG,1.0,Science Fiction,Original Screenplay
+921,Alice in Wonderland,2010,200000000,1025491110,825491110,Adventure,PG,0.0,Fantasy,Based on Fiction Book/Short Story
+923,Toy Story 3,2010,200000000,1068879522,868879522,Adventure,G,1.0,Kids Fiction,Original Screenplay
+939,Tu Xia Chuan Qi,2011,12000000,1828400,-10171600,Adventure,PG,0.0,Kids Fiction,Original Screenplay
+987,Spy Kids: All the Time in the World,2011,27000000,80681183,53681183,Adventure,PG,1.0,Kids Fiction,Original Screenplay
+995,The Three Stooges,2011,30000000,54052249,24052249,Adventure,PG,0.0,Contemporary Fiction,Remake
+1014,Frankenweenie,2011,39000000,81150788,42150788,Adventure,PG,0.0,Fantasy,Based on Short Film
+1021,Un monstre à Paris ,2011,40000000,27000381,-12999619,Adventure,PG,0.0,Fantasy,Original Screenplay
+1028,The Muppets,2011,45000000,160971922,115971922,Adventure,PG,1.0,Kids Fiction,Based on TV
+1030,Johnny English Reborn,2011,45000000,164640401,119640401,Adventure,PG,1.0,Contemporary Fiction,Original Screenplay
+1034,Ted,2011,50000000,556016627,506016627,Adventure,R,0.0,Contemporary Fiction,Original Screenplay
+1040,The Pirates! Band of Misfits,2011,55000000,136143605,81143605,Adventure,PG,0.0,Kids Fiction,Based on Fiction Book/Short Story
+1044,ParaNorman,2011,60000000,108119662,48119662,Adventure,PG,0.0,Kids Fiction,Original Screenplay
+1049,Doctor Seuss' The Lorax,2011,67500000,350976753,283476753,Adventure,PG,0.0,Kids Fiction,Based on Fiction Book/Short Story
+1057,Journey 2: The Mysterious Island,2011,79000000,318146162,239146162,Adventure,PG,1.0,Fantasy,Based on Fiction Book/Short Story
+1060,Alvin and the Chipmunks: Chipwrecked,2011,80000000,349088523,269088523,Adventure,G,1.0,Kids Fiction,Based on TV
+1062,Arthur Christmas,2011,85000000,149717124,64717124,Adventure,PG,0.0,Kids Fiction,Original Screenplay
+1065,Mirror Mirror,2011,85000000,173613482,88613482,Adventure,PG,0.0,Fantasy,Based on Folk Tale/Legend/Fairytale
+1066,Hotel Transylvania,2011,85000000,378505812,293505812,Adventure,PG,0.0,Kids Fiction,Original Screenplay
+1067,Rio,2011,90000000,487519809,397519809,Adventure,PG,0.0,Kids Fiction,Original Screenplay
+1068,The Three Musketeers,2011,90000000,139877913,49877913,Adventure,PG-13,0.0,Historical Fiction,Based on Fiction Book/Short Story
+1070,Rise of the Planet of the Apes,2011,93000000,470986200,377986200,Adventure,PG-13,0.0,Science Fiction,Remake
+1076,The Smurfs,2011,110000000,563749323,453749323,Adventure,PG,0.0,Kids Fiction,Based on Comic/Graphic Novel
+1080,Harry Potter and the Deathly Hallows: Part II,2011,125000000,1341693157,1216693157,Adventure,PG-13,1.0,Fantasy,Based on Fiction Book/Short Story
+1081,Prometheus,2011,125000000,402448265,277448265,Adventure,R,0.0,Science Fiction,Original Screenplay
+1085,Puss in Boots,2011,130000000,554987477,424987477,Adventure,PG,0.0,Kids Fiction,Spin-Off
+1086,The Adventures of Tintin,2011,130000000,373993951,243993951,Adventure,PG,0.0,Contemporary Fiction,Based on Comic/Graphic Novel
+1087,Happy Feet Two,2011,135000000,157956466,22956466,Adventure,PG,1.0,Kids Fiction,Original Screenplay
+1088,Rango,2011,135000000,245724600,110724600,Adventure,PG,0.0,Kids Fiction,Original Screenplay
+1092,Kung Fu Panda 2,2011,150000000,664837547,514837547,Adventure,PG,1.0,Kids Fiction,Original Screenplay
+1096,Snow White and the Huntsman,2011,170000000,401021746,231021746,Adventure,PG-13,0.0,Fantasy,Based on Folk Tale/Legend/Fairytale
+1098,Hugo,2011,180000000,180047784,47784,Adventure,PG,0.0,Fantasy,Based on Fiction Book/Short Story
+1101,Jack the Giant Slayer,2011,195000000,197687603,2687603,Adventure,PG-13,0.0,Fantasy,Based on Folk Tale/Legend/Fairytale
+1103,Cars 2,2011,200000000,560155383,360155383,Adventure,G,1.0,Kids Fiction,Original Screenplay
+1104,Oz the Great and Powerful,2011,200000000,490359051,290359051,Adventure,PG,0.0,Fantasy,Spin-Off
+1105,Men in Black 3,2011,215000000,654213485,439213485,Adventure,PG-13,1.0,Science Fiction,Based on Comic/Graphic Novel
+1106,The Amazing Spider-Man,2011,220000000,757890267,537890267,Adventure,PG-13,1.0,Super Hero,Based on Comic/Graphic Novel
+1109,John Carter,2011,275000000,282778100,7778100,Adventure,PG-13,0.0,Science Fiction,Based on Fiction Book/Short Story
+1110,Pirates of the Caribbean: On Stranger Tides,2011,410600000,1045663875,635063875,Adventure,PG-13,1.0,Fantasy,Based on Theme Park Ride
+1121,Ernest et Celestine,2012,12500000,9376444,-3123556,Adventure,Not Rated,0.0,Kids Fiction,Based on Fiction Book/Short Story
+1140,Zambezia,2012,20000000,34454336,14454336,Adventure,G,0.0,Kids Fiction,Original Screenplay
+1144,Diary of a Wimpy Kid: Dog Days,2012,22000000,77229695,55229695,Adventure,PG,1.0,Kids Fiction,Based on Fiction Book/Short Story
+1147,Parental Guidance,2012,25000000,120832383,95832383,Adventure,PG,0.0,Contemporary Fiction,Original Screenplay
+1163,Escape From Planet Earth,2012,40000000,74156610,34156610,Adventure,PG,0.0,Kids Fiction,Original Screenplay
+1166,Foodfight!,2012,45000000,73706,-44926294,Adventure,PG,0.0,Kids Fiction,Original Screenplay
+1179,Astérix et Obélix: Au service de Sa Majesté ,2012,77600000,60680125,-16919875,Adventure,,1.0,Fantasy,Based on Comic/Graphic Novel
+1180,Walking with Dinosaurs,2012,80000000,123368842,43368842,Adventure,PG,0.0,Kids Fiction,Based on TV
+1183,The Secret Life of Walter Mitty,2012,91000000,187861183,96861183,Adventure,PG,0.0,Contemporary Fiction,Based on Fiction Book/Short Story
+1185,Ice Age: Continental Drift,2012,95000000,879765137,784765137,Adventure,PG,1.0,Fantasy,Original Screenplay
+1187,Ender's Game,2012,110000000,127983283,17983283,Adventure,PG-13,0.0,Science Fiction,Based on Fiction Book/Short Story
+1195,Madagascar 3: Europe's Most Wanted,2012,145000000,746921271,601921271,Adventure,PG,1.0,Kids Fiction,Original Screenplay
+1196,Rise of the Guardians,2012,145000000,306900902,161900902,Adventure,PG,0.0,Kids Fiction,Based on Fiction Book/Short Story
+1197,Wrath of the Titans,2012,150000000,305270083,155270083,Adventure,PG-13,1.0,Fantasy,Based on Folk Tale/Legend/Fairytale
+1199,Wreck-It Ralph,2012,165000000,496511521,331511521,Adventure,PG,0.0,Kids Fiction,Original Screenplay
+1200,Brave,2012,185000000,554606532,369606532,Adventure,PG,0.0,Kids Fiction,Original Screenplay
+1202,Star Trek Into Darkness,2012,190000000,467381584,277381584,Adventure,PG-13,1.0,Science Fiction,Based on TV
+1204,Monsters University,2012,200000000,743588329,543588329,Adventure,G,1.0,Kids Fiction,Original Screenplay
+1207,The Hobbit: An Unexpected Journey,2012,250000000,1017003568,767003568,Adventure,PG-13,1.0,Fantasy,Based on Fiction Book/Short Story
+1222,Project Almanac,2013,12000000,32909437,20909437,Adventure,PG-13,0.0,Science Fiction,Original Screenplay
+1225,Earth to Echo,2013,13000000,42174545,29174545,Adventure,PG,0.0,Kids Fiction,Original Screenplay
+1231,Khumba,2013,15000000,20898221,5898221,Adventure,Not Rated,0.0,Kids Fiction,Original Screenplay
+1250,Metegol,2013,22000000,34061097,12061097,Adventure,PG,0.0,Kids Fiction,Based on Fiction Book/Short Story
+1266,"Alexander and the Terrible, Horrible, No Good, Very Bad Day",2013,28000000,101379287,73379287,Adventure,PG,0.0,Kids Fiction,Based on Fiction Book/Short Story
+1270,Space Pirate Captain Harlock,2013,30000000,310985,-29689015,Adventure,,0.0,Science Fiction,Based on Comic/Graphic Novel
+1274,The Nut Job,2013,30000000,122529966,92529966,Adventure,PG,0.0,Kids Fiction,Based on Short Film
+1277,The Young and Prodigious T.S. Spivet,2013,33000000,357687,-32642313,Adventure,PG,0.0,Contemporary Fiction,Original Screenplay
+1291,Disney Planes,2013,50000000,238059569,188059569,Adventure,PG,0.0,Kids Fiction,Original Screenplay
+1294,Free Birds,2013,55000000,110387072,55387072,Adventure,PG,0.0,Kids Fiction,Original Screenplay
+1295,Muppets Most Wanted,2013,55000000,79312301,24312301,Adventure,PG,1.0,Kids Fiction,Based on TV
+1299,The Lego Movie,2013,60000000,457729388,397729388,Adventure,PG,0.0,Kids Fiction,Based on Toy
+1300,The Mortal Instruments: City of Bones,2013,60000000,75965567,15965567,Adventure,PG-13,0.0,Fantasy,Based on Fiction Book/Short Story
+1303,Legends of Oz: Dorothy’s Return,2013,70000000,20107933,-49892067,Adventure,PG,0.0,Kids Fiction,Based on Fiction Book/Short Story
+1304,The Legend of Hercules,2013,70000000,58953319,-11046681,Adventure,PG-13,0.0,Fantasy,Based on Folk Tale/Legend/Fairytale
+1306,Despicable Me 2,2013,76000000,975216835,899216835,Adventure,PG,1.0,Kids Fiction,Original Screenplay
+1307,Cloudy with a Chance of Meatballs 2,2013,78000000,274392649,196392649,Adventure,PG,1.0,Kids Fiction,Based on Fiction Book/Short Story
+1309,Percy Jackson: Sea of Monsters,2013,90000000,200859554,110859554,Adventure,PG,1.0,Fantasy,Based on Fiction Book/Short Story
+1310,Alvin and the Chipmunks: The Road Chip,2013,90000000,249517956,159517956,Adventure,PG,1.0,Kids Fiction,Based on TV
+1311,Pixels,2013,90000000,244041804,154041804,Adventure,PG-13,0.0,Science Fiction,Based on Short Film
+1312,Epic,2013,100000000,262794441,162794441,Adventure,PG,0.0,Kids Fiction,Based on Fiction Book/Short Story
+1316,The Smurfs 2,2013,110000000,348547523,238547523,Adventure,PG,1.0,Kids Fiction,Based on Comic/Graphic Novel
+1319,The Hunger Games: Catching Fire,2013,130000000,864868047,734868047,Adventure,PG-13,1.0,Science Fiction,Based on Fiction Book/Short Story
+1320,The Croods,2013,135000000,573068425,438068425,Adventure,PG,0.0,Kids Fiction,Original Screenplay
+1321,Turbo,2013,135000000,286896578,151896578,Adventure,PG,0.0,Kids Fiction,Original Screenplay
+1322,How to Train Your Dragon 2,2013,145000000,614586270,469586270,Adventure,PG,1.0,Fantasy,Original Screenplay
+1323,Mr. Peabody & Sherman,2013,145000000,269806430,124806430,Adventure,PG,0.0,Kids Fiction,Based on TV
+1328,Maleficent,2013,180000000,758536735,578536735,Adventure,PG,0.0,Fantasy,Spin-Off
+1332,The Hobbit: The Desolation of Smaug,2013,250000000,960366855,710366855,Adventure,PG-13,1.0,Fantasy,Based on Fiction Book/Short Story
+1342,Jungle Shuffle,2014,10000000,360898,-9639102,Adventure,,0.0,Kids Fiction,Original Screenplay
+1349,Trash,2014,12000000,6553186,-5446814,Adventure,R,0.0,Contemporary Fiction,Original Screenplay
+1370,"Mune, le gardien de la lune",2014,17000000,14534046,-2465954,Adventure,PG,0.0,Kids Fiction,Original Screenplay
+1395,Viy,2014,26000000,34246770,8246770,Adventure,Not Rated,0.0,Fantasy,Original Screenplay
+1404,Thunder and the House of Magic,2014,34000000,62582520,28582520,Adventure,Not Rated,0.0,Kids Fiction,Original Screenplay
+1416,Dragon Nest Warriors' Dawn,2014,40000000,734423,-39265577,Adventure,,0.0,Kids Fiction,Original Screenplay
+1427,Planes: Fire and Rescue,2014,50000000,156399644,106399644,Adventure,PG,1.0,Kids Fiction,Original Screenplay
+1429,The Book of Life,2014,50000000,97651543,47651543,Adventure,PG,0.0,Fantasy,Original Screenplay
+1430,Paddington,2014,55000000,258789097,203789097,Adventure,PG,0.0,Kids Fiction,Based on Fiction Book/Short Story
+1433,The Boxtrolls,2014,60000000,111946251,51946251,Adventure,PG,0.0,Kids Fiction,Based on Fiction Book/Short Story
+1442,The SpongeBob Movie: Sponge Out of Water,2014,74000000,311013181,237013181,Adventure,PG,0.0,Kids Fiction,Based on TV
+1443,Minions,2014,74000000,1160336173,1086336173,Adventure,PG,0.0,Kids Fiction,Spin-Off
+1445,Divergent,2014,85000000,276014965,191014965,Adventure,PG-13,0.0,Science Fiction,Based on Fiction Book/Short Story
+1448,Seventh Son,2014,95000000,108874967,13874967,Adventure,PG-13,0.0,Fantasy,Based on Fiction Book/Short Story
+1449,In the Heart of the Sea,2014,100000000,89693309,-10306691,Adventure,PG-13,0.0,Dramatization,Based on Real Life Events
+1452,San Andreas,2014,110000000,456258539,346258539,Adventure,PG-13,0.0,Science Fiction,Original Screenplay
+1454,Teenage Mutant Ninja Turtles,2014,125000000,485004754,360004754,Adventure,PG-13,0.0,Super Hero,Based on Comic/Graphic Novel
+1456,Night at the Museum: Secret of the Tomb,2014,127000000,353756621,226756621,Adventure,PG,1.0,Fantasy,Original Screenplay
+1457,Rio 2,2014,130000000,492846291,362846291,Adventure,G,1.0,Kids Fiction,Original Screenplay
+1459,Home,2014,130000000,385997896,255997896,Adventure,PG,0.0,Kids Fiction,Based on Fiction Book/Short Story
+1460,Penguins of Madagascar,2014,132000000,366942531,234942531,Adventure,PG,0.0,Kids Fiction,Spin-Off
+1464,Big Hero 6,2014,165000000,652127828,487127828,Adventure,PG,0.0,Super Hero,Original Screenplay
+1465,Interstellar,2014,165000000,666379375,501379375,Adventure,PG-13,0.0,Science Fiction,Original Screenplay
+1468,Dawn of the Planet of the Apes,2014,170000000,710644566,540644566,Adventure,PG-13,1.0,Science Fiction,Remake
+1469,Tomorrowland,2014,170000000,206627518,36627518,Adventure,PG,0.0,Science Fiction,Original Screenplay
+1470,Inside Out,2014,175000000,854235992,679235992,Adventure,PG,0.0,Kids Fiction,Original Screenplay
+1472,The Good Dinosaur,2014,187500000,333771037,146271037,Adventure,PG,0.0,Kids Fiction,Original Screenplay
+1476,The Hobbit: The Battle of the Five Armies,2014,250000000,945577621,695577621,Adventure,PG-13,1.0,Fantasy,Based on Fiction Book/Short Story
+1501,Robinson Crusoe,2015,13000000,42446455,29446455,Adventure,PG,0.0,Kids Fiction,Original Screenplay
+1516,Norm of the North,2015,18000000,30535660,12535660,Adventure,PG,0.0,Kids Fiction,Original Screenplay
+1531,Max,2015,20000000,43658157,23658157,Adventure,PG,0.0,Contemporary Fiction,Original Screenplay
+1538,Shaun the Sheep,2015,25000000,101925161,76925161,Adventure,PG,0.0,Kids Fiction,Spin-Off
+1551,Savva. Serdtse voyna,2015,30000000,4847112,-25152888,Adventure,,0.0,Kids Fiction,Original Screenplay
+1562,The Lovers,2015,35000000,53899,-34946101,Adventure,PG-13,0.0,Historical Fiction,Original Screenplay
+1572,Paul Blart: Mall Cop 2,2015,38000000,107650646,69650646,Adventure,PG,1.0,Contemporary Fiction,Original Screenplay
+1582,Pourquoi j'ai pas mangé mon père,2015,42000000,15451663,-26548337,Adventure,,0.0,Kids Fiction,Based on Fiction Book/Short Story
+1594,Zhuo yao ji,2015,56000000,359495591,303495591,Adventure,Not Rated,0.0,Fantasy,Original Screenplay
+1597,Mortdecai,2015,60000000,30396134,-29603866,Adventure,R,0.0,Contemporary Fiction,Based on Fiction Book/Short Story
+1607,The Angry Birds Movie,2015,73000000,352327887,279327887,Adventure,PG,0.0,Kids Fiction,Based on Game
+1608,The Secret Life of Pets,2015,75000000,886767422,811767422,Adventure,PG,0.0,Kids Fiction,Original Screenplay
+1610,The Little Prince,2015,77500000,102028919,24528919,Adventure,PG,0.0,Kids Fiction,Based on Fiction Book/Short Story
+1612,Hotel Transylvania 2,2015,80000000,469500298,389500298,Adventure,PG,1.0,Kids Fiction,Original Screenplay
+1614,The Peanuts Movie,2015,99000000,250091610,151091610,Adventure,G,0.0,Kids Fiction,Based on Comic/Graphic Novel
+1620,Monster Trucks,2015,125000000,61642798,-63357202,Adventure,PG-13,0.0,Science Fiction,Original Screenplay
+1622,The Revenant,2015,135000000,532938302,397938302,Adventure,R,0.0,Dramatization,Based on Fiction Book/Short Story
+1623,Teenage Mutant Ninja Turtles: Out of the Shadows,2015,135000000,245328374,110328374,Adventure,PG-13,1.0,Super Hero,Based on Comic/Graphic Novel
+1624,Kung Fu Panda 3,2015,140000000,517599142,377599142,Adventure,PG,1.0,Kids Fiction,Original Screenplay
+1625,Gods of Egypt,2015,140000000,138836756,-1163244,Adventure,PG-13,0.0,Fantasy,Original Screenplay
+1627,Zootopia,2015,150000000,1019704348,869704348,Adventure,PG,0.0,Kids Fiction,Original Screenplay
+1628,Pan,2015,150000000,151525973,1525973,Adventure,PG,0.0,Fantasy,Based on Fiction Book/Short Story
+1634,The Jungle Book,2015,175000000,962854547,787854547,Adventure,PG,0.0,Fantasy,Based on Fiction Book/Short Story
+1636,The Legend of Tarzan,2015,180000000,348902025,168902025,Adventure,PG-13,0.0,Historical Fiction,Based on Fiction Book/Short Story
+1637,Finding Dory,2015,200000000,1021215193,821215193,Adventure,PG,1.0,Kids Fiction,Original Screenplay
+1641,Star Wars Ep. VII: The Force Awakens,2015,306000000,2053311220,1747311220,Adventure,PG-13,1.0,Science Fiction,Original Screenplay
+1643,Kicks,2016,10000000,150191,-9849809,Adventure,R,0.0,Contemporary Fiction,Original Screenplay
+1670,Ratchet and Clank,2016,20000000,14365639,-5634361,Adventure,PG,0.0,Kids Fiction,Based on Game
+1680,Diary of a Wimpy Kid: The Long Haul,2016,22000000,35609577,13609577,Adventure,PG,1.0,Contemporary Fiction,Based on Fiction Book/Short Story
+1694,Ballerina,2016,30000000,96906440,66906440,Adventure,PG,0.0,Kids Fiction,Original Screenplay
+1697,Bilal: A New Breed of Hero,2016,30000000,648599,-29351401,Adventure,PG-13,0.0,Dramatization,Based on Real Life Events
+1713,The Nut Job 2: Nutty by Nature,2016,40000000,57438389,17438389,Adventure,PG,1.0,Kids Fiction,Based on Fiction Book/Short Story
+1725,Kubo and the Two Strings,2016,55000000,77548122,22548122,Adventure,PG,0.0,Fantasy,Original Screenplay
+1727,Rock Dog,2016,60000000,24148488,-35851512,Adventure,PG,0.0,Kids Fiction,Original Screenplay
+1730,Smurfs: The Lost Village,2016,60000000,197578586,137578586,Adventure,PG,1.0,Kids Fiction,Based on Comic/Graphic Novel
+1733,Pete’s Dragon,2016,65000000,137768975,72768975,Adventure,PG,0.0,Kids Fiction,Remake
+1735,The Lego Ninjago Movie,2016,70000000,122737201,52737201,Adventure,PG,0.0,Kids Fiction,Based on Toy
+1736,Storks,2016,70000000,183353431,113353431,Adventure,PG,0.0,Kids Fiction,Original Screenplay
+1738,Sing,2016,75000000,634454789,559454789,Adventure,PG,0.0,Kids Fiction,Original Screenplay
+1740,The Lego Batman Movie,2016,80000000,310660018,230660018,Adventure,PG,1.0,Kids Fiction,Based on Toy
+1743,Jumanji: Welcome to the Jungle,2016,90000000,964496193,874496193,Adventure,PG-13,1.0,Fantasy,Original Screenplay
+1748,Ice Age: Collision Course,2016,105000000,402156682,297156682,Adventure,PG,1.0,Kids Fiction,Original Screenplay
+1751,Miss Peregrine’s Home for Peculiar Children,2016,110000000,295986876,185986876,Adventure,PG-13,0.0,Fantasy,Based on Fiction Book/Short Story
+1755,Trolls,2016,125000000,344072233,219072233,Adventure,PG,0.0,Kids Fiction,Based on Toy
+1757,The Boss Baby,2016,125000000,510878762,385878762,Adventure,PG,0.0,Kids Fiction,Based on Fiction Book/Short Story
+1759,The BFG,2016,140000000,199646680,59646680,Adventure,PG,0.0,Kids Fiction,Based on Fiction Book/Short Story
+1766,Alice Through the Looking Glass,2016,170000000,276928112,106928112,Adventure,PG,1.0,Fantasy,Based on Fiction Book/Short Story
+1767,King Arthur: Legend of the Sword,2016,175000000,139630336,-35369664,Adventure,PG-13,0.0,Fantasy,Based on Folk Tale/Legend/Fairytale
+1770,Fantastic Beasts and Where to Find Them,2016,180000000,802402853,622402853,Adventure,PG-13,0.0,Fantasy,Spin-Off
+1771,Kong: Skull Island,2016,185000000,561072059,376072059,Adventure,PG-13,0.0,Science Fiction,Original Screenplay
+1772,Star Trek Beyond,2016,185000000,335802233,150802233,Adventure,PG-13,1.0,Science Fiction,Based on TV
+1773,The Mummy,2016,195000000,409953905,214953905,Adventure,PG-13,0.0,Historical Fiction,Based on Folk Tale/Legend/Fairytale
+1775,Rogue One: A Star Wars Story,2016,200000000,1049102856,849102856,Adventure,PG-13,0.0,Science Fiction,Spin-Off
+1776,Pirates of the Caribbean: Dead Men Tell No Tales,2016,230000000,788241137,558241137,Adventure,PG-13,1.0,Fantasy,Based on Theme Park Ride
+1783,Teen Titans Go! To The Movies,2017,10000000,51620593,41620593,Adventure,PG,0.0,Kids Fiction,Based on TV
+1805,The Star,2017,20000000,62758010,42758010,Adventure,PG,0.0,Kids Fiction,Based on Religious Text
+1842,Captain Underpants: The First Epic Movie,2017,38000000,126577874,88577874,Adventure,PG,0.0,Kids Fiction,Original Screenplay
+1851,Peter Rabbit,2017,50000000,347136477,297136477,Adventure,PG,0.0,Kids Fiction,Based on Fiction Book/Short Story
+1852,The Emoji Movie,2017,50000000,216568979,166568979,Adventure,PG,0.0,Kids Fiction,Original Screenplay
+1853,Early Man,2017,50000000,45285890,-4714110,Adventure,PG,0.0,Kids Fiction,Original Screenplay
+1857,Sherlock Gnomes,2017,59000000,87527651,28527651,Adventure,PG,1.0,Kids Fiction,Original Screenplay
+1861,Hotel Transylvania 3: Summer Vacation,2017,65000000,528112687,463112687,Adventure,PG,1.0,Kids Fiction,Original Screenplay
+1866,Despicable Me 3,2017,75000000,1034822373,959822373,Adventure,PG,1.0,Kids Fiction,Original Screenplay
+1871,Bumblebee,2017,102000000,458447076,356447076,Adventure,PG-13,1.0,Science Fiction,Based on Toy
+1872,A Wrinkle in Time,2017,103000000,133401882,30401882,Adventure,PG,0.0,Fantasy,Based on Fiction Book/Short Story
+1875,Ferdinand,2017,111000000,289859163,178859163,Adventure,PG,0.0,Kids Fiction,Based on Fiction Book/Short Story
+1879,Ready Player One,2017,150000000,579290136,429290136,Adventure,PG-13,0.0,Science Fiction,Based on Fiction Book/Short Story
+1884,Cars 3,2017,175000000,383549151,208549151,Adventure,G,1.0,Kids Fiction,Original Screenplay
+1888,Valerian and the City of a Thousand Planets,2017,180000000,215098356,35098356,Adventure,PG-13,0.0,Science Fiction,Based on Comic/Graphic Novel
+1890,Incredibles 2,2017,200000000,1242532436,1042532436,Adventure,PG,1.0,Kids Fiction,Original Screenplay
+1893,Solo: A Star Wars Story,2017,250000000,393151347,143151347,Adventure,PG-13,0.0,Science Fiction,Spin-Off
+1896,Star Wars Ep. VIII: The Last Jedi,2017,317000000,1316721747,999721747,Adventure,PG-13,1.0,Science Fiction,Original Screenplay
+1918,The Kid Who Would Be King,2018,59000000,26074053,-32925947,Adventure,PG,,Fantasy,Original Screenplay
+1921,Christopher Robin,2018,75000000,197504758,122504758,Adventure,PG,0.0,Kids Fiction,Based on Fiction Book/Short Story
+1922,Dr. Seuss’ The Grinch,2018,75000000,510657560,435657560,Adventure,PG,0.0,Kids Fiction,Based on Fiction Book/Short Story
+1923,Smallfoot,2018,80000000,213693609,133693609,Adventure,PG,0.0,Kids Fiction,Based on Fiction Book/Short Story
+1924,Spider-Man: Into The Spider-Verse 3D,2018,90000000,363979053,273979053,Adventure,PG,0.0,Super Hero,Based on Comic/Graphic Novel
+1925,The LEGO Movie 2: The Second Part,2018,99000000,154076395,55076395,Adventure,PG,1.0,Kids Fiction,Based on Toy
+1929,How to Train Your Dragon: The Hidden World,2018,129000000,381161242,252161242,Adventure,PG,1.0,Kids Fiction,Original Screenplay
+1931,The Nutcracker and the Four Realms,2018,132900000,170293899,37393899,Adventure,PG,0.0,Fantasy,Based on Folk Tale/Legend/Fairytale
+1933,Ralph Breaks The Internet,2018,175000000,519403998,344403998,Adventure,PG,1.0,Kids Fiction,Original Screenplay
+1935,Fantastic Beasts: The Crimes of Grindelwald,2018,200000000,652220086,452220086,Adventure,PG-13,1.0,Fantasy,Spin-Off

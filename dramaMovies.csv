@@ -1,0 +1,508 @@
+,movie_name,production_year,production_budget,revenue,profit,genre,rating,sequel,creative_type,source
+2,End of the Spear,2006,10000000,11924041,1924041,Drama,PG-13,0.0,Historical Fiction,Original Screenplay
+7,Peaceful Warrior,2006,10000000,3260179,-6739821,Drama,PG-13,0.0,Dramatization,Based on Fiction Book/Short Story
+9,Kabhi Alvida Naa Kehna,2006,10750000,32575443,21825443,Drama,Not Rated,0.0,Contemporary Fiction,Original Screenplay
+11,Copying Beethoven,2006,11000000,6586324,-4413676,Drama,PG-13,0.0,Dramatization,Based on Real Life Events
+14,Fateless,2006,12000000,196857,-11803143,Drama,R,0.0,Historical Fiction,Based on Fiction Book/Short Story
+16,Step Up,2006,12000000,110989157,98989157,Drama,PG-13,0.0,Contemporary Fiction,Original Screenplay
+17,Find Me Guilty,2006,13000000,2898225,-10101775,Drama,R,0.0,Dramatization,Based on Real Life Events
+18,Infamous,2006,13000000,2613717,-10386283,Drama,R,0.0,Dramatization,Based on Fiction Book/Short Story
+19,Letters from Iwo Jima,2006,13000000,67867998,54867998,Drama,R,0.0,Historical Fiction,Based on Real Life Events
+20,Little Children,2006,14000000,14121177,121177,Drama,R,0.0,Contemporary Fiction,Based on Fiction Book/Short Story
+22,Bobby,2006,14000000,20597806,6597806,Drama,R,0.0,Dramatization,Based on Real Life Events
+24,Manderlay,2006,14200000,543306,-13656694,Drama,Not Rated,1.0,Historical Fiction,Original Screenplay
+27,The Queen,2006,15000000,128885873,113885873,Drama,PG-13,0.0,Dramatization,Based on Real Life Events
+28,Flicka,2006,15000000,21896367,6896367,Drama,PG,0.0,Contemporary Fiction,Based on Fiction Book/Short Story
+34,The Illusionist,2006,16500000,83792062,67292062,Drama,PG-13,0.0,Historical Fiction,Based on Fiction Book/Short Story
+35,FUR: An Imaginary Portrait of Diane Arbus,2006,16800000,2281089,-14518911,Drama,R,0.0,Dramatization,Based on Fiction Book/Short Story
+42,United 93,2006,18000000,77635035,59635035,Drama,R,0.0,Dramatization,Based on Real Life Events
+45,Indigènes,2006,18900000,26063572,7163572,Drama,Not Rated,0.0,Historical Fiction,Original Screenplay
+46,The Painted Veil,2006,19400000,15118795,-4281205,Drama,PG-13,0.0,Historical Fiction,Based on Fiction Book/Short Story
+48,The Proposition,2006,20000000,5313608,-14686392,Drama,R,0.0,Historical Fiction,Original Screenplay
+50,One Night with the King,2006,20000000,13725032,-6274968,Drama,PG,0.0,Historical Fiction,Based on Fiction Book/Short Story
+57,Babel,2006,20000000,132121212,112121212,Drama,R,0.0,Contemporary Fiction,Original Screenplay
+60,Joyeux Noël,2006,22000000,23134075,1134075,Drama,PG-13,0.0,Dramatization,Based on Real Life Events
+61,Rocky Balboa,2006,24000000,156229050,132229050,Drama,PG,1.0,Contemporary Fiction,
+69,Notes on a Scandal,2006,27500000,50578411,23078411,Drama,R,0.0,Contemporary Fiction,Based on Fiction Book/Short Story
+71,Miss Potter,2006,30000000,35891257,5891257,Drama,PG,0.0,Dramatization,Based on Real Life Events
+72,Gridiron Gang,2006,30000000,41457834,11457834,Drama,PG-13,0.0,Dramatization,Based on Real Life Events
+77,Take the Lead,2006,30000000,65390493,35390493,Drama,PG-13,0.0,Dramatization,Based on Real Life Events
+78,Glory Road,2006,30000000,42799060,12799060,Drama,PG,0.0,Dramatization,Based on Real Life Events
+80,The Good German,2006,32000000,6678033,-25321967,Drama,R,0.0,Historical Fiction,Based on Fiction Book/Short Story
+82,Goal! The Dream Begins,2006,33000000,27610873,-5389127,Drama,PG,0.0,Contemporary Fiction,Original Screenplay
+83,The Fountain,2006,35000000,15461638,-19538362,Drama,PG-13,0.0,Science Fiction,Original Screenplay
+85,The Nativity Story,2006,35000000,46309644,11309644,Drama,PG,0.0,Dramatization,Based on Religious Text
+89,A Good Year,2006,35000000,42064105,7064105,Drama,PG-13,0.0,Contemporary Fiction,Based on Fiction Book/Short Story
+90,Marie Antoinette,2006,40000000,60862471,20862471,Drama,PG-13,0.0,Dramatization,Based on Fiction Book/Short Story
+94,The Lake House,2006,40000000,114830111,74830111,Drama,PG,0.0,Fantasy,Remake
+97,Invincible,2006,40000000,58501127,18501127,Drama,PG,0.0,Dramatization,Based on Real Life Events
+115,Flags of Our Fathers,2006,53000000,63657941,10657941,Drama,R,0.0,Historical Fiction,Based on Fiction Book/Short Story
+118,The Pursuit of Happyness,2006,55000000,307311093,252311093,Drama,PG-13,0.0,Dramatization,Based on Real Life Events
+119,All the King's Men,2006,55000000,9521458,-45478542,Drama,PG-13,0.0,Historical Fiction,Based on Fiction Book/Short Story
+122,Flyboys,2006,60000000,14816379,-45183621,Drama,PG-13,0.0,Dramatization,Based on Real Life Events
+124,Perfume: The Story of a Murderer,2006,63700000,133603463,69903463,Drama,R,0.0,Historical Fiction,Based on Fiction Book/Short Story
+126,We Are Marshall,2006,65000000,43545364,-21454636,Drama,PG,0.0,Dramatization,Based on Real Life Events
+127,World Trade Center,2006,65000000,163295654,98295654,Drama,PG-13,0.0,Dramatization,Based on Real Life Events
+133,Lady in the Water,2006,75000000,72785169,-2214831,Drama,PG-13,0.0,Fantasy,Original Screenplay
+141,Charlotte's Web,2006,82500000,143985708,61485708,Drama,G,0.0,Fantasy,Based on Fiction Book/Short Story
+146,The Departed,2006,90000000,289660619,199660619,Drama,R,0.0,Contemporary Fiction,Remake
+166,King of California,2007,10000000,1165102,-8834898,Drama,PG-13,0.0,Contemporary Fiction,Original Screenplay
+169,September Dawn,2007,10100000,1066555,-9033445,Drama,R,0.0,Dramatization,Based on Real Life Events
+171,Jindabyne,2007,10800000,2862544,-7937456,Drama,R,0.0,Contemporary Fiction,Based on Fiction Book/Short Story
+176,Trade,2007,12000000,1513388,-10486612,Drama,R,0.0,Dramatization,Based on Real Life Events
+178,Resurrecting the Champ,2007,13000000,3260555,-9739445,Drama,PG-13,0.0,Contemporary Fiction,Original Screenplay
+179,This Christmas,2007,13000000,49733545,36733545,Drama,PG-13,0.0,Contemporary Fiction,Original Screenplay
+180,The Astronaut Farmer,2007,13000000,11141213,-1858787,Drama,PG,0.0,Contemporary Fiction,Original Screenplay
+183,Stomp the Yard,2007,14000000,75525718,61525718,Drama,PG-13,0.0,Contemporary Fiction,Original Screenplay
+184,Le Scaphandre et le Papillon,2007,14000000,22754472,8754472,Drama,PG-13,0.0,Dramatization,Based on Fiction Book/Short Story
+186,Black Snake Moan,2007,15000000,10951153,-4048847,Drama,R,0.0,Contemporary Fiction,Original Screenplay
+189,Se jie,2007,15000000,65167430,50167430,Drama,NC-17,0.0,Historical Fiction,Based on Fiction Book/Short Story
+190,A Mighty Heart,2007,15000000,19153568,4153568,Drama,R,0.0,Dramatization,Based on Fiction Book/Short Story
+192,The Great Debaters,2007,15000000,30261293,15261293,Drama,PG-13,0.0,Dramatization,Based on Real Life Events
+196,La Môme,2007,15500000,88611837,73111837,Drama,PG-13,0.0,Dramatization,Based on Real Life Events
+200,Things We Lost in the Fire,2007,16000000,8120148,-7879852,Drama,R,0.0,Contemporary Fiction,Original Screenplay
+208,"Gone, Baby, Gone",2007,19000000,34352162,15352162,Drama,R,0.0,Contemporary Fiction,Based on Fiction Book/Short Story
+210,Reign Over Me,2007,20000000,20081987,81987,Drama,R,0.0,Historical Fiction,Original Screenplay
+213,Into the Wild,2007,20000000,56822960,36822960,Drama,R,0.0,Contemporary Fiction,Based on Fiction Book/Short Story
+215,Georgia Rule,2007,20000000,20819601,819601,Drama,R,0.0,Contemporary Fiction,Original Screenplay
+216,The Kite Runner,2007,20000000,74180745,54180745,Drama,PG-13,0.0,Contemporary Fiction,Based on Fiction Book/Short Story
+217,I’m Not There,2007,20000000,12397613,-7602387,Drama,R,0.0,Dramatization,Based on Real Life Events
+222,Freedom Writers,2007,21000000,43632609,22632609,Drama,PG-13,0.0,Dramatization,Based on Fiction Book/Short Story
+223,Michael Clayton,2007,21500000,92987651,71487651,Drama,R,0.0,Contemporary Fiction,Original Screenplay
+228,In the Valley of Elah,2007,23000000,24489150,1489150,Drama,R,0.0,Dramatization,Based on Real Life Events
+235,August Rush,2007,25000000,65882103,40882103,Drama,PG,0.0,Fantasy,Based on Real Life Events
+237,There Will Be Blood,2007,25000000,77208711,52208711,Drama,R,0.0,Historical Fiction,Based on Fiction Book/Short Story
+238,The Hoax,2007,25000000,7164995,-17835005,Drama,R,0.0,Dramatization,Based on Real Life Events
+239,Bridge to Terabithia,2007,25000000,137984788,112984788,Drama,PG,0.0,Fantasy,Based on Fiction Book/Short Story
+240,Martian Child,2007,27000000,9352089,-17647911,Drama,PG,0.0,Contemporary Fiction,Based on Fiction Book/Short Story
+244,We Own the Night,2007,28000000,55307857,27307857,Drama,R,0.0,Contemporary Fiction,Original Screenplay
+249,Genghis Khan: To the Ends of the Earth and Sea,2007,30000000,4874498,-25125502,Drama,R,0.0,Historical Fiction,Based on Fiction Book/Short Story
+250,Atonement,2007,30000000,129779728,99779728,Drama,R,0.0,Historical Fiction,Based on Fiction Book/Short Story
+251,Evening,2007,30000000,12885574,-17114426,Drama,PG-13,0.0,Contemporary Fiction,Based on Fiction Book/Short Story
+252,Goodbye Bafana,2007,30000000,2717302,-27282698,Drama,,0.0,Dramatization,Based on Fiction Book/Short Story
+257,Lions for Lambs,2007,35000000,63211088,28211088,Drama,R,0.0,Contemporary Fiction,Original Screenplay
+260,Virgin Territory,2007,38000000,5473041,-32526959,Drama,R,0.0,Historical Fiction,Based on Fiction Book/Short Story
+266,Nomad,2007,40000000,79123,-39920877,Drama,R,0.0,Historical Fiction,Original Screenplay
+267,The Water Horse: Legend of the Deep,2007,40000000,103429755,63429755,Drama,PG,0.0,Fantasy,Based on Folk Tale/Legend/Fairytale
+269,Love in the Time of Cholera,2007,45000000,31077418,-13922582,Drama,R,0.0,Historical Fiction,Based on Fiction Book/Short Story
+277,Elizabeth: The Golden Age,2007,55000000,74870866,19870866,Drama,PG-13,1.0,Dramatization,Based on Real Life Events
+279,Lucky You,2007,55000000,6521829,-48478171,Drama,PG-13,0.0,Historical Fiction,Original Screenplay
+285,The Brave One,2007,70000000,69792704,-207296,Drama,R,0.0,Contemporary Fiction,Original Screenplay
+291,Charlie Wilson's War,2007,75000000,119512771,44512771,Drama,R,0.0,Dramatization,Based on Factual Book/Article
+297,American Gangster,2007,100000000,267985456,167985456,Drama,R,0.0,Dramatization,Based on Factual Book/Article
+314,Fifty Dead Men Walking,2008,10000000,997921,-9002079,Drama,R,0.0,Dramatization,Based on Real Life Events
+316,Nick and Norah's Infinite Playlist,2008,10000000,33886017,23886017,Drama,PG-13,0.0,Contemporary Fiction,Based on Fiction Book/Short Story
+318,Kit Kittredge: An American Girl,2008,10000000,17657973,7657973,Drama,G,0.0,Historical Fiction,Based on Toy
+319,My Blueberry Nights,2008,10000000,22198996,12198996,Drama,PG-13,0.0,Contemporary Fiction,Original Screenplay
+325,The Secret Life of Bees,2008,11000000,39994347,28994347,Drama,PG-13,0.0,Historical Fiction,Based on Fiction Book/Short Story
+329,Life Before Her Eyes,2008,12000000,7203439,-4796561,Drama,R,0.0,Contemporary Fiction,Based on Fiction Book/Short Story
+331,Cadillac Records,2008,12000000,8942516,-3057484,Drama,R,0.0,Dramatization,Based on Real Life Events
+332,Married Life,2008,12000000,2975188,-9024812,Drama,PG-13,0.0,Historical Fiction,Based on Fiction Book/Short Story
+333,Rachel Getting Married,2008,12000000,17475475,5475475,Drama,R,0.0,Contemporary Fiction,Original Screenplay
+335,The Boy in the Striped Pyjamas,2008,12500000,44083403,31583403,Drama,PG-13,0.0,Historical Fiction,Based on Fiction Book/Short Story
+338,Slumdog Millionaire,2008,14000000,384530440,370530440,Drama,R,0.0,Contemporary Fiction,Original Screenplay
+339,The Lucky Ones,2008,14000000,266967,-13733033,Drama,R,0.0,Contemporary Fiction,Original Screenplay
+347,Bathory,2008,15000000,3436763,-11563237,Drama,R,0.0,Historical Fiction,Based on Folk Tale/Legend/Fairytale
+348,The Yellow Handkerchief,2008,15500000,318623,-15181377,Drama,PG-13,0.0,,Remake
+349,Good,2008,16000000,31631,-15968369,Drama,R,0.0,Historical Fiction,Based on Play
+354,How She Move,2008,17000000,8607815,-8392185,Drama,PG-13,0.0,Contemporary Fiction,Original Screenplay
+355,Step Up 2 the Streets,2008,17500000,148586910,131086910,Drama,PG-13,1.0,Contemporary Fiction,Original Screenplay
+358,Mongol,2008,18000000,27147349,9147349,Drama,R,0.0,Dramatization,Based on Real Life Events
+365,Admiral,2008,20000000,38585047,18585047,Drama,,0.0,Historical Fiction,
+367,The Children of Huang Shi,2008,20000000,8221700,-11778300,Drama,R,0.0,Dramatization,Based on Real Life Events
+370,Milk,2008,20000000,57293371,37293371,Drama,R,0.0,Dramatization,Based on Real Life Events
+373,Flash of Genius,2008,20000000,4504111,-15495889,Drama,PG-13,0.0,Dramatization,Based on Real Life Events
+382,"Synecdoche, New York",2008,20000000,4383538,-15616462,Drama,R,0.0,Contemporary Fiction,Original Screenplay
+383,Doubt,2008,20000000,53191101,33191101,Drama,PG-13,0.0,Historical Fiction,Based on Play
+385,Passchendaele,2008,20000000,4453327,-15546673,Drama,Not Rated,0.0,Dramatization,Original Screenplay
+392,The Longshots,2008,23000000,11778396,-11221604,Drama,PG,0.0,Dramatization,Based on Real Life Events
+395,Stop-Loss,2008,25000000,11229035,-13770965,Drama,R,0.0,Dramatization,Based on Real Life Events
+397,Gran Torino,2008,25000000,274543085,249543085,Drama,R,0.0,Contemporary Fiction,Original Screenplay
+402,W.,2008,25100000,28575778,3475778,Drama,PG-13,0.0,Dramatization,Based on Real Life Events
+405,The Duchess,2008,27000000,45160110,18160110,Drama,PG-13,0.0,Dramatization,Based on Fiction Book/Short Story
+410,Frost/Nixon,2008,29000000,28452945,-547055,Drama,R,0.0,Dramatization,Based on Play
+416,Pride and Glory,2008,30000000,43440721,13440721,Drama,R,0.0,Contemporary Fiction,Original Screenplay
+417,The Reader,2008,32500000,112964875,80464875,Drama,R,0.0,Contemporary Fiction,Based on Fiction Book/Short Story
+423,The Young Victoria,2008,35000000,31878891,-3121109,Drama,PG,0.0,Dramatization,Based on Real Life Events
+430,Twilight,2008,37000000,402280159,365280159,Drama,PG-13,0.0,Fantasy,Based on Fiction Book/Short Story
+432,The Express,2008,37500000,9813309,-27686691,Drama,PG,0.0,Dramatization,Based on Factual Book/Article
+440,The Other Boleyn Girl,2008,40000000,78269970,38269970,Drama,PG-13,0.0,Historical Fiction,Based on Fiction Book/Short Story
+443,Revolutionary Road,2008,45000000,79604820,34604820,Drama,R,0.0,Historical Fiction,Based on Fiction Book/Short Story
+444,Miracle at St. Anna,2008,45000000,9676497,-35323503,Drama,R,0.0,Historical Fiction,Based on Fiction Book/Short Story
+448,Defiance,2008,50000000,52987754,2987754,Drama,R,0.0,Historical Fiction,Original Screenplay
+451,Seven Pounds,2008,54000000,166617328,112617328,Drama,PG-13,0.0,Contemporary Fiction,Original Screenplay
+457,"Che, Part 1: The Argentine",2008,58000000,31627370,-26372630,Drama,R,0.0,Dramatization,Based on Real Life Events
+486,Australia,2008,130000000,215080810,85080810,Drama,PG-13,0.0,Historical Fiction,Original Screenplay
+492,The Curious Case of Benjamin Button,2008,160000000,329631958,169631958,Drama,PG-13,0.0,Fantasy,Based on Fiction Book/Short Story
+500,Precious (Based on the Novel Push by Sapphire),2009,10000000,68722848,58722848,Drama,R,0.0,Historical Fiction,Based on Fiction Book/Short Story
+501,The Open Road,2009,10000000,19716,-9980284,Drama,PG-13,0.0,Contemporary Fiction,Original Screenplay
+515,Nanjing! Nanjing!,2009,12000000,20122558,8122558,Drama,R,0.0,Dramatization,Based on Real Life Events
+516,Ondine,2009,12000000,557545,-11442455,Drama,PG-13,0.0,Contemporary Fiction,Original Screenplay
+517,Two Lovers,2009,12000000,16349034,4349034,Drama,R,0.0,Contemporary Fiction,Original Screenplay
+518,San qiang pai an jing qi,2009,12000000,310946,-11689054,Drama,R,0.0,Contemporary Fiction,Remake
+519,Solitary Man,2009,12500000,4360548,-8139452,Drama,R,0.0,Contemporary Fiction,Original Screenplay
+520,The Perfect Game,2009,12500000,3931367,-8568633,Drama,PG,0.0,Dramatization,Based on Real Life Events
+522,Un Prophète,2009,13000000,19910624,6910624,Drama,R,0.0,Contemporary Fiction,Original Screenplay
+523,Margaret,2009,14000000,623292,-13376708,Drama,R,0.0,Contemporary Fiction,Original Screenplay
+529,The Hurt Locker,2009,15000000,49894223,34894223,Drama,R,0.0,Contemporary Fiction,Original Screenplay
+531,San suk si gin,2009,15000000,2013340,-12986660,Drama,R,0.0,Contemporary Fiction,
+540,Hachiko: A Dog's Story,2009,16000000,47707417,31707417,Drama,G,0.0,Contemporary Fiction,Original Screenplay
+541,Beastly,2009,17000000,38028230,21028230,Drama,PG-13,0.0,Fantasy,Based on Fiction Book/Short Story
+546,Love Happens,2009,18000000,36133014,18133014,Drama,PG-13,0.0,Contemporary Fiction,Original Screenplay
+547,Das Weisse Band: Eine deutsche Kindergeschichte,2009,18000000,25727044,7727044,Drama,R,0.0,Historical Fiction,Original Screenplay
+548,Mao's Last Dancer,2009,18000000,25941437,7941437,Drama,PG,0.0,Dramatization,Based on Real Life Events
+554,Notorious,2009,19000000,44972183,25972183,Drama,R,0.0,Dramatization,Based on Real Life Events
+557,The Burning Plain,2009,20000000,1167092,-18832908,Drama,R,0.0,Contemporary Fiction,Original Screenplay
+561,Why Did I Get Married Too?,2009,20000000,60831067,40831067,Drama,PG-13,1.0,Contemporary Fiction,Based on Play
+564,Everybody's Fine,2009,20000000,9208876,-10791124,Drama,PG-13,0.0,Contemporary Fiction,Remake
+565,The Last Song,2009,20000000,92678948,72678948,Drama,PG,0.0,Contemporary Fiction,Based on Fiction Book/Short Story
+569,Orphan,2009,20000000,78769428,58769428,Drama,R,0.0,Contemporary Fiction,Original Screenplay
+573,Coco avant Chanel,2009,23000000,50813834,27813834,Drama,PG-13,0.0,Dramatization,Based on Real Life Events
+575,Chéri,2009,23000000,2715657,-20284343,Drama,R,0.0,Historical Fiction,Based on Fiction Book/Short Story
+579,Love Ranch,2009,25000000,146149,-24853851,Drama,R,0.0,Dramatization,Based on Real Life Events
+583,Bad Lieutenant: Port of Call New Orleans,2009,25000000,12413949,-12586051,Drama,R,0.0,Contemporary Fiction,Remake
+584,Me and Orson Welles,2009,25000000,1190003,-23809997,Drama,PG-13,0.0,Historical Fiction,Based on Fiction Book/Short Story
+587,The Road,2009,25000000,29206732,4206732,Drama,R,0.0,Science Fiction,Based on Fiction Book/Short Story
+588,Brothers,2009,26000000,45043870,19043870,Drama,R,0.0,Historical Fiction,Remake
+590,My Sister's Keeper,2009,27500000,96673002,69173002,Drama,PG-13,0.0,Contemporary Fiction,Based on Fiction Book/Short Story
+592,Taking Woodstock,2009,29000000,10066366,-18933634,Drama,R,0.0,Dramatization,Based on Fiction Book/Short Story
+595,Up in the Air,2009,30000000,166842739,136842739,Drama,R,0.0,Contemporary Fiction,Based on Fiction Book/Short Story
+597,Hannah Montana the Movie,2009,30000000,169173206,139173206,Drama,G,0.0,Contemporary Fiction,Based on TV
+603,Barney's Version,2009,30000000,8845575,-21154425,Drama,R,0.0,Dramatization,Based on Fiction Book/Short Story
+604,Extraordinary Measures,2009,31000000,15826984,-15173016,Drama,PG,0.0,Dramatization,Based on Real Life Events
+605,Takers,2009,32000000,70587268,38587268,Drama,PG-13,0.0,Contemporary Fiction,Original Screenplay
+612,The Blind Side,2009,35000000,305705794,270705794,Drama,PG-13,0.0,Dramatization,Based on Factual Book/Article
+618,The Time Traveler's Wife,2009,39000000,102332135,63332135,Drama,PG-13,0.0,Science Fiction,Based on Fiction Book/Short Story
+622,Amelia,2009,40000000,19756077,-20243923,Drama,PG,0.0,Dramatization,Based on Fiction Book/Short Story
+633,Mr. Nobody,2009,46500000,22254,-46477746,Drama,R,0.0,Science Fiction,Original Screenplay
+641,The Twilight Saga: New Moon,2009,50000000,687557727,637557727,Drama,PG-13,1.0,Fantasy,Based on Fiction Book/Short Story
+651,The Soloist,2009,60000000,38522450,-21477550,Drama,PG-13,0.0,Dramatization,Based on Real Life Events
+659,Invictus,2009,60000000,124514011,64514011,Drama,PG-13,0.0,Dramatization,Based on Factual Book/Article
+663,Agora,2009,70000000,38992292,-31007708,Drama,R,0.0,Historical Fiction,Original Screenplay
+674,The Lovely Bones,2009,95000000,94894448,-105552,Drama,PG-13,0.0,Contemporary Fiction,Based on Fiction Book/Short Story
+678,Public Enemies,2009,102500000,212282709,109782709,Drama,R,0.0,Dramatization,Based on Fiction Book/Short Story
+690,Disney’s A Christmas Carol,2009,190000000,315709697,125709697,Drama,PG,0.0,Fantasy,Remake
+696,You Got Served: Beat The World,2010,10000000,1230542,-8769458,Drama,PG-13,1.0,Contemporary Fiction,Original Screenplay
+697,A Better Life,2010,10000000,1884251,-8115749,Drama,PG-13,0.0,Contemporary Fiction,Original Screenplay
+699,Blood Done Sign My Name,2010,10000000,109383,-9890617,Drama,PG-13,0.0,Dramatization,Based on Real Life Events
+704,Welcome to the Rileys,2010,10000000,355919,-9644081,Drama,R,0.0,Contemporary Fiction,Original Screenplay
+705,Coriolanus,2010,10000000,2179623,-7820377,Drama,R,0.0,Historical Fiction,Based on Play
+707,Io sono l’amore,2010,10000000,15121528,5121528,Drama,R,0.0,Historical Fiction,Original Screenplay
+711,Brighton Rock,2010,11000000,229653,-10770347,Drama,R,0.0,Historical Fiction,Based on Fiction Book/Short Story
+712,The Fighter,2010,11000000,129262388,118262388,Drama,R,0.0,Dramatization,Based on Real Life Events
+714,Kill the Irishman,2010,12000000,1188194,-10811806,Drama,R,0.0,Historical Fiction,Based on Factual Book/Article
+715,Conviction,2010,12500000,11826980,-673020,Drama,R,0.0,Dramatization,Based on Real Life Events
+720,The Perks of Being a Wallflower,2010,13000000,33069303,20069303,Drama,R,0.0,Contemporary Fiction,Based on Fiction Book/Short Story
+721,The Killer Inside Me,2010,13000000,3617277,-9382723,Drama,R,0.0,,
+728,Elle s'appelait Sarah,2010,14500000,25480031,10980031,Drama,PG,0.0,Contemporary Fiction,Based on Fiction Book/Short Story
+729,You Will Meet a Tall Dark Stranger,2010,15000000,34247816,19247816,Drama,R,0.0,Contemporary Fiction,Original Screenplay
+730,Country Strong,2010,15000000,20601987,5601987,Drama,PG-13,0.0,Contemporary Fiction,Original Screenplay
+731,Winnie Mandela,2010,15000000,61847,-14938153,Drama,R,0.0,Dramatization,Based on Factual Book/Article
+732,Never Let Me Go,2010,15000000,11173718,-3826282,Drama,R,0.0,Science Fiction,Based on Fiction Book/Short Story
+733,The King’s Speech,2010,15000000,430821168,415821168,Drama,R,0.0,Dramatization,Original Screenplay
+738,Enter the Void,2010,16000000,1467278,-14532722,Drama,Not Rated,0.0,Fantasy,Based on Fiction Book/Short Story
+739,Remember Me,2010,16000000,56506120,40506120,Drama,PG-13,0.0,Contemporary Fiction,Original Screenplay
+744,Carlos,2010,18000000,1619153,-16380847,Drama,Not Rated,0.0,Dramatization,Based on Real Life Events
+745,The Last Station,2010,18000000,15696146,-2303854,Drama,R,0.0,Dramatization,Based on Fiction Book/Short Story
+746,Soul Surfer,2010,18000000,47158652,29158652,Drama,PG,0.0,Dramatization,Based on Factual Book/Article
+748,127 Hours,2010,18000000,60217171,42217171,Drama,R,0.0,Dramatization,Based on Real Life Events
+756,The Descendants,2010,20000000,175507800,155507800,Drama,R,0.0,Contemporary Fiction,Based on Fiction Book/Short Story
+758,The Tempest,2010,20000000,277943,-19722057,Drama,PG-13,0.0,Historical Fiction,Based on Play
+766,All Good Things,2010,20000000,873617,-19126383,Drama,R,0.0,Contemporary Fiction,Original Screenplay
+770,For Colored Girls,2010,21000000,38017873,17017873,Drama,R,0.0,Contemporary Fiction,Based on Play
+773,Stone,2010,22000000,4065020,-17934980,Drama,R,0.0,Contemporary Fiction,Original Screenplay
+777,Dear John,2010,25000000,142033509,117033509,Drama,PG-13,0.0,Contemporary Fiction,Based on Fiction Book/Short Story
+779,On the Road,2010,25000000,9313302,-15686698,Drama,R,0.0,Historical Fiction,Based on Fiction Book/Short Story
+783,The Conspirator,2010,25000000,15907411,-9092589,Drama,PG-13,0.0,Dramatization,Based on Real Life Events
+784,The Help,2010,25000000,213120004,188120004,Drama,PG-13,0.0,Historical Fiction,Based on Fiction Book/Short Story
+788,Warrior,2010,25000000,24215385,-784615,Drama,PG-13,0.0,Contemporary Fiction,Original Screenplay
+796,Machine Gun Preacher,2010,30000000,3721988,-26278012,Drama,R,0.0,Dramatization,Based on Real Life Events
+797,Love and Other Drugs,2010,30000000,102716321,72716321,Drama,R,0.0,Contemporary Fiction,Based on Factual Book/Article
+800,Hanna,2010,30000000,65343694,35343694,Drama,PG-13,0.0,Contemporary Fiction,Original Screenplay
+804,Step Up 3D,2010,30000000,165889117,135889117,Drama,PG-13,1.0,Contemporary Fiction,Original Screenplay
+806,Letters to Juliet,2010,30000000,82148538,52148538,Drama,PG,0.0,Contemporary Fiction,Based on Factual Book/Article
+816,Secretariat,2010,35000000,60376247,25376247,Drama,PG,0.0,Dramatization,Based on Real Life Events
+819,The Tree of Life,2010,35000000,61721826,26721826,Drama,PG-13,0.0,Historical Fiction,Original Screenplay
+822,Biutiful,2010,35000000,24687524,-10312476,Drama,R,0.0,Contemporary Fiction,Original Screenplay
+828,The Town,2010,37000000,152566881,115566881,Drama,R,0.0,Contemporary Fiction,Based on Fiction Book/Short Story
+830,Water for Elephants,2010,38000000,116809717,78809717,Drama,PG-13,0.0,Historical Fiction,Based on Fiction Book/Short Story
+831,The Social Network,2010,40000000,224922135,184922135,Drama,PG-13,0.0,Dramatization,Based on Real Life Events
+845,Charlie St. Cloud,2010,44000000,48478084,4478084,Drama,PG-13,0.0,Contemporary Fiction,Based on Fiction Book/Short Story
+847,The Rum Diary,2010,45000000,21544732,-23455268,Drama,R,0.0,Historical Fiction,Based on Fiction Book/Short Story
+852,Shanghai,2010,50000000,15505922,-34494078,Drama,R,0.0,Historical Fiction,Original Screenplay
+858,Moneyball,2010,50000000,111300835,61300835,Drama,PG-13,0.0,Dramatization,Based on Factual Book/Article
+863,Burlesque,2010,55000000,90552675,35552675,Drama,PG-13,0.0,Contemporary Fiction,Original Screenplay
+869,Eat Pray Love,2010,60000000,206598789,146598789,Drama,PG-13,0.0,Contemporary Fiction,Based on Factual Book/Article
+871,Edge of Darkness,2010,60000000,82812456,22812456,Drama,R,0.0,Contemporary Fiction,Based on TV
+876,The Twilight Saga: Eclipse,2010,68000000,706102828,638102828,Drama,PG-13,1.0,Fantasy,Based on Fiction Book/Short Story
+879,Wall Street 2: Money Never Sleeps,2010,70000000,137431619,67431619,Drama,PG-13,1.0,Contemporary Fiction,Original Screenplay
+898,Green Zone,2010,100000000,97523020,-2476980,Drama,R,0.0,Historical Fiction,Based on Factual Book/Article
+926,My Week with Marilyn,2011,10000000,34240572,24240572,Drama,R,0.0,Historical Fiction,Based on Real Life Events
+940,Stoker,2011,12000000,12034913,34913,Drama,R,0.0,Contemporary Fiction,Original Screenplay
+942,5 Days of War,2011,12000000,87793,-11912207,Drama,R,0.0,Dramatization,Based on Real Life Events
+943,In The Land of Blood and Honey,2011,13000000,509193,-12490807,Drama,R,0.0,Historical Fiction,Original Screenplay
+945,The Iron Lady,2011,14000000,115592104,101592104,Drama,PG-13,0.0,Dramatization,Based on Real Life Events
+946,Tyler Perry's Good Deeds,2011,14000000,35579177,21579177,Drama,PG-13,0.0,Contemporary Fiction,Original Screenplay
+950,The Son of No One,2011,15000000,1148578,-13851422,Drama,R,0.0,Contemporary Fiction,Original Screenplay
+951,One Day,2011,15000000,59168692,44168692,Drama,PG-13,0.0,Contemporary Fiction,Based on Fiction Book/Short Story
+954,Promised Land,2011,15000000,12394562,-2605438,Drama,R,0.0,Historical Fiction,Original Screenplay
+956,People Like Us,2011,16000000,12617472,-3382528,Drama,PG-13,0.0,Contemporary Fiction,Original Screenplay
+957,The Artist,2011,16000000,128256712,112256712,Drama,PG-13,0.0,Historical Fiction,Original Screenplay
+958,Moonrise Kingdom,2011,16000000,68848446,52848446,Drama,PG-13,0.0,Historical Fiction,Original Screenplay
+962,Labor Day,2011,18000000,14189810,-3810190,Drama,PG-13,0.0,Contemporary Fiction,Based on Fiction Book/Short Story
+963,Won't Back Down,2011,19000000,5745503,-13254497,Drama,PG,0.0,Contemporary Fiction,Original Screenplay
+965,The Devil's Double,2011,19100000,5965646,-13134354,Drama,R,0.0,Dramatization,Based on Real Life Events
+967,A Dangerous Method,2011,20000000,14807531,-5192469,Drama,R,0.0,Dramatization,Based on Play
+971,The Ides of March,2011,23000000,77735925,54735925,Drama,R,0.0,Contemporary Fiction,Based on Play
+975,Madea's Big Happy Family,2011,25000000,54160818,29160818,Drama,PG-13,0.0,Contemporary Fiction,Based on Play
+976,The Lucky One,2011,25000000,96633833,71633833,Drama,PG-13,0.0,Contemporary Fiction,Based on Fiction Book/Short Story
+980,Carnage,2011,25000000,38112154,13112154,Drama,R,0.0,Contemporary Fiction,Based on Play
+986,Lawless,2011,26000000,54393687,28393687,Drama,R,0.0,Historical Fiction,Based on Fiction Book/Short Story
+991,Safe Haven,2011,28000000,94050951,66050951,Drama,PG-13,0.0,Contemporary Fiction,Based on Fiction Book/Short Story
+992,Xinhai geming,2011,30000000,8593154,-21406846,Drama,R,0.0,Historical Fiction,Based on Real Life Events
+994,The Vow,2011,30000000,197618160,167618160,Drama,PG-13,0.0,Historical Fiction,Based on Real Life Events
+997,Lee Daniels' The Butler,2011,30000000,177025498,147025498,Drama,PG-13,0.0,Dramatization,Based on Real Life Events
+1002,Step Up Revolution,2011,33000000,165552290,132552290,Drama,PG-13,1.0,Contemporary Fiction,Original Screenplay
+1004,J. Edgar,2011,35000000,84606030,49606030,Drama,R,0.0,Dramatization,Based on Real Life Events
+1010,There Be Dragons,2011,36000000,4020990,-31979010,Drama,PG-13,0.0,Dramatization,Based on Real Life Events
+1011,Dolphin Tale,2011,37000000,96068724,59068724,Drama,PG,0.0,Dramatization,Based on Real Life Events
+1015,The Odd Life of Timothy Green,2011,40000000,55249159,15249159,Drama,PG,0.0,Fantasy,Original Screenplay
+1017,The Impossible,2011,40000000,169590606,129590606,Drama,PG-13,0.0,Dramatization,Based on Real Life Events
+1018,Extremely Loud and Incredibly Close,2011,40000000,55247881,15247881,Drama,PG-13,0.0,Historical Fiction,Based on Fiction Book/Short Story
+1022,Big Miracle,2011,40000000,25268680,-14731320,Drama,PG,0.0,Dramatization,Based on Real Life Events
+1035,We Bought a Zoo,2011,50000000,118729073,68729073,Drama,PG,0.0,Dramatization,Based on Factual Book/Article
+1042,Gangster Squad,2011,60000000,104100903,44100903,Drama,R,0.0,Dramatization,Based on Factual Book/Article
+1046,Lincoln,2011,65000000,273346281,208346281,Drama,PG-13,0.0,Dramatization,Based on Factual Book/Article
+1053,War Horse,2011,70000000,156815529,86815529,Drama,PG-13,0.0,Contemporary Fiction,Based on Fiction Book/Short Story
+1074,Jin líng shí san chai,2011,100000000,98227017,-1772983,Drama,R,0.0,Historical Fiction,Original Screenplay
+1075,Cloud Atlas,2011,102000000,130673154,28673154,Drama,R,0.0,Multiple Creative Types,Based on Fiction Book/Short Story
+1077,Life of Pi,2011,120000000,607258634,487258634,Drama,PG,0.0,Fantasy,Based on Fiction Book/Short Story
+1083,"The Twilight Saga: Breaking Dawn, Part 1",2011,127500000,689420051,561920051,Drama,PG-13,1.0,Fantasy,Based on Fiction Book/Short Story
+1111,Atlas Shrugged: Part II,2012,10000000,3336053,-6663947,Drama,PG-13,1.0,Science Fiction,Based on Fiction Book/Short Story
+1113,The Iceman,2012,10000000,3623609,-6376391,Drama,R,0.0,Dramatization,Based on Real Life Events
+1114,Sparkle,2012,10000000,24660323,14660323,Drama,PG-13,0.0,Historical Fiction,Remake
+1115,Mud,2012,10000000,31556959,21556959,Drama,PG-13,0.0,Contemporary Fiction,Original Screenplay
+1117,Inside Llewyn Davis,2012,11000000,32943247,21943247,Drama,R,0.0,Historical Fiction,Based on Factual Book/Article
+1130,The Place Beyond the Pines,2012,15000000,47011449,32011449,Drama,R,0.0,Contemporary Fiction,Original Screenplay
+1131,The Reluctant Fundamentalist,2012,15000000,528731,-14471269,Drama,R,0.0,Contemporary Fiction,Original Screenplay
+1136,De rouille et d’os,2012,19500000,29393634,9893634,Drama,R,0.0,Contemporary Fiction,Based on Fiction Book/Short Story
+1138,Chasing Mavericks,2012,20000000,8300821,-11699179,Drama,PG,0.0,Dramatization,Based on Real Life Events
+1142,Silver Linings Playbook,2012,21000000,236412453,215412453,Drama,R,0.0,Contemporary Fiction,Based on Fiction Book/Short Story
+1146,Dangerous Liaisons,2012,24200000,10447579,-13752421,Drama,Not Rated,0.0,Historical Fiction,Based on Fiction Book/Short Story
+1148,Cirque du Soleil: Worlds Away,2012,25000000,28012862,3012862,Drama,PG,0.0,Fantasy,Original Screenplay
+1154,42,2012,31000000,97470701,66470701,Drama,PG-13,0.0,Dramatization,Based on Real Life Events
+1155,Flight,2012,31000000,160558438,129558438,Drama,R,0.0,Contemporary Fiction,Original Screenplay
+1161,The Master,2012,37500000,50647416,13147416,Drama,R,0.0,Historical Fiction,Original Screenplay
+1167,Anna Karenina,2012,49000000,71004627,22004627,Drama,R,0.0,Historical Fiction,Based on Fiction Book/Short Story
+1171,Zero Dark Thirty,2012,52500000,134612435,82112435,Drama,R,0.0,Dramatization,Based on Real Life Events
+1172,Trouble with the Curve,2012,60000000,47818913,-12181087,Drama,PG-13,0.0,Contemporary Fiction,Original Screenplay
+1173,Jack Reacher,2012,60000000,217370736,157370736,Drama,PG-13,0.0,Contemporary Fiction,Based on Fiction Book/Short Story
+1182,Pompeii,2012,80000000,108469033,28469033,Drama,PG-13,0.0,Historical Fiction,Original Screenplay
+1193,"The Twilight Saga: Breaking Dawn, Part 2",2012,136200000,829724737,693524737,Drama,PG-13,1.0,Fantasy,Based on Fiction Book/Short Story
+1201,The Great Gatsby,2012,190000000,351040419,161040419,Drama,PG-13,0.0,Historical Fiction,Based on Fiction Book/Short Story
+1209,50 to 1,2013,10000000,1069454,-8930546,Drama,PG-13,0.0,Dramatization,Based on Real Life Events
+1210,Parkland,2013,10000000,1616353,-8383647,Drama,PG-13,0.0,Historical Fiction,Original Screenplay
+1217,Philomena,2013,12000000,98963392,86963392,Drama,PG-13,0.0,Contemporary Fiction,Based on Factual Book/Article
+1218,La grande bellezza,2013,12000000,29549145,17549145,Drama,Not Rated,0.0,Contemporary Fiction,Original Screenplay
+1219,Nebraska,2013,12000000,24761360,12761360,Drama,R,0.0,Contemporary Fiction,Original Screenplay
+1221,Heaven is for Real,2013,12000000,100916299,88916299,Drama,PG,0.0,Dramatization,Based on Factual Book/Article
+1232,The Immigrant,2013,16000000,7585011,-8414989,Drama,R,0.0,Historical Fiction,Original Screenplay
+1238,The Railway Man,2013,18000000,23910210,5910210,Drama,R,0.0,Dramatization,Based on Factual Book/Article
+1239,Jobs,2013,18000000,43402515,25402515,Drama,PG-13,0.0,Dramatization,Based on Real Life Events
+1242,The Book Thief,2013,19000000,76086711,57086711,Drama,PG-13,0.0,Historical Fiction,Based on Fiction Book/Short Story
+1246,12 Years a Slave,2013,20000000,181025343,161025343,Drama,R,0.0,Historical Fiction,Based on Factual Book/Article
+1249,Battle of the Year,2013,20000000,16723377,-3276623,Drama,PG-13,0.0,Contemporary Fiction,Based on Movie
+1254,Son of God,2013,22000000,70949793,48949793,Drama,PG-13,0.0,Dramatization,Based on Religious Text
+1255,Out of the Furnace,2013,22000000,15434375,-6565625,Drama,R,0.0,Contemporary Fiction,Original Screenplay
+1256,Her,2013,23000000,48259031,25259031,Drama,R,0.0,Science Fiction,Original Screenplay
+1259,Million Dollar Arm,2013,25000000,39217912,14217912,Drama,PG,0.0,Contemporary Fiction,Original Screenplay
+1262,The Fifth Estate,2013,26000000,6154172,-19845828,Drama,R,0.0,Dramatization,Based on Real Life Events
+1263,Blood Ties,2013,26000000,2923959,-23076041,Drama,R,0.0,Contemporary Fiction,Original Screenplay
+1271,Grace of Monaco,2013,30000000,25199891,-4800109,Drama,,0.0,Dramatization,Based on Real Life Events
+1279,Saving Mr. Banks,2013,35000000,114962525,79962525,Drama,PG-13,0.0,Dramatization,Based on Real Life Events
+1280,Mandela: Long Walk to Freedom,2013,35000000,29890402,-5109598,Drama,PG-13,0.0,Dramatization,Based on Real Life Events
+1282,Rush,2013,38000000,98230839,60230839,Drama,R,0.0,Dramatization,Based on Real Life Events
+1287,Fifty Shades of Grey,2013,40000000,570998101,530998101,Drama,R,0.0,Contemporary Fiction,Based on Fiction Book/Short Story
+1293,Captain Phillips,2013,55000000,220648184,165648184,Drama,PG-13,0.0,Dramatization,Based on Real Life Events
+1298,Winter's Tale,2013,60000000,22468620,-37531380,Drama,PG-13,0.0,Fantasy,Based on Fiction Book/Short Story
+1302,The Monuments Men,2013,70000000,158702748,88702748,Drama,PG-13,0.0,Historical Fiction,Based on Factual Book/Article
+1335,Strangerland,2014,10000000,161097,-9838903,Drama,R,1.0,Contemporary Fiction,Original Screenplay
+1337,Big Eyes,2014,10000000,27317872,17317872,Drama,PG-13,0.0,Dramatization,Based on Real Life Events
+1339,Rosewater,2014,10000000,3185717,-6814283,Drama,R,0.0,Dramatization,Based on Factual Book/Article
+1345,If I Stay,2014,11000000,78356170,67356170,Drama,PG-13,0.0,Contemporary Fiction,Based on Fiction Book/Short Story
+1346,Woman in Gold,2014,11000000,58586407,47586407,Drama,PG-13,0.0,Contemporary Fiction,Original Screenplay
+1347,Brooklyn,2014,11000000,62076141,51076141,Drama,PG-13,0.0,Historical Fiction,Based on Fiction Book/Short Story
+1348,The Fault in Our Stars,2014,12000000,307166834,295166834,Drama,PG-13,0.0,Contemporary Fiction,Based on Fiction Book/Short Story
+1351,The Drop,2014,12600000,19054534,6454534,Drama,R,0.0,Contemporary Fiction,Based on Fiction Book/Short Story
+1355,Suffragette,2014,14000000,34044909,20044909,Drama,PG-13,0.0,Historical Fiction,Original Screenplay
+1356,Mr. Turner,2014,14000000,25187026,11187026,Drama,R,0.0,Dramatization,Based on Real Life Events
+1357,Freedom,2014,14500000,872757,-13627243,Drama,R,0.0,Historical Fiction,Original Screenplay
+1358,Wild,2014,15000000,52460543,37460543,Drama,R,0.0,Dramatization,Based on Factual Book/Article
+1359,The Imitation Game,2014,15000000,227740463,212740463,Drama,PG-13,0.0,Dramatization,Based on Factual Book/Article
+1360,When the Game Stands Tall,2014,15000000,30138912,15138912,Drama,PG,0.0,Contemporary Fiction,Based on Factual Book/Article
+1364,The Theory of Everything,2014,15000000,123327692,108327692,Drama,PG-13,0.0,Dramatization,Based on Factual Book/Article
+1369,Escobar: Paradise Lost,2014,17000000,3917679,-13082321,Drama,R,0.0,Historical Fiction,Original Screenplay
+1371,"McFarland, USA",2014,17000000,45707924,28707924,Drama,PG,0.0,Dramatization,Based on Real Life Events
+1376,Endless Love,2014,20000000,34718173,14718173,Drama,PG-13,0.0,Contemporary Fiction,Based on Fiction Book/Short Story
+1377,A Most Violent Year,2014,20000000,8846875,-11153125,Drama,R,0.0,Historical Fiction,Original Screenplay
+1378,Selma,2014,20000000,66776576,46776576,Drama,PG-13,0.0,Dramatization,Based on Real Life Events
+1380,The Light Between Oceans,2014,20000000,22281732,2281732,Drama,PG-13,0.0,Historical Fiction,Based on Fiction Book/Short Story
+1381,Inherent Vice,2014,20000000,14772346,-5227654,Drama,R,0.0,Historical Fiction,Based on Fiction Book/Short Story
+1382,Little Boy,2014,20000000,17769299,-2230701,Drama,PG-13,0.0,Historical Fiction,Original Screenplay
+1384,The Water Diviner,2014,22500000,31054727,8554727,Drama,R,0.0,Historical Fiction,Original Screenplay
+1387,Draft Day,2014,25000000,29847480,4847480,Drama,PG-13,0.0,Contemporary Fiction,Original Screenplay
+1388,The Gambler,2014,25000000,38718031,13718031,Drama,R,0.0,Contemporary Fiction,Remake
+1390,The Giver,2014,25000000,55090374,30090374,Drama,PG-13,0.0,Science Fiction,Based on Fiction Book/Short Story
+1394,The Best of Me,2014,26000000,41059418,15059418,Drama,PG-13,0.0,Contemporary Fiction,Based on Fiction Book/Short Story
+1397,Our Brand is Crisis,2014,28000000,8594558,-19405442,Drama,R,0.0,Contemporary Fiction,Based on Movie
+1400,Get on Up,2014,30000000,33339868,3339868,Drama,PG-13,0.0,Dramatization,Based on Real Life Events
+1402,United Passions,2014,30000000,168832,-29831168,Drama,Not Rated,0.0,Contemporary Fiction,Original Screenplay
+1410,Dolphin Tale 2,2014,36000000,57824533,21824533,Drama,PG,1.0,Kids Fiction,Original Screenplay
+1411,Aloha,2014,37000000,25387091,-11612909,Drama,PG-13,0.0,Contemporary Fiction,Original Screenplay
+1419,Jersey Boys,2014,40000000,65282732,25282732,Drama,R,0.0,Dramatization,Based on Real Life Events
+1424,The Judge,2014,50000000,76119388,26119388,Drama,R,0.0,Contemporary Fiction,Original Screenplay
+1432,American Sniper,2014,58000000,547326372,489326372,Drama,R,0.0,Dramatization,Based on Factual Book/Article
+1436,Unbroken,2014,65000000,163527824,98527824,Drama,PG-13,0.0,Dramatization,Based on Factual Book/Article
+1444,Fury,2014,80000000,210315681,130315681,Drama,R,0.0,Historical Fiction,Original Screenplay
+1447,Cinderella,2014,95000000,534551353,439551353,Drama,PG,0.0,Fantasy,Based on Folk Tale/Legend/Fairytale
+1458,Noah,2014,130000000,352831065,222831065,Drama,PG-13,0.0,Historical Fiction,Based on Religious Text
+1461,Exodus: Gods and Kings,2014,140000000,268314513,128314513,Drama,PG-13,0.0,Historical Fiction,Based on Religious Text
+1489,Carol,2015,11800000,42843521,31043521,Drama,R,0.0,Historical Fiction,Based on Fiction Book/Short Story
+1490,The Dressmaker,2015,11900000,24041617,12141617,Drama,R,0.0,Contemporary Fiction,Based on Fiction Book/Short Story
+1491,Lion,2015,12000000,149570720,137570720,Drama,PG-13,0.0,Dramatization,Based on Factual Book/Article
+1492,10 Days in a Madhouse,2015,12000000,14616,-11985384,Drama,R,0.0,Dramatization,Original Screenplay
+1493,San cheng ji,2015,12000000,1950194,-10049806,Drama,,0.0,Dramatization,Based on Real Life Events
+1494,Paper Towns,2015,12000000,85450484,73450484,Drama,PG-13,0.0,Contemporary Fiction,Based on Fiction Book/Short Story
+1497,Miracles from Heaven,2015,13000000,73798736,60798736,Drama,PG,0.0,Dramatization,Based on Factual Book/Article
+1499,Youth,2015,13000000,24001573,11001573,Drama,R,0.0,Contemporary Fiction,Original Screenplay
+1500,Room,2015,13000000,36262783,23262783,Drama,R,0.0,Contemporary Fiction,Based on Fiction Book/Short Story
+1503,Woodlawn,2015,13000000,14403703,1403703,Drama,PG,0.0,Dramatization,Based on Real Life Events
+1507,Cìkè Niè Yinniáng,2015,15000000,11279884,-3720116,Drama,Not Rated,0.0,Historical Fiction,Remake
+1509,In Dubious Battle,2015,15000000,214182,-14785818,Drama,R,0.0,Historical Fiction,Based on Fiction Book/Short Story
+1510,Chiamatemi Francesco - Il papa della gente,2015,15000000,3925769,-11074231,Drama,,0.0,Dramatization,Based on Real Life Events
+1511,Bleed for This,2015,16000000,6603926,-9396074,Drama,R,0.0,Dramatization,Based on Real Life Events
+1512,The Young Messiah,2015,16800000,7313697,-9486303,Drama,PG-13,0.0,Dramatization,Based on Comic/Graphic Novel
+1513,Genius,2015,17000000,7265283,-9734717,Drama,PG-13,0.0,Dramatization,Based on Factual Book/Article
+1514,Midnight Special,2015,18000000,7680250,-10319750,Drama,PG-13,0.0,Science Fiction,Original Screenplay
+1518,Ricki and the Flash,2015,18000000,41166033,23166033,Drama,PG-13,0.0,Contemporary Fiction,Original Screenplay
+1520,Risen,2015,20000000,46255763,26255763,Drama,PG-13,0.0,Historical Fiction,Based on Religious Text
+1522,Spotlight,2015,20000000,92088460,72088460,Drama,R,0.0,Dramatization,Based on Real Life Events
+1525,My All-American,2015,20000000,2246000,-17754000,Drama,PG,0.0,Dramatization,Based on Factual Book/Article
+1526,By the Sea,2015,20000000,3727746,-16272254,Drama,R,0.0,Historical Fiction,Original Screenplay
+1529,Hands of Stone,2015,20000000,5031975,-14968025,Drama,R,0.0,Dramatization,Based on Real Life Events
+1530,Me Before You,2015,20000000,208265198,188265198,Drama,PG-13,0.0,Contemporary Fiction,Based on Fiction Book/Short Story
+1533,Bitter Harvest,2015,21000000,606162,-20393838,Drama,R,0.0,Historical Fiction,Original Screenplay
+1536,Eddie the Eagle,2015,23000000,45060480,22060480,Drama,PG-13,0.0,Dramatization,Based on Real Life Events
+1537,Tulip Fever,2015,25000000,6792768,-18207232,Drama,R,0.0,Historical Fiction,Based on Fiction Book/Short Story
+1541,The 33,2015,25000000,28400715,3400715,Drama,PG-13,0.0,Dramatization,Based on Factual Book/Article
+1543,The Big Short,2015,28000000,133162752,105162752,Drama,R,0.0,Historical Fiction,Based on Factual Book/Article
+1544,Straight Outta Compton,2015,28000000,202182981,174182981,Drama,R,0.0,Dramatization,Based on Real Life Events
+1549,Steve Jobs,2015,30000000,35579007,5579007,Drama,R,0.0,Dramatization,Based on Factual Book/Article
+1554,The Age of Adaline,2015,30000000,68984536,38984536,Drama,PG-13,0.0,Fantasy,Original Screenplay
+1555,Southpaw,2015,30000000,94156456,64156456,Drama,R,0.0,Contemporary Fiction,Original Screenplay
+1559,The Longest Ride,2015,34000000,63802928,29802928,Drama,PG-13,0.0,Contemporary Fiction,Based on Fiction Book/Short Story
+1564,Concussion,2015,35000000,50363790,15363790,Drama,PG-13,0.0,Contemporary Fiction,Based on Factual Book/Article
+1565,A Hologram for the King,2015,35000000,11846010,-23153990,Drama,R,0.0,Contemporary Fiction,Based on Fiction Book/Short Story
+1566,The Walk,2015,35000000,61197045,26197045,Drama,PG,0.0,Dramatization,Based on Real Life Events
+1567,Queen of the Desert,2015,36000000,1578543,-34421457,Drama,PG-13,0.0,Dramatization,Based on Real Life Events
+1568,Collateral Beauty,2015,36000000,85309093,49309093,Drama,PG-13,0.0,Contemporary Fiction,Original Screenplay
+1570,Creed,2015,37000000,173567581,136567581,Drama,PG-13,1.0,Contemporary Fiction,Original Screenplay
+1581,Billy Lynn’s Long Halftime Walk,2015,40000000,30230402,-9769598,Drama,R,0.0,Historical Fiction,Based on Fiction Book/Short Story
+1587,Snowden,2015,50000000,35380918,-14619082,Drama,R,0.0,Dramatization,Based on Factual Book/Article
+1588,Free State of Jones,2015,50000000,23237252,-26762748,Drama,R,0.0,Historical Fiction,Based on Real Life Events
+1590,13 Hours: The Secret Soldiers of Benghazi,2015,50000000,69411370,19411370,Drama,R,0.0,Dramatization,Based on Factual Book/Article
+1592,Black Mass,2015,53000000,98837872,45837872,Drama,R,0.0,Dramatization,Based on Factual Book/Article
+1598,Joy,2015,60000000,101134059,41134059,Drama,PG-13,0.0,Dramatization,Based on Real Life Events
+1605,Live by Night,2015,65000000,21774432,-43225568,Drama,R,0.0,Historical Fiction,Based on Fiction Book/Short Story
+1613,Ben-Hur,2015,95000000,91669648,-3330352,Drama,PG-13,0.0,Historical Fiction,Based on Fiction Book/Short Story
+1630,Deepwater Horizon,2015,156000000,122603824,-33396176,Drama,PG-13,0.0,Dramatization,Based on Real Life Events
+1648,Churchill,2016,10000000,7582196,-2417804,Drama,PG,0.0,Dramatization,Based on Real Life Events
+1649,The Birth of a Nation,2016,10000000,16891011,6891011,Drama,R,0.0,Dramatization,Based on Real Life Events
+1650,Gotti,2016,10000000,6089100,-3910900,Drama,R,0.0,Dramatization,Based on Real Life Events
+1651,Denial,2016,10000000,9263940,-736060,Drama,PG-13,0.0,Dramatization,Based on Factual Book/Article
+1658,The Shallows,2016,13000000,118763442,105763442,Drama,PG-13,0.0,Contemporary Fiction,Original Screenplay
+1659,The Founder,2016,15000000,24403192,9403192,Drama,PG-13,0.0,Dramatization,Based on Real Life Events
+1663,Almost Christmas,2016,17000000,42493506,25493506,Drama,PG-13,0.0,Contemporary Fiction,Original Screenplay
+1665,Miss Sloane,2016,18000000,7719630,-10280370,Drama,R,0.0,Contemporary Fiction,Original Screenplay
+1666,T2: Trainspotting,2016,18000000,42091262,24091262,Drama,R,1.0,Contemporary Fiction,Based on Fiction Book/Short Story
+1671,LBJ,2016,20000000,2507181,-17492819,Drama,R,0.0,Dramatization,Based on Real Life Events
+1672,Wonder,2016,20000000,304604581,284604581,Drama,PG,0.0,Dramatization,Based on Factual Book/Article
+1677,The Zookeeper’s Wife,2016,20000000,26308749,6308749,Drama,PG-13,0.0,Dramatization,Based on Factual Book/Article
+1678,The History of Love,2016,20000000,476624,-19523376,Drama,Not Rated,0.0,Historical Fiction,Based on Fiction Book/Short Story
+1683,Fences,2016,24000000,64282881,40282881,Drama,PG-13,0.0,Historical Fiction,Based on Play
+1684,A Dog’s Purpose,2016,25000000,203671625,178671625,Drama,PG,0.0,Contemporary Fiction,Based on Fiction Book/Short Story
+1685,Hidden Figures,2016,25000000,231771716,206771716,Drama,PG,0.0,Dramatization,Based on Factual Book/Article
+1693,Florence Foster Jenkins,2016,29000000,56000339,27000339,Drama,PG-13,0.0,Dramatization,Based on Real Life Events
+1698,The Space Between Us,2016,30000000,16481405,-13518595,Drama,PG-13,0.0,Science Fiction,Original Screenplay
+1706,USS Indianapolis: Men of Courage,2016,40000000,1663785,-38336215,Drama,R,0.0,Dramatization,Based on Real Life Events
+1709,Hacksaw Ridge,2016,40000000,168904682,128904682,Drama,R,0.0,Dramatization,Based on Real Life Events
+1716,A Monster Calls,2016,43000000,46414530,3414530,Drama,PG-13,0.0,Fantasy,Based on Fiction Book/Short Story
+1717,All Eyez on Me,2016,45000000,54876855,9876855,Drama,R,0.0,Dramatization,Based on Real Life Events
+1720,Silence,2016,46500000,23726626,-22773374,Drama,R,0.0,Historical Fiction,Based on Fiction Book/Short Story
+1721,Arrival,2016,47000000,203127894,156127894,Drama,PG-13,0.0,Science Fiction,Based on Fiction Book/Short Story
+1724,Fifty Shades Darker,2016,55000000,381374768,326374768,Drama,R,1.0,Contemporary Fiction,Based on Fiction Book/Short Story
+1728,Sully,2016,60000000,238524556,178524556,Drama,PG-13,0.0,Dramatization,Based on Factual Book/Article
+1744,The Promise,2016,90000000,10551417,-79448583,Drama,PG-13,0.0,Historical Fiction,Original Screenplay
+1749,Allied,2016,106000000,119266661,13266661,Drama,R,0.0,Historical Fiction,Original Screenplay
+1779,Lady Bird,2017,10000000,78610769,68610769,Drama,R,0.0,Contemporary Fiction,Original Screenplay
+1781,"Love, Simon",2017,10000000,65520633,55520633,Drama,PG-13,0.0,Contemporary Fiction,Based on Fiction Book/Short Story
+1785,"Everything, Everything",2017,10000000,61603136,51603136,Drama,PG-13,0.0,Contemporary Fiction,Based on Fiction Book/Short Story
+1789,Marshall,2017,12000000,10116816,-1883184,Drama,PG-13,0.0,Dramatization,Based on Real Life Events
+1797,The Shape of Water,2017,19500000,189195220,169695220,Drama,R,0.0,Historical Fiction,Original Screenplay
+1804,Thank You for Your Service,2017,20000000,9985316,-10014684,Drama,R,0.0,Dramatization,Based on Factual Book/Article
+1808,"Roman J. Israel, Esq.",2017,22000000,12967012,-9032988,Drama,PG-13,0.0,Contemporary Fiction,Original Screenplay
+1810,Battle of the Sexes,2017,25000000,18445379,-6554621,Drama,PG-13,0.0,Dramatization,Based on Real Life Events
+1811,Beautiful Boy,2017,25000000,11589761,-13410239,Drama,R,0.0,Contemporary Fiction,Based on Factual Book/Article
+1812,Matilda,2017,25000000,9370285,-15629715,Drama,,0.0,Dramatization,Based on Real Life Events
+1818,Molly’s Game,2017,30000000,53296424,23296424,Drama,R,0.0,Dramatization,Based on Factual Book/Article
+1824,White Boy Rick,2017,30000000,25338396,-4661604,Drama,R,0.0,Dramatization,Based on Real Life Events
+1827,Darkest Hour,2017,30000000,150355828,120355828,Drama,PG-13,0.0,Dramatization,Based on Fiction Book/Short Story
+1828,The 15:17 to Paris,2017,30000000,56096200,26096200,Drama,PG-13,0.0,Dramatization,Based on Factual Book/Article
+1832,Adrift,2017,35000000,57897191,22897191,Drama,PG-13,0.0,Dramatization,Based on Real Life Events
+1836,12 Strong,2017,35000000,71118378,36118378,Drama,R,0.0,Historical Fiction,Based on Fiction Book/Short Story
+1838,A Star is Born,2017,36000000,427901013,391901013,Drama,R,0.0,Contemporary Fiction,Remake
+1843,Only the Brave,2017,38000000,24555177,-13444823,Drama,PG-13,0.0,Dramatization,Based on Real Life Events
+1850,The Post,2017,50000000,179748880,129748880,Drama,PG-13,0.0,Dramatization,Based on Real Life Events
+1854,Murder on the Orient Express,2017,55000000,345922730,290922730,Drama,PG-13,0.0,Historical Fiction,Remake
+1856,Fifty Shades Freed,2017,55000000,371350619,316350619,Drama,R,1.0,Contemporary Fiction,Based on Fiction Book/Short Story
+1901,Nobody’s Fool,2018,19000000,32589493,13589493,Drama,R,0.0,Contemporary Fiction,Original Screenplay
+1915,The Mule,2018,50000000,151189401,101189401,Drama,R,0.0,Dramatization,Based on Factual Book/Article
+1916,Creed II,2018,50000000,212654387,162654387,Drama,PG-13,1.0,Contemporary Fiction,Original Screenplay
+1917,Bohemian Rhapsody,2018,55000000,868558377,813558377,Drama,PG-13,0.0,Dramatization,Based on Real Life Events
+1920,First Man,2018,60000000,104551148,44551148,Drama,PG-13,0.0,Dramatization,Based on Factual Book/Article
+25,Idlewild,2006,15000000,12669914,-2330086,Musical,R,0.0,Historical Fiction,Original Screenplay
+134,Dreamgirls,2006,75000000,155708695,80708695,Musical,PG-13,0.0,Historical Fiction,Based on Musical or Opera
+205,Southland Tales,2007,17000000,364607,-16635393,Musical,R,0.0,Contemporary Fiction,Original Screenplay
+272,Across the Universe,2007,45000000,29367143,-15632857,Musical,PG-13,0.0,Historical Fiction,Original Screenplay
+290,Hairspray,2007,75000000,203035572,128035572,Musical,PG,0.0,Historical Fiction,Remake
+326,High School Musical 3: Senior Year,2008,11000000,274392880,263392880,Musical,G,1.0,Contemporary Fiction,Based on TV
+450,Mamma Mia!,2008,52000000,615748772,563748772,Musical,PG-13,0.0,Contemporary Fiction,Based on Musical or Opera
+552,Fame,2009,18000000,80227619,62227619,Musical,PG,0.0,Contemporary Fiction,Remake
+669,Nine,2009,80000000,53508858,-26491142,Musical,PG-13,0.0,Contemporary Fiction,Based on Musical or Opera
+775,Footloose,2010,24000000,62989834,38989834,Musical,PG-13,0.0,Contemporary Fiction,Remake
+892,The Nutcracker in 3D,2010,90000000,20466016,-69533984,Musical,PG,0.0,Kids Fiction,Based on Ballet
+925,Tangled,2010,260000000,586477240,326477240,Musical,PG,0.0,Kids Fiction,Based on Folk Tale/Legend/Fairytale
+989,Joyful Noise,2011,27500000,31157914,3657914,Musical,PG-13,0.0,Contemporary Fiction,Original Screenplay
+1052,Rock of Ages,2011,70000000,61031932,-8968068,Musical,PG-13,0.0,Contemporary Fiction,Based on Musical or Opera
+1176,Les Miserables,2012,65000000,442169052,377169052,Musical,PG-13,0.0,Historical Fiction,Based on Fiction Book/Short Story
+1235,Black Nativity,2013,17500000,7285135,-10214865,Musical,PG,0.0,Fantasy,Based on Play
+1326,Frozen,2013,150000000,1272469910,1122469910,Musical,PG,0.0,Kids Fiction,Based on Folk Tale/Legend/Fairytale
+1431,Into the Woods,2014,56200000,213116401,156916401,Musical,PG,0.0,Fantasy,Based on Folk Tale/Legend/Fairytale
+1435,Annie,2014,65000000,139829625,74829625,Musical,PG,0.0,Contemporary Fiction,Remake
+1669,La La Land,2016,20000000,426683677,406683677,Musical,PG-13,0.0,Contemporary Fiction,Original Screenplay
+1741,The Greatest Showman,2016,84000000,386665550,302665550,Musical,PG,0.0,Dramatization,Based on Real Life Events
+1763,Moana,2016,150000000,637517365,487517365,Musical,PG,0.0,Kids Fiction,Original Screenplay
+1764,Beauty and the Beast,2016,160000000,1259199706,1099199706,Musical,PG,0.0,Fantasy,Remake
+1885,Coco,2017,175000000,798020225,623020225,Musical,PG,0.0,Kids Fiction,Based on Folk Tale/Legend/Fairytale
+1930,Mary Poppins Returns,2018,130000000,346682866,216682866,Musical,PG,1.0,Kids Fiction,Based on Fiction Book/Short Story
+344,U2 3D,2008,15000000,26170402,11170402,Concert/Performance,G,0.0,Factual,Based on Real Life Events
+722,Justin Bieber: Never Say Never,2010,13000000,99034125,86034125,Concert/Performance,G,0.0,Factual,Based on Real Life Events
+1120,Katy Perry: Part of Me,2012,12000000,32700439,20700439,Concert/Performance,PG,0.0,Factual,Based on Real Life Events
+1212,One Direction: This is Us,2013,10000000,68541786,58541786,Concert/Performance,PG,0.0,Factual,Based on Real Life Events
+1237,Metallica Through the Never,2013,18000000,9082906,-8917094,Concert/Performance,R,0.0,Factual,Based on Musical Group
+1642,Kevin Hart: What Now?,2016,10000000,23591043,13591043,Concert/Performance,R,0.0,Factual,Based on Real Life Events
+514,Home,2009,12000000,1620056,-10379944,Documentary,Not Rated,0.0,Factual,Based on Real Life Events
+568,Capitalism: A Love Story,2009,20000000,19121531,-878469,Documentary,R,0.0,Factual,Based on Real Life Events
+634,Earth,2009,47000000,116773317,69773317,Documentary,G,0.0,Factual,Based on TV
+658,Michael Jackson's This Is It,2009,60000000,252091016,192091016,Documentary,PG,0.0,Factual,Based on Real Life Events
+884,Oceans,2010,80000000,86787530,6787530,Documentary,G,0.0,Factual,Based on Real Life Events
