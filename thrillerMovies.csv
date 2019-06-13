@@ -1,0 +1,336 @@
+,movie_name,production_year,production_budget,revenue,profit,genre,rating,sequel,creative_type,source
+4,Saw III,2006,10000000,163876815,153876815,Horror,R,1.0,Contemporary Fiction,Original Screenplay
+23,An American Haunting,2006,14000000,30443277,16443277,Horror,PG-13,0.0,Historical Fiction,Based on Fiction Book/Short Story
+30,When a Stranger Calls,2006,15000000,67215435,52215435,Horror,PG-13,0.0,Contemporary Fiction,Remake
+31,Slither,2006,15250000,12930343,-2319657,Horror,R,0.0,Science Fiction,Original Screenplay
+32,El Laberinto del Fauno,2006,16000000,87041569,71041569,Horror,R,0.0,Historical Fiction,Original Screenplay
+33,The Texas Chainsaw Massacre: The Beginning,2006,16000000,50517763,34517763,Horror,R,1.0,Historical Fiction,Remake
+36,The Hills Have Eyes,2006,17000000,70355813,53355813,Horror,R,0.0,Contemporary Fiction,Remake
+49,Stay Alive,2006,20000000,23187506,3187506,Horror,PG-13,0.0,Contemporary Fiction,Original Screenplay
+58,The Grudge 2,2006,20000000,70743839,50743839,Horror,PG-13,1.0,Contemporary Fiction,Remake
+59,Pulse,2006,20500000,30241435,9741435,Horror,R,0.0,Contemporary Fiction,Remake
+64,The Omen,2006,25000000,119295584,94295584,Horror,R,0.0,Contemporary Fiction,Remake
+67,Final Destination 3,2006,25000000,112798051,87798051,Horror,R,1.0,Fantasy,Original Screenplay
+108,Silent Hill,2006,50000000,94704227,44704227,Horror,R,0.0,Contemporary Fiction,Based on Game
+160,Saw IV,2007,10000000,135759694,125759694,Horror,R,1.0,Contemporary Fiction,Original Screenplay
+164,White Noise 2: The Light,2007,10000000,8243567,-1756433,Horror,PG-13,1.0,Fantasy,Original Screenplay
+181,The Mist,2007,13000000,57189408,44189408,Horror,R,0.0,Science Fiction,Based on Fiction Book/Short Story
+185,Halloween,2007,15000000,77514401,62514401,Horror,R,1.0,Fantasy,Original Screenplay
+187,The Hills Have Eyes II,2007,15000000,37466538,22466538,Horror,R,1.0,Fantasy,Remake
+191,28 Weeks Later,2007,15000000,64232714,49232714,Horror,R,1.0,Science Fiction,Original Screenplay
+193,Blood and Chocolate,2007,15000000,6551310,-8448690,Horror,PG-13,0.0,Fantasy,Based on Fiction Book/Short Story
+198,The Messengers,2007,16000000,53774833,37774833,Horror,PG-13,0.0,Fantasy,Original Screenplay
+212,Dead Silence,2007,20000000,20614661,614661,Horror,R,0.0,Contemporary Fiction,Original Screenplay
+227,1408,2007,22500000,131263370,108763370,Horror,R,0.0,Contemporary Fiction,Based on Fiction Book/Short Story
+248,30 Days of Night,2007,30000000,80276156,50276156,Horror,R,0.0,Fantasy,Based on Comic/Graphic Novel
+265,The Reaping,2007,40000000,62226214,22226214,Horror,R,0.0,Fantasy,Original Screenplay
+276,Grindhouse,2007,53000000,50187789,-2812211,Horror,R,0.0,Fantasy,Original Screenplay
+303,I am Legend,2007,150000000,585532684,435532684,Horror,PG-13,0.0,Science Fiction,Based on Fiction Book/Short Story
+324,Saw V,2008,10800000,118209778,107409778,Horror,R,1.0,Contemporary Fiction,Original Screenplay
+328,Quarantine,2008,12000000,41924774,29924774,Horror,R,0.0,Contemporary Fiction,Original Screenplay
+356,Prom Night,2008,18000000,57193655,39193655,Horror,PG-13,0.0,Contemporary Fiction,Remake
+371,One Missed Call,2008,20000000,44513466,24513466,Horror,PG-13,0.0,Contemporary Fiction,Remake
+391,Rogue,2008,23000000,4673377,-18326623,Horror,R,0.0,Contemporary Fiction,Original Screenplay
+401,The Ruins,2008,25000000,22910563,-2089437,Horror,R,0.0,Contemporary Fiction,Based on Fiction Book/Short Story
+419,Mirrors,2008,35000000,77220596,42220596,Horror,R,0.0,Contemporary Fiction,Remake
+511,Saw VI,2009,11000000,69752402,58752402,Horror,R,1.0,Contemporary Fiction,Original Screenplay
+521,Sorority Row,2009,12500000,26735797,14235797,Horror,R,0.0,Contemporary Fiction,Remake
+527,My Bloody Valentine,2009,14000000,102836002,88836002,Horror,R,0.0,Contemporary Fiction,Remake
+533,The Last House on the Left,2009,15000000,46526243,31526243,Horror,R,0.0,Contemporary Fiction,Remake
+534,Halloween 2,2009,15000000,38512850,23512850,Horror,R,1.0,Fantasy,Original Screenplay
+537,The Unborn,2009,16000000,78208812,62208812,Horror,PG-13,0.0,Fantasy,Original Screenplay
+543,Friday the 13th,2009,17000000,92670237,75670237,Horror,R,1.0,Fantasy,Remake
+600,Drag Me To Hell,2009,30000000,91388487,61388487,Horror,PG-13,0.0,Contemporary Fiction,Original Screenplay
+602,Splice,2009,30000000,28542494,-1457506,Horror,R,0.0,Science Fiction,Original Screenplay
+619,Pandorum,2009,40000000,17033431,-22966569,Horror,R,0.0,Science Fiction,Original Screenplay
+627,The Final Destination,2009,40000000,187384627,147384627,Horror,R,1.0,Fantasy,Original Screenplay
+702,Devil,2010,10000000,63354114,53354114,Horror,PG-13,0.0,Fantasy,Original Screenplay
+742,Saw 3D,2010,17000000,133735284,116735284,Horror,R,1.0,Contemporary Fiction,Original Screenplay
+749,The Crazies,2010,19000000,56445534,37445534,Horror,R,0.0,Contemporary Fiction,Remake
+757,Daybreakers,2010,20000000,51445503,31445503,Horror,R,0.0,Science Fiction,Original Screenplay
+759,Dylan Dog: Dead of Night,2010,20000000,6093725,-13906275,Horror,PG-13,0.0,Fantasy,Based on Comic/Graphic Novel
+776,Piranha 3D,2010,24000000,83660160,59660160,Horror,R,0.0,Science Fiction,Remake
+780,Don't Be Afraid of the Dark,2010,25000000,39126427,14126427,Horror,R,0.0,Contemporary Fiction,Remake
+786,My Soul to Take,2010,25000000,16727470,-8272530,Horror,R,0.0,Contemporary Fiction,Original Screenplay
+792,Case 39,2010,27000000,28773827,1773827,Horror,R,0.0,Fantasy,Original Screenplay
+803,Fright Night,2010,30000000,40520649,10520649,Horror,R,0.0,Contemporary Fiction,Remake
+815,A Nightmare on Elm Street,2010,35000000,117729621,82729621,Horror,R,0.0,Fantasy,Remake
+827,The Rite,2010,37000000,97143987,60143987,Horror,PG-13,0.0,Dramatization,Based on Factual Book/Article
+840,Scream 4,2010,40000000,95989590,55989590,Horror,R,1.0,Contemporary Fiction,Original Screenplay
+854,Dream House,2010,50000000,41642166,-8357834,Horror,PG-13,0.0,Contemporary Fiction,Original Screenplay
+867,Resident Evil: Afterlife,2010,57500000,295874190,238374190,Horror,R,1.0,Science Fiction,Based on Game
+870,Priest,2010,60000000,84154026,24154026,Horror,PG-13,0.0,Fantasy,Based on Comic/Graphic Novel
+911,The Wolfman,2010,150000000,142634358,-7365642,Horror,R,0.0,Fantasy,Remake
+948,The Possession,2011,14000000,82925064,68925064,Horror,PG-13,0.0,Fantasy,Original Screenplay
+960,The Apparition,2011,17000000,10637281,-6362719,Horror,PG-13,0.0,Contemporary Fiction,Original Screenplay
+981,Shark Night 3D,2011,25000000,18877153,-6122847,Horror,PG-13,0.0,Contemporary Fiction,Original Screenplay
+1012,The Thing,2011,38000000,27573078,-10426922,Horror,R,1.0,Fantasy,Remake
+1023,Final Destination 5,2011,40000000,155011165,115011165,Horror,R,1.0,Fantasy,Original Screenplay
+1050,Abraham Lincoln: Vampire Hunter,2011,67500000,137489730,69989730,Horror,R,0.0,Fantasy,Based on Fiction Book/Short Story
+1112,The Collection,2012,10000000,8890094,-1109906,Horror,R,1.0,Contemporary Fiction,Original Screenplay
+1126,Mama,2012,15000000,148095566,133095566,Horror,PG-13,0.0,Fantasy,Based on Short Film
+1134,Evil Dead,2012,17000000,97778356,80778356,Horror,R,0.0,Fantasy,Remake
+1137,Silent Hill: Revelation 3D,2012,20000000,55975672,35975672,Horror,R,1.0,Fantasy,Based on Game
+1139,Texas Chainsaw 3D,2012,20000000,47666013,27666013,Horror,R,1.0,Contemporary Fiction,Original Screenplay
+1214,Paranormal Activity: The Ghost Dimension,2013,10000000,77959374,67959374,Horror,R,1.0,Contemporary Fiction,Original Screenplay
+1245,The Conjuring,2013,20000000,318000141,298000141,Horror,R,0.0,Fantasy,Original Screenplay
+1273,Carrie,2013,30000000,82409520,52409520,Horror,R,0.0,Fantasy,Remake
+1374,Wolves,2014,18000000,94953,-17905047,Horror,R,0.0,Fantasy,Based on Folk Tale/Legend/Fairytale
+1403,Deliver Us from Evil,2014,30000000,87956618,57956618,Horror,R,0.0,Fantasy,Based on Factual Book/Article
+1408,Poltergeist,2014,35000000,95713069,60713069,Horror,PG-13,0.0,Fantasy,Remake
+1478,Sinister 2,2015,10000000,54104225,44104225,Horror,R,1.0,Fantasy,Original Screenplay
+1482,Insidious Chapter 3,2015,10000000,120453155,110453155,Horror,PG-13,0.0,Contemporary Fiction,Original Screenplay
+1486,The Boy,2015,10000000,68220952,58220952,Horror,PG-13,0.0,Fantasy,Original Screenplay
+1502,The Vatican Tapes,2015,13000000,14929184,1929184,Horror,PG-13,0.0,Contemporary Fiction,Original Screenplay
+1508,The Disappointments Room,2015,15000000,3503761,-11496239,Horror,R,0.0,Contemporary Fiction,Based on Real Life Events
+1580,The Conjuring 2: The Enfield Poltergeist,2015,40000000,311262102,271262102,Horror,R,1.0,Fantasy,Original Screenplay
+1593,Crimson Peak,2015,55000000,74966854,19966854,Horror,R,0.0,Contemporary Fiction,Original Screenplay
+1596,Goosebumps,2015,58000000,158905324,100905324,Horror,PG,0.0,Fantasy,Based on Fiction Book/Short Story
+1644,Don’t Breathe,2016,10000000,158973685,148973685,Horror,R,0.0,Contemporary Fiction,Original Screenplay
+1646,Blair Witch,2016,10000000,38985577,28985577,Horror,R,0.0,Contemporary Fiction,Original Screenplay
+1647,The Purge: Election Year,2016,10000000,118514727,108514727,Horror,R,0.0,Science Fiction,Original Screenplay
+1655,Wish Upon,2016,12000000,23477345,11477345,Horror,PG-13,0.0,Contemporary Fiction,Original Screenplay
+1661,Annabelle: Creation,2016,15000000,305384865,290384865,Horror,R,1.0,Contemporary Fiction,Original Screenplay
+1690,Rings,2016,25000000,82917283,57917283,Horror,PG-13,0.0,Contemporary Fiction,Original Screenplay
+1747,Alien: Covenant,2016,97000000,238521247,141521247,Horror,R,1.0,Science Fiction,Original Screenplay
+1778,Jigsaw,2017,10000000,102445196,92445196,Horror,R,1.0,Contemporary Fiction,Original Screenplay
+1780,Insidious: The Last Key,2017,10000000,167885588,157885588,Horror,PG-13,1.0,Contemporary Fiction,Original Screenplay
+1782,Hereditary,2017,10000000,70133905,60133905,Horror,R,0.0,Contemporary Fiction,Original Screenplay
+1791,The First Purge,2017,13000000,136617305,123617305,Horror,R,1.0,Contemporary Fiction,Original Screenplay
+1795,A Quiet Place,2017,17000000,334522294,317522294,Horror,PG-13,0.0,Contemporary Fiction,Original Screenplay
+1801,Suspiria,2017,20000000,6687268,-13312732,Horror,R,0.0,Historical Fiction,Remake
+1833,It,2017,35000000,697457969,662457969,Horror,R,0.0,Historical Fiction,Remake
+1844,The House with a Clock in its Walls,2017,40000000,126331750,86331750,Horror,PG,0.0,Fantasy,Based on Fiction Book/Short Story
+1897,Halloween,2018,10000000,253139306,243139306,Horror,R,1.0,Contemporary Fiction,Original Screenplay
+1910,Goosebumps 2: Haunted Halloween,2018,35000000,93291478,58291478,Horror,PG,1.0,Kids Fiction,Based on Fiction Book/Short Story
+8,Turistas,2006,10000000,14321070,4321070,Thriller/Suspense,R,0.0,Contemporary Fiction,Original Screenplay
+21,Catch a Fire,2006,14000000,5782198,-8217802,Thriller/Suspense,PG-13,0.0,Dramatization,Based on Real Life Events
+53,The Covenant,2006,20000000,38164784,18164784,Thriller/Suspense,PG-13,0.0,Contemporary Fiction,Based on Comic/Graphic Novel
+56,A Scanner Darkly,2006,20000000,7405084,-12594916,Thriller/Suspense,R,0.0,Science Fiction,Based on Fiction Book/Short Story
+68,Lucky Number Slevin,2006,27000000,55495466,28495466,Thriller/Suspense,R,0.0,Contemporary Fiction,Original Screenplay
+81,Snakes on a Plane,2006,33000000,62020814,29020814,Thriller/Suspense,R,0.0,Contemporary Fiction,Original Screenplay
+98,The Prestige,2006,40000000,104407366,64407366,Thriller/Suspense,PG-13,0.0,Historical Fiction,Based on Fiction Book/Short Story
+110,Inside Man,2006,50000000,185798265,135798265,Thriller/Suspense,R,0.0,Contemporary Fiction,Original Screenplay
+111,Firewall,2006,50000000,82751189,32751189,Thriller/Suspense,PG-13,0.0,Contemporary Fiction,Original Screenplay
+121,The Black Dahlia,2006,60000000,49238525,-10761475,Thriller/Suspense,R,0.0,Historical Fiction,Based on Fiction Book/Short Story
+123,The Sentinel,2006,60000000,78080697,18080697,Thriller/Suspense,PG-13,0.0,Contemporary Fiction,Based on Fiction Book/Short Story
+129,Basic Instinct 2,2006,70000000,35417162,-34582838,Thriller/Suspense,R,1.0,Contemporary Fiction,Original Screenplay
+135,Children of Men,2006,76000000,69845011,-6154989,Thriller/Suspense,R,0.0,Science Fiction,Based on Fiction Book/Short Story
+139,Déjà Vu,2006,80000000,181038616,101038616,Thriller/Suspense,PG-13,0.0,Science Fiction,Original Screenplay
+151,The Da Vinci Code,2006,125000000,767820459,642820459,Thriller/Suspense,PG-13,0.0,Contemporary Fiction,Based on Fiction Book/Short Story
+197,Slow Burn,2007,15500000,1237615,-14262385,Thriller/Suspense,R,0.0,Contemporary Fiction,Original Screenplay
+211,Nancy Drew,2007,20000000,30703845,10703845,Thriller/Suspense,PG,0.0,Contemporary Fiction,Based on Fiction Book/Short Story
+214,Disturbia,2007,20000000,118537627,98537627,Thriller/Suspense,PG-13,0.0,Contemporary Fiction,Original Screenplay
+220,Premonition,2007,20000000,81461343,61461343,Thriller/Suspense,PG-13,0.0,Contemporary Fiction,Original Screenplay
+226,Zwartboek,2007,22000000,27238354,5238354,Thriller/Suspense,R,0.0,Historical Fiction,Based on Real Life Events
+242,Rendition,2007,27500000,26939925,-560075,Thriller/Suspense,R,0.0,Contemporary Fiction,Original Screenplay
+254,The Number 23,2007,32000000,77593167,45593167,Thriller/Suspense,R,0.0,Contemporary Fiction,Original Screenplay
+268,Sunshine,2007,40000000,32030610,-7969390,Thriller/Suspense,R,0.0,Science Fiction,Original Screenplay
+274,Hannibal Rising,2007,50000000,80583311,30583311,Thriller/Suspense,R,0.0,Historical Fiction,Based on Fiction Book/Short Story
+275,Eastern Promises,2007,50000000,56077088,6077088,Thriller/Suspense,R,0.0,Contemporary Fiction,Original Screenplay
+282,Shooter,2007,60000000,95538560,35538560,Thriller/Suspense,R,0.0,Contemporary Fiction,Based on Fiction Book/Short Story
+292,The Invasion,2007,80000000,40147042,-39852958,Thriller/Suspense,PG-13,0.0,Science Fiction,Remake
+293,Zodiac,2007,85000000,83080084,-1919916,Thriller/Suspense,R,0.0,Dramatization,Based on Fiction Book/Short Story
+302,The Bourne Ultimatum,2007,130000000,444043396,314043396,Thriller/Suspense,PG-13,1.0,Contemporary Fiction,Based on Fiction Book/Short Story
+315,The Oxford Murders,2008,10000000,17704131,7704131,Thriller/Suspense,R,0.0,Contemporary Fiction,Based on Fiction Book/Short Story
+327,The Eye,2008,12000000,57577765,45577765,Thriller/Suspense,PG-13,0.0,Fantasy,Remake
+336,Män som hatar kvinnor,2008,13000000,109421911,96421911,Thriller/Suspense,R,0.0,Contemporary Fiction,Based on Fiction Book/Short Story
+341,Transsiberian,2008,15000000,6379575,-8620425,Thriller/Suspense,R,0.0,Contemporary Fiction,Original Screenplay
+342,Funny Games,2008,15000000,8200127,-6799873,Thriller/Suspense,R,0.0,Contemporary Fiction,Remake
+343,Midnight Meat Train,2008,15000000,1590246,-13409754,Thriller/Suspense,R,0.0,Contemporary Fiction,Based on Fiction Book/Short Story
+359,I Come with the Rain,2008,18000000,627422,-17372578,Thriller/Suspense,,0.0,Contemporary Fiction,
+360,Ne le dis à personne,2008,18500000,33954018,15454018,Thriller/Suspense,Not Rated,0.0,Contemporary Fiction,Based on Fiction Book/Short Story
+364,The Bank Job,2008,20000000,66143005,46143005,Thriller/Suspense,R,0.0,Dramatization,Based on Real Life Events
+374,Lakeview Terrace,2008,20000000,44821299,24821299,Thriller/Suspense,PG-13,0.0,Contemporary Fiction,Original Screenplay
+380,The Stepfather,2008,20000000,29227561,9227561,Thriller/Suspense,PG-13,0.0,Contemporary Fiction,Remake
+384,Street Kings,2008,20000000,65457811,45457811,Thriller/Suspense,R,0.0,Contemporary Fiction,Original Screenplay
+389,Traitor,2008,22000000,27882226,5882226,Thriller/Suspense,PG-13,0.0,Contemporary Fiction,Original Screenplay
+396,Deception,2008,25000000,12850033,-12149967,Thriller/Suspense,R,0.0,Contemporary Fiction,Original Screenplay
+399,Blindness,2008,25000000,20052958,-4947042,Thriller/Suspense,R,0.0,Contemporary Fiction,Based on Fiction Book/Short Story
+411,88 Minutes,2008,30000000,32955399,2955399,Thriller/Suspense,R,0.0,Contemporary Fiction,Original Screenplay
+422,Untraceable,2008,35000000,52649951,17649951,Thriller/Suspense,R,0.0,Contemporary Fiction,Original Screenplay
+426,21,2008,35000000,159846429,124846429,Thriller/Suspense,PG-13,0.0,Contemporary Fiction,Based on Fiction Book/Short Story
+441,Vantage Point,2008,40000000,150886329,110886329,Thriller/Suspense,PG-13,0.0,Contemporary Fiction,Original Screenplay
+454,Changeling,2008,55000000,113805580,58805580,Thriller/Suspense,R,0.0,Contemporary Fiction,Original Screenplay
+460,Righteous Kill,2008,60000000,78481410,18481410,Thriller/Suspense,R,0.0,Contemporary Fiction,Original Screenplay
+462,The Happening,2008,60000000,162778384,102778384,Thriller/Suspense,R,0.0,Science Fiction,Original Screenplay
+468,Body of Lies,2008,67500000,118556530,51056530,Thriller/Suspense,R,0.0,Contemporary Fiction,Based on Fiction Book/Short Story
+472,Eagle Eye,2008,80000000,180585259,100585259,Thriller/Suspense,PG-13,0.0,Contemporary Fiction,Original Screenplay
+479,Valkyrie,2008,90000000,203932174,113932174,Thriller/Suspense,PG-13,0.0,Dramatization,Based on Real Life Events
+510,The Fourth Kind,2009,10000000,49486874,39486874,Thriller/Suspense,PG-13,0.0,Historical Fiction,Original Screenplay
+524,Les herbes folles,2009,14000000,1903952,-12096048,Thriller/Suspense,PG,0.0,Contemporary Fiction,Based on Fiction Book/Short Story
+525,A Perfect Getaway,2009,14000000,22815460,8815460,Thriller/Suspense,R,0.0,Contemporary Fiction,Original Screenplay
+538,Jennifer's Body,2009,16000000,31943401,15943401,Thriller/Suspense,R,0.0,Fantasy,Original Screenplay
+544,Brooklyn's Finest,2009,17000000,39233233,22233233,Thriller/Suspense,R,0.0,Contemporary Fiction,Remake
+549,The Informers,2009,18000000,315000,-17685000,Thriller/Suspense,R,0.0,Historical Fiction,Based on Fiction Book/Short Story
+559,Crank 2: High Voltage,2009,20000000,35472739,15472739,Thriller/Suspense,R,1.0,Contemporary Fiction,Original Screenplay
+562,Armored,2009,20000000,23661038,3661038,Thriller/Suspense,PG-13,0.0,Contemporary Fiction,Original Screenplay
+570,Obsessed,2009,20000000,73964713,53964713,Thriller/Suspense,PG-13,0.0,Contemporary Fiction,Original Screenplay
+572,The Informant!,2009,22000000,41771168,19771168,Thriller/Suspense,R,0.0,Contemporary Fiction,Based on Factual Book/Article
+582,The Box,2009,25000000,26341896,1341896,Thriller/Suspense,PG-13,0.0,Fantasy,Based on Fiction Book/Short Story
+585,Taken,2009,25000000,226941585,201941585,Thriller/Suspense,PG-13,0.0,Contemporary Fiction,Original Screenplay
+596,District 9,2009,30000000,212453431,182453431,Thriller/Suspense,R,0.0,Science Fiction,Original Screenplay
+607,Whiteout,2009,35000000,12254746,-22745254,Thriller/Suspense,R,0.0,Contemporary Fiction,Based on Comic/Graphic Novel
+617,Push,2009,38000000,44411527,6411527,Thriller/Suspense,PG-13,0.0,Science Fiction,Original Screenplay
+637,Knowing,2009,50000000,186450317,136450317,Thriller/Suspense,PG-13,0.0,Contemporary Fiction,Based on Fiction Book/Short Story
+638,The International,2009,50000000,53850527,3850527,Thriller/Suspense,R,0.0,Contemporary Fiction,Original Screenplay
+646,From Paris With Love,2009,52000000,53139168,1139168,Thriller/Suspense,R,0.0,Contemporary Fiction,Original Screenplay
+647,Law Abiding Citizen,2009,53000000,131159781,78159781,Thriller/Suspense,R,0.0,Contemporary Fiction,Original Screenplay
+653,State of Play,2009,60000000,88832210,28832210,Thriller/Suspense,PG-13,0.0,Contemporary Fiction,Based on TV
+654,Duplicity,2009,60000000,81079566,21079566,Thriller/Suspense,PG-13,0.0,Contemporary Fiction,Original Screenplay
+668,Shutter Island,2009,80000000,299461782,219461782,Thriller/Suspense,R,0.0,Historical Fiction,Based on Fiction Book/Short Story
+685,Angels & Demons,2009,150000000,490875846,340875846,Thriller/Suspense,PG-13,1.0,Contemporary Fiction,Based on Fiction Book/Short Story
+708,The Reef,2010,10000000,15037867,5037867,Thriller/Suspense,R,0.0,Dramatization,Based on Real Life Events
+709,Skyline,2010,10000000,68264973,58264973,Thriller/Suspense,PG-13,0.0,Science Fiction,Original Screenplay
+716,Casino Jack,2010,12500000,2272186,-10227814,Thriller/Suspense,R,0.0,Historical Fiction,Based on Real Life Events
+719,Chloe,2010,13000000,11831131,-1168869,Thriller/Suspense,R,0.0,Contemporary Fiction,Remake
+723,Black Swan,2010,13000000,331266710,318266710,Thriller/Suspense,R,0.0,Contemporary Fiction,Original Screenplay
+737,The Roommate,2010,16000000,52545707,36545707,Thriller/Suspense,PG-13,0.0,Contemporary Fiction,Original Screenplay
+752,Let Me In,2010,20000000,28270399,8270399,Thriller/Suspense,R,0.0,Fantasy,Remake
+760,The American,2010,20000000,67950723,47950723,Thriller/Suspense,R,0.0,Contemporary Fiction,Original Screenplay
+762,The Debt,2010,20000000,46604054,26604054,Thriller/Suspense,R,0.0,Historical Fiction,Remake
+778,Straw Dogs,2010,25000000,11253821,-13746179,Thriller/Suspense,R,0.0,Contemporary Fiction,Remake
+791,Legion,2010,26000000,67647574,41647574,Thriller/Suspense,R,0.0,Fantasy,Original Screenplay
+793,Limitless,2010,27000000,155564919,128564919,Thriller/Suspense,PG-13,0.0,Science Fiction,Based on Fiction Book/Short Story
+798,The Next Three Days,2010,30000000,67255916,37255916,Thriller/Suspense,PG-13,0.0,Contemporary Fiction,Remake
+808,The Cabin in the Woods,2010,30000000,70689968,40689968,Thriller/Suspense,R,0.0,Fantasy,Original Screenplay
+812,Source Code,2010,32000000,140428499,108428499,Thriller/Suspense,PG-13,0.0,Science Fiction,Original Screenplay
+820,Abduction,2010,35000000,86648359,51648359,Thriller/Suspense,PG-13,0.0,Contemporary Fiction,Original Screenplay
+833,Season of the Witch,2010,40000000,91126600,51126600,Thriller/Suspense,PG-13,0.0,Fantasy,Original Screenplay
+836,The Lincoln Lawyer,2010,40000000,87145086,47145086,Thriller/Suspense,R,0.0,Contemporary Fiction,Based on Fiction Book/Short Story
+837,Unknown,2010,40000000,136123083,96123083,Thriller/Suspense,PG-13,0.0,Contemporary Fiction,Original Screenplay
+842,Red Riding Hood,2010,42000000,91678442,49678442,Thriller/Suspense,PG-13,0.0,Fantasy,Based on Folk Tale/Legend/Fairytale
+848,The Ghost Writer,2010,45000000,65532491,20532491,Thriller/Suspense,PG-13,0.0,Contemporary Fiction,Based on Fiction Book/Short Story
+857,Super 8,2010,50000000,257972745,207972745,Thriller/Suspense,PG-13,0.0,Science Fiction,Original Screenplay
+860,Hereafter,2010,50000000,105246941,55246941,Thriller/Suspense,PG-13,0.0,Contemporary Fiction,Original Screenplay
+862,The Adjustment Bureau,2010,50200000,126931325,76731325,Thriller/Suspense,PG-13,0.0,Science Fiction,Based on Fiction Book/Short Story
+896,The Tourist,2010,100000000,278731369,178731369,Thriller/Suspense,PG-13,0.0,Contemporary Fiction,Original Screenplay
+910,Salt,2010,130000000,290650494,160650494,Thriller/Suspense,PG-13,0.0,Contemporary Fiction,Original Screenplay
+915,Inception,2010,160000000,832402082,672402082,Thriller/Suspense,PG-13,0.0,Science Fiction,Original Screenplay
+935,Chronicle,2011,12000000,123681790,111681790,Thriller/Suspense,PG-13,0.0,Science Fiction,Original Screenplay
+938,Arbitrage,2011,12000000,35830713,23830713,Thriller/Suspense,R,0.0,Contemporary Fiction,Original Screenplay
+949,The Woman in Black,2011,15000000,128955898,113955898,Thriller/Suspense,PG-13,0.0,Fantasy,Based on Fiction Book/Short Story
+961,Red Lights,2011,17700000,14518884,-3181116,Thriller/Suspense,R,0.0,Contemporary Fiction,Original Screenplay
+966,Lockout,2011,20000000,33943049,13943049,Thriller/Suspense,PG-13,0.0,Science Fiction,Original Screenplay
+968,The Cold Light of Day,2011,20000000,25361206,5361206,Thriller/Suspense,PG-13,0.0,Contemporary Fiction,Original Screenplay
+970,Tinker Tailor Soldier Spy,2011,21000000,81452811,60452811,Thriller/Suspense,R,0.0,Historical Fiction,Based on Fiction Book/Short Story
+972,Haywire,2011,23000000,36374700,13374700,Thriller/Suspense,R,0.0,Contemporary Fiction,Original Screenplay
+978,The Grey,2011,25000000,81249176,56249176,Thriller/Suspense,R,0.0,Contemporary Fiction,Original Screenplay
+985,The Raven,2011,26000000,30601801,4601801,Thriller/Suspense,R,0.0,Historical Fiction,Original Screenplay
+988,Anonymous,2011,27500000,15815509,-11684491,Thriller/Suspense,PG-13,0.0,Historical Fiction,Original Screenplay
+1003,In Time,2011,35000000,165103952,130103952,Thriller/Suspense,PG-13,0.0,Science Fiction,Original Screenplay
+1006,Premium Rush,2011,35000000,31393201,-3606799,Thriller/Suspense,PG-13,0.0,Contemporary Fiction,Original Screenplay
+1007,Parker,2011,35000000,48543388,13543388,Thriller/Suspense,R,0.0,Contemporary Fiction,Based on Fiction Book/Short Story
+1009,Trespass,2011,35000000,786532,-34213468,Thriller/Suspense,R,0.0,Contemporary Fiction,Original Screenplay
+1019,Colombiana,2011,40000000,72295262,32295262,Thriller/Suspense,PG-13,0.0,Contemporary Fiction,Original Screenplay
+1025,Man on a Ledge,2011,42000000,45688337,3688337,Thriller/Suspense,PG-13,0.0,Contemporary Fiction,Original Screenplay
+1031,Taken 2,2011,45000000,377807404,332807404,Thriller/Suspense,PG-13,1.0,Contemporary Fiction,Original Screenplay
+1043,Contagion,2011,60000000,137551594,77551594,Thriller/Suspense,PG-13,0.0,Science Fiction,Original Screenplay
+1059,The Hunger Games,2011,80000000,677923379,597923379,Thriller/Suspense,PG-13,0.0,Science Fiction,Based on Fiction Book/Short Story
+1063,Safe House,2011,85000000,208542162,123542162,Thriller/Suspense,R,0.0,Contemporary Fiction,Original Screenplay
+1069,The Girl with the Dragon Tattoo,2011,90000000,239373970,149373970,Thriller/Suspense,R,0.0,Contemporary Fiction,Based on Fiction Book/Short Story
+1082,The Bourne Legacy,2011,125000000,280355920,155355920,Thriller/Suspense,PG-13,1.0,Contemporary Fiction,Based on Fiction Book/Short Story
+1122,The Paperboy,2012,12500000,3522153,-8977847,Thriller/Suspense,R,0.0,Historical Fiction,Based on Fiction Book/Short Story
+1127,End of Watch,2012,15000000,57586606,42586606,Thriller/Suspense,R,0.0,Contemporary Fiction,Original Screenplay
+1128,Killing Them Softly,2012,15000000,39238443,24238443,Thriller/Suspense,R,0.0,Contemporary Fiction,Based on Fiction Book/Short Story
+1129,Snitch,2012,15000000,57907734,42907734,Thriller/Suspense,PG-13,0.0,Contemporary Fiction,Original Screenplay
+1132,Trance,2012,16000000,22594052,6594052,Thriller/Suspense,R,0.0,Contemporary Fiction,Original Screenplay
+1135,Phantom,2012,18000000,1199510,-16800490,Thriller/Suspense,R,0.0,Historical Fiction,Original Screenplay
+1150,Side Effects,2012,30000000,66742138,36742138,Thriller/Suspense,R,0.0,Science Fiction,Original Screenplay
+1153,Dead Man Down,2012,30000000,19599974,-10400026,Thriller/Suspense,R,0.0,Contemporary Fiction,Original Screenplay
+1157,Broken City,2012,35000000,34480045,-519955,Thriller/Suspense,R,0.0,Contemporary Fiction,Original Screenplay
+1158,Alex Cross,2012,35000000,35426759,426759,Thriller/Suspense,PG-13,0.0,Contemporary Fiction,Based on Fiction Book/Short Story
+1162,Paranoia,2012,40000000,16340767,-23659233,Thriller/Suspense,PG-13,0.0,Contemporary Fiction,Original Screenplay
+1164,Argo,2012,44500000,227140757,182640757,Thriller/Suspense,R,0.0,Historical Fiction,Based on Factual Book/Article
+1165,Savages,2012,45000000,82513490,37513490,Thriller/Suspense,R,0.0,Contemporary Fiction,Based on Fiction Book/Short Story
+1168,The Host,2012,50000000,64477051,14477051,Thriller/Suspense,PG-13,0.0,Science Fiction,Based on Fiction Book/Short Story
+1170,Beautiful Creatures,2012,50000000,60282876,10282876,Thriller/Suspense,PG-13,0.0,Fantasy,Based on Fiction Book/Short Story
+1178,Escape Plan,2012,70000000,103735965,33735965,Thriller/Suspense,R,0.0,Contemporary Fiction,Original Screenplay
+1188,Gravity,2012,110000000,693698673,583698673,Thriller/Suspense,PG-13,0.0,Contemporary Fiction,Original Screenplay
+1189,Oblivion,2012,120000000,287916633,167916633,Thriller/Suspense,PG-13,0.0,Science Fiction,Based on Comic/Graphic Novel
+1216,The Last Days on Mars,2013,10600000,261364,-10338636,Thriller/Suspense,R,0.0,Science Fiction,Original Screenplay
+1223,The Call,2013,12800000,69821476,57021476,Thriller/Suspense,R,0.0,Contemporary Fiction,Original Screenplay
+1226,No Good Deed,2013,13200000,54323210,41123210,Thriller/Suspense,PG-13,0.0,Contemporary Fiction,Original Screenplay
+1227,Under the Skin,2013,13300000,7229933,-6070067,Thriller/Suspense,R,0.0,Science Fiction,Based on Fiction Book/Short Story
+1233,Zulu,2013,16000000,1844228,-14155772,Thriller/Suspense,R,0.0,Contemporary Fiction,Based on Fiction Book/Short Story
+1241,Getaway,2013,18000000,11813989,-6186011,Thriller/Suspense,PG-13,0.0,Contemporary Fiction,Original Screenplay
+1243,The Frozen Ground,2013,19200000,5617460,-13582540,Thriller/Suspense,R,0.0,Contemporary Fiction,Original Screenplay
+1252,Before I Go to Sleep,2013,22000000,19563579,-2436421,Thriller/Suspense,R,0.0,Contemporary Fiction,Based on Fiction Book/Short Story
+1257,Redemption,2013,23000000,13593473,-9406527,Thriller/Suspense,R,0.0,Contemporary Fiction,Original Screenplay
+1260,The Counselor,2013,25000000,71009334,46009334,Thriller/Suspense,R,0.0,Contemporary Fiction,Original Screenplay
+1264,3 Days to Kill,2013,28000000,38959900,10959900,Thriller/Suspense,PG-13,0.0,Contemporary Fiction,Original Screenplay
+1272,Runner Runner,2013,30000000,60512680,30512680,Thriller/Suspense,R,0.0,Contemporary Fiction,Original Screenplay
+1286,Snowpiercer,2013,40000000,88069880,48069880,Thriller/Suspense,R,0.0,Science Fiction,Based on Comic/Graphic Novel
+1290,Prisoners,2013,46000000,113402302,67402302,Thriller/Suspense,R,0.0,Contemporary Fiction,Original Screenplay
+1301,Olympus Has Fallen,2013,70000000,150562164,80562164,Thriller/Suspense,R,0.0,Contemporary Fiction,Original Screenplay
+1305,Now You See Me,2013,75000000,342769200,267769200,Thriller/Suspense,PG-13,0.0,Contemporary Fiction,Original Screenplay
+1325,White House Down,2013,150000000,205440387,55440387,Thriller/Suspense,PG-13,0.0,Contemporary Fiction,Original Screenplay
+1354,Ex Machina,2014,13000000,38358392,25358392,Thriller/Suspense,R,0.0,Science Fiction,Original Screenplay
+1361,The November Man,2014,15000000,34820335,19820335,Thriller/Suspense,R,0.0,Contemporary Fiction,Based on Fiction Book/Short Story
+1362,A Most Wanted Man,2014,15000000,36068890,21068890,Thriller/Suspense,R,0.0,Contemporary Fiction,Based on Fiction Book/Short Story
+1363,Autómata,2014,15000000,6775458,-8224542,Thriller/Suspense,R,0.0,Science Fiction,Original Screenplay
+1367,Left Behind,2014,16000000,20769209,4769209,Thriller/Suspense,PG-13,0.0,Science Fiction,Based on Fiction Book/Short Story
+1405,The Maze Runner,2014,34000000,348319861,314319861,Thriller/Suspense,PG-13,0.0,Science Fiction,Based on Fiction Book/Short Story
+1412,Victor Frankenstein,2014,40000000,32969209,-7030791,Thriller/Suspense,PG-13,0.0,Science Fiction,Based on Fiction Book/Short Story
+1425,Child 44,2014,50000000,8004221,-41995779,Thriller/Suspense,R,0.0,Contemporary Fiction,Based on Fiction Book/Short Story
+1428,Into the Storm,2014,50000000,150429371,100429371,Thriller/Suspense,PG-13,0.0,Contemporary Fiction,Original Screenplay
+1434,Gone Girl,2014,61000000,368567189,307567189,Thriller/Suspense,R,0.0,Contemporary Fiction,Based on Fiction Book/Short Story
+1441,Blackhat,2014,70000000,19665004,-50334996,Thriller/Suspense,R,0.0,Contemporary Fiction,Original Screenplay
+1451,Transcendence,2014,100000000,103039258,3039258,Thriller/Suspense,PG-13,0.0,Science Fiction,Original Screenplay
+1455,The Hunger Games: Mockingjay - Part 1,2014,125000000,766575131,641575131,Thriller/Suspense,PG-13,1.0,Science Fiction,Based on Fiction Book/Short Story
+1480,The Forest,2015,10000000,40749230,30749230,Thriller/Suspense,PG-13,0.0,Fantasy,Original Screenplay
+1481,When the Bough Breaks,2015,10000000,30768449,20768449,Thriller/Suspense,PG-13,0.0,Contemporary Fiction,Original Screenplay
+1484,Shut In,2015,10000000,11360665,1360665,Thriller/Suspense,R,0.0,Fantasy,Original Screenplay
+1487,Misconduct,2015,11000000,2352511,-8647489,Thriller/Suspense,R,0.0,Contemporary Fiction,Original Screenplay
+1498,Eye in the Sky,2015,13000000,35402802,22402802,Thriller/Suspense,R,0.0,Contemporary Fiction,Original Screenplay
+1517,The Perfect Guy,2015,18000000,60278166,42278166,Thriller/Suspense,PG-13,0.0,Contemporary Fiction,Original Screenplay
+1523,Regression,2015,20000000,15824374,-4175626,Thriller/Suspense,R,0.0,Contemporary Fiction,Original Screenplay
+1524,Triple 9,2015,20000000,25943792,5943792,Thriller/Suspense,R,0.0,Contemporary Fiction,Original Screenplay
+1527,Survivor,2015,20000000,1703281,-18296719,Thriller/Suspense,PG-13,0.0,Contemporary Fiction,Original Screenplay
+1528,Secret in Their Eyes,2015,20000000,32608019,12608019,Thriller/Suspense,PG-13,0.0,Contemporary Fiction,Remake
+1532,Kidnap,2015,21000000,34836080,13836080,Thriller/Suspense,R,0.0,Contemporary Fiction,Original Screenplay
+1540,Legend,2015,25000000,42425450,17425450,Thriller/Suspense,R,0.0,Dramatization,Based on Real Life Events
+1542,Self/Less,2015,26000000,33667319,7667319,Thriller/Suspense,PG-13,0.0,Science Fiction,Original Screenplay
+1550,Sicario,2015,30000000,84393749,54393749,Thriller/Suspense,R,0.0,Contemporary Fiction,Original Screenplay
+1574,The Gunman,2015,40000000,18594227,-21405773,Thriller/Suspense,R,0.0,Contemporary Fiction,Based on Fiction Book/Short Story
+1576,The Accountant,2015,40000000,152962083,112962083,Thriller/Suspense,R,0.0,Contemporary Fiction,Original Screenplay
+1577,Bridge of Spies,2015,40000000,162498338,122498338,Thriller/Suspense,PG-13,0.0,Historical Fiction,Original Screenplay
+1601,Maze Runner: The Scorch Trials,2015,61000000,310566162,249566162,Thriller/Suspense,PG-13,1.0,Science Fiction,Based on Fiction Book/Short Story
+1603,Everest,2015,65000000,221297061,156297061,Thriller/Suspense,PG-13,0.0,Dramatization,Based on Real Life Events
+1616,The Martian,2015,108000000,655271443,547271443,Thriller/Suspense,PG-13,0.0,Science Fiction,Based on Fiction Book/Short Story
+1632,The Hunger Games: Mockingjay - Part 2,2015,160000000,648986787,488986787,Thriller/Suspense,PG-13,1.0,Science Fiction,Based on Fiction Book/Short Story
+1654,Unforgettable,2016,12000000,16221211,4221211,Thriller/Suspense,R,0.0,Contemporary Fiction,Original Screenplay
+1664,The Circle,2016,18000000,40651864,22651864,Thriller/Suspense,PG-13,0.0,Science Fiction,Based on Fiction Book/Short Story
+1675,Nerve,2016,20000000,70652284,50652284,Thriller/Suspense,PG-13,0.0,Contemporary Fiction,Based on Fiction Book/Short Story
+1681,Nocturnal Animals,2016,22500000,32398681,9898681,Thriller/Suspense,R,0.0,Contemporary Fiction,Based on Fiction Book/Short Story
+1692,Money Monster,2016,27000000,93466095,66466095,Thriller/Suspense,R,0.0,Contemporary Fiction,Original Screenplay
+1708,Patriots Day,2016,40000000,52837989,12837989,Thriller/Suspense,R,0.0,Dramatization,Based on Real Life Events
+1718,The Girl on the Train,2016,45000000,174278214,129278214,Thriller/Suspense,R,0.0,Contemporary Fiction,Based on Fiction Book/Short Story
+1722,The Infiltrator,2016,47500000,20718104,-26781896,Thriller/Suspense,R,0.0,Dramatization,Based on Factual Book/Article
+1726,Life,2016,58000000,100929666,42929666,Thriller/Suspense,R,0.0,Science Fiction,Original Screenplay
+1732,American Assassin,2016,63000000,68310140,5310140,Thriller/Suspense,R,0.0,Contemporary Fiction,Based on Fiction Book/Short Story
+1734,The Finest Hours,2016,70000000,49252761,-20747239,Thriller/Suspense,PG,0.0,Dramatization,Based on Real Life Events
+1737,Inferno,2016,75000000,219519367,144519367,Thriller/Suspense,PG-13,1.0,Contemporary Fiction,Based on Fiction Book/Short Story
+1745,Now You See Me 2,2016,90000000,328325007,238325007,Thriller/Suspense,PG-13,1.0,Contemporary Fiction,Original Screenplay
+1752,Passengers,2016,110000000,302239672,192239672,Thriller/Suspense,PG-13,0.0,Science Fiction,Original Screenplay
+1792,BlacKkKlansman,2017,15000000,90257450,75257450,Thriller/Suspense,R,0.0,Dramatization,Based on Factual Book/Article
+1793,Hotel Artemis,2017,15000000,12758799,-2241201,Thriller/Suspense,R,0.0,Science Fiction,Original Screenplay
+1798,Flatliners,2017,20000000,45173738,25173738,Thriller/Suspense,PG-13,1.0,Science Fiction,Original Screenplay
+1800,Acrimony,2017,20000000,46627836,26627836,Thriller/Suspense,R,0.0,Contemporary Fiction,Original Screenplay
+1802,A Simple Favor,2017,20000000,97174917,77174917,Thriller/Suspense,R,0.0,Contemporary Fiction,Based on Fiction Book/Short Story
+1803,Jìyì dàshī,2017,20000000,43888531,23888531,Thriller/Suspense,Not Rated,0.0,Contemporary Fiction,Original Screenplay
+1819,mother!,2017,30000000,42531076,12531076,Thriller/Suspense,R,0.0,Contemporary Fiction,Original Screenplay
+1821,Atomic Blonde,2017,30000000,98345423,68345423,Thriller/Suspense,R,0.0,Historical Fiction,Based on Comic/Graphic Novel
+1831,Baby Driver,2017,34000000,228104185,194104185,Thriller/Suspense,R,0.0,Contemporary Fiction,Original Screenplay
+1835,The Snowman,2017,35000000,43226146,8226146,Thriller/Suspense,R,0.0,Contemporary Fiction,Based on Fiction Book/Short Story
+1845,The Hurricane Heist,2017,40000000,30963684,-9036316,Thriller/Suspense,PG-13,0.0,Contemporary Fiction,Original Screenplay
+1847,The Girl in the Spider’s Web,2017,43000000,34979704,-8020296,Thriller/Suspense,R,0.0,Contemporary Fiction,Based on Fiction Book/Short Story
+1849,American Made,2017,50000000,135569212,85569212,Thriller/Suspense,R,0.0,Dramatization,Based on Real Life Events
+1855,Annihilation,2017,55000000,43070915,-11929085,Thriller/Suspense,R,0.0,Science Fiction,Based on Fiction Book/Short Story
+1860,Maze Runner: The Death Cure,2017,61000000,265878536,204878536,Thriller/Suspense,PG-13,1.0,Science Fiction,Based on Fiction Book/Short Story
+1863,Red Sparrow,2017,69000000,145951861,76951861,Thriller/Suspense,R,0.0,Contemporary Fiction,Based on Fiction Book/Short Story
+1889,Blade Runner 2049,2017,185000000,259357408,74357408,Thriller/Suspense,R,1.0,Science Fiction,Based on Fiction Book/Short Story
+1903,Glass,2018,20000000,244036195,224036195,Thriller/Suspense,PG-13,1.0,Contemporary Fiction,Original Screenplay
+1904,Serenity,2018,25000000,10842268,-14157732,Thriller/Suspense,R,0.0,Contemporary Fiction,Original Screenplay
+1909,Bad Times at the El Royale,2018,32000000,29204379,-2795621,Thriller/Suspense,R,0.0,Historical Fiction,Original Screenplay
+1912,Widows,2018,40000000,73866088,33866088,Thriller/Suspense,R,0.0,Contemporary Fiction,Based on TV
